@@ -1,10 +1,10 @@
 package com.techpakka.eerattupetta;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.RecyclerView;
@@ -22,6 +22,7 @@ import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 import com.techpakka.eerattupetta.Model.Data;
+import com.techpakka.eerattupetta.customviews.CategorySelectView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,17 +33,8 @@ public class SecondHandActivity extends AppCompatActivity {
     private ProgressBar progress;
     private Adapter adapter;
     private FloatingActionButton fab;
-    private String price;
-    private String description;
-    private String image;
-    private String email;
-    private ImageView img_house;
-    private ImageView img_electronics;
-    private ImageView img_mobile;
-    private ImageView img_car,img_motor;
-    private ImageView img_furniture;
     private RecyclerView recyclerView;
-    public static ArrayList<Data> list;
+    public ArrayList<Data> list = new ArrayList<>();
     public static Data data;
 
     @Override
@@ -61,63 +53,9 @@ public class SecondHandActivity extends AppCompatActivity {
         });
         progress = findViewById(R.id.progress);
         progress.setVisibility(View.VISIBLE);
-        img_house = findViewById(R.id.img_house);
-        img_electronics = findViewById(R.id.img_electronics);
-        img_car = findViewById(R.id.img_car);
-        img_motor = findViewById(R.id.img_motor);
-        img_mobile = findViewById(R.id.img_mobile);
-        img_furniture = findViewById(R.id.img_furniture);
-        img_house.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("House"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
-        img_furniture.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("Furniture"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
-        img_mobile.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("Mobile"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
-        img_electronics.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("Electronics"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
-        img_car.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("Car"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
 
-        img_motor.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                progress.setVisibility(View.VISIBLE);
-                adapter = new Adapter(getData("Motor"));
-                recyclerView.setAdapter(adapter);
-            }
-        });
 
-        adapter = new Adapter(getData("House"));
+        adapter = new Adapter(list);
         recyclerView = findViewById(R.id.recyclerView);
         StaggeredGridLayoutManager _sGridLayoutManager = new StaggeredGridLayoutManager(2,
                 StaggeredGridLayoutManager.VERTICAL);
@@ -126,10 +64,19 @@ public class SecondHandActivity extends AppCompatActivity {
         recyclerView.addItemDecoration(itemDecoration);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(adapter);
+        CategorySelectView categorySelectView = findViewById(R.id.categorySelectView);
+        categorySelectView.setOnCategoryClickListener(new CategorySelectView.categoryItemSelectedListener() {
+            @Override
+            public void onCategorySelected(String categoryName) {
+                getData(categoryName);
+            }
+        });
     }
 
     private List<Data> getData(String category) {
-        list = new ArrayList<>();
+        progress.setVisibility(View.VISIBLE);
+        list.clear();
+        adapter.notifyDataSetChanged();
         db.collection(category).orderBy("date", Query.Direction.ASCENDING)
                 .get()
                 .addOnCompleteListener(task -> {
@@ -183,7 +130,6 @@ public class SecondHandActivity extends AppCompatActivity {
                 public void onClick(View view) {
                     data = List.get(i);
                     Intent intent = new Intent(SecondHandActivity.this,SecondDetailActivity.class);
-                    intent.putExtra("email",email);
                     intent.putExtra("price", data.getPrice());
                     intent.putExtra("description", data.getSecond_description());
                     intent.putExtra("mobile", data.getMobile());

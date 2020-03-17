@@ -6,9 +6,9 @@ android {
         applicationId "com.techpakka.eerattupetta"
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode 5
+        versionCode 10
         multiDexEnabled true
-        versionName "1.4"
+        versionName "1.9"
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

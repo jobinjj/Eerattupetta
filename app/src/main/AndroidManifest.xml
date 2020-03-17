@@ -13,9 +13,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MarriageBeaurauActivity"
-            android:theme="@style/NoActionBar"
-            android:parentActivityName=".HomeActivity"></activity>
+        <activity
+            android:name=".MarriageBeaurauActivity"
+            android:parentActivityName=".HomeActivity"
+            android:theme="@style/NoActionBar" />
         <activity android:name=".HomeActivity" />
         <activity
             android:name=".VarthaActivity"
@@ -33,7 +34,7 @@
         </activity>
         <activity
             android:name=".RegisterActivity"
-            android:theme="@style/NoActionBar"></activity>
+            android:theme="@style/NoActionBar" />
         <activity
             android:name=".SplashActivity"
             android:theme="@style/NoActionBar">
@@ -42,6 +43,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".CustomViewTest"
+            android:label="CustomViewTest">
+
         </activity>
         <activity
             android:name=".SecondHandActivity"
@@ -74,7 +80,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".HomeActivity" />
         </activity>
-        <activity android:name=".TrollActivtiy"
+        <activity
+            android:name=".TrollActivtiy"
             android:label="Trolls">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

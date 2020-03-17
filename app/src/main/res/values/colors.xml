@@ -45,4 +45,6 @@
     <color name="round_progress_blue">#2173B9</color>
     <color name="danger">#ff0004</color>
     <color name="notdanger">#000000</color>
+
+    <color name="category_selected">#dedede</color>
 </resources>
