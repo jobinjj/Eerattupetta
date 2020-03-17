@@ -1,0 +1,53 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.techpakka.whatsappstickerspack",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "pandipada",
+      "name": "pandipada",
+      "publisher": "Techpakka",
+      "tray_image_file": "pandi_01.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "pandi_01.webp"
+        },{
+          "image_file": "pandi_02.webp"
+        },{
+          "image_file": "pandi_03.webp"
+        },{
+          "image_file": "pandi_04.webp"
+        },{
+          "image_file": "pandi_05.webp"
+        },{
+          "image_file": "pandi_06.webp"
+        },{
+          "image_file": "pandi_07.webp"
+        },{
+          "image_file": "pandi_08.webp"
+        },{
+          "image_file": "pandi_09.webp"
+        },{
+          "image_file": "pandi_10.webp"
+        },{
+          "image_file": "pandi_11.webp"
+        },{
+          "image_file": "pandi_12.webp"
+        },{
+          "image_file": "pandi_13.webp"
+        },{
+          "image_file": "pandi_14.webp"
+        },{
+          "image_file": "pandi_15.webp"
+        },{
+          "image_file": "pandi_16.webp"
+        }
+      ]
+    }
+
+  ]
+}

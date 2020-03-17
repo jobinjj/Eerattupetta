@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondHandActivity">
+
+    <!--<HorizontalScrollView-->
+    <!--android:id="@+id/horizontalScrollView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="62dp"-->
+    <!--app:layout_constraintBottom_toTopOf="@+id/recyclerView"-->
+    <!--app:layout_constraintEnd_toEndOf="parent"-->
+    <!--app:layout_constraintHorizontal_bias="0.0"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toTopOf="parent"-->
+    <!--app:layout_constraintVertical_bias="0.0">-->
+    <LinearLayout
+        android:id="@+id/linearLayout_text"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_marginTop="54dp"
+        android:orientation="horizontal"
+        android:weightSum="6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txt_house"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="House"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txt_furniture"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Furniture"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txt_car"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Car"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txt_electronics"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Electronics"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txt_mobile"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Mobile"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        <TextView
+            android:id="@+id/txt_motor"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Bike"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_image"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:orientation="horizontal"
+        android:weightSum="6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/img_house"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="10dp"
+            app:srcCompat="@drawable/ic_house" />
+
+        <ImageView
+            android:id="@+id/img_furniture"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="4dp"
+            app:srcCompat="@drawable/ic_sofa" />
+
+        <ImageView
+            android:id="@+id/img_car"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="8dp"
+            app:srcCompat="@drawable/ic_car" />
+
+        <ImageView
+            android:id="@+id/img_electronics"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="8dp"
+            app:srcCompat="@drawable/ic_responsive" />
+
+        <ImageView
+            android:id="@+id/img_mobile"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="8dp"
+            app:srcCompat="@drawable/ic_smartphone" />
+
+        <ImageView
+            android:id="@+id/img_motor"
+            android:layout_width="0dp"
+            android:layout_height="57dp"
+            android:layout_weight="1"
+            android:padding="8dp"
+            app:srcCompat="@drawable/ic_motor_sports" />
+
+    </LinearLayout>
+
+    <!--</HorizontalScrollView>-->
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:clipToPadding="false"
+        android:padding="@dimen/item_offset"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_text">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/ic_add_white_24dp" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

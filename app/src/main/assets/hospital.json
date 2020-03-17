@@ -1,0 +1,347 @@
+{
+  "hospital": [
+    {
+      "id": "1",
+      "name_english": "001 A A RIMS Hospital",
+      "name_malayalam": "റിംസ് ",
+      "place": "കടുവമുഴി, ഈരാറ്റുപേട്ട",
+      "phone": "04822300300",
+      "created_at": "2018-06-26 16:30:21",
+      "updated_at": "2018-09-23 21:52:50"
+    },
+    {
+      "id": "2",
+      "name_english": "002 PMC Hospital",
+      "name_malayalam": "പി.എം.സി ഹോസ്പിറ്റൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822274636",
+      "created_at": "2018-06-26 16:30:46",
+      "updated_at": "2018-09-23 21:52:58"
+    },
+    {
+      "id": "15",
+      "name_english": "003 A. Rims ",
+      "name_malayalam": "റിംസ് ഹോസ്പിറ്റൽ - 2",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822202200",
+      "created_at": "2018-08-28 06:12:38",
+      "updated_at": "2018-09-23 21:53:27"
+    },
+    {
+      "id": "4",
+      "name_english": "004 A.Family Health Center -Erattupetta",
+      "name_malayalam": "ഫാമിലി ഹെൽത്ത് സെന്റർ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822277425",
+      "created_at": "2018-06-26 16:32:03",
+      "updated_at": "2018-09-23 21:59:16"
+    },
+    {
+      "id": "34",
+      "name_english": "004 A.Govt erattupetta",
+      "name_malayalam": "ഗവണ്മെന്റ് ഹോസ്പിറ്റൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822277425",
+      "created_at": "2018-08-28 06:40:56",
+      "updated_at": "2018-09-23 21:54:30"
+    },
+    {
+      "id": "7",
+      "name_english": "005 A. D.E Nursing Home",
+      "name_malayalam": "ഡി ഇ നേഴ്‌സിങ് ഹോം",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272512",
+      "created_at": "2018-06-26 16:56:02",
+      "updated_at": "2018-09-23 21:53:44"
+    },
+    {
+      "id": "38",
+      "name_english": "005 saham clinic",
+      "name_malayalam": "സഹം ക്ലിനിക് - ഡോ. ആരിഫ്‌",
+      "place": "എം.ഇ.എസ് ജംഗ്ഷൻ",
+      "phone": "9495255111",
+      "created_at": "2018-11-03 21:27:26",
+      "updated_at": "2018-11-03 21:27:26"
+    },
+    {
+      "id": "3",
+      "name_english": "007 A.Medicare Hospital",
+      "name_malayalam": "മെഡികെയർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272485",
+      "created_at": "2018-06-26 16:31:13",
+      "updated_at": "2018-09-23 21:54:43"
+    },
+    {
+      "id": "16",
+      "name_english": "009 A.thekkekara ",
+      "name_malayalam": "തെക്കേക്കര ഹോസ്പിറ്റൽ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "04822272268",
+      "created_at": "2018-08-28 06:15:30",
+      "updated_at": "2018-09-23 21:54:56"
+    },
+    {
+      "id": "37",
+      "name_english": "020 AbDr. naseer",
+      "name_malayalam": "ഡോ. നസീർ ബിസ്മി ക്ലിനിക്ക്",
+      "place": "നടക്കൽ",
+      "phone": "9745464243",
+      "created_at": "2018-09-17 11:05:39",
+      "updated_at": "2018-09-23 21:55:56"
+    },
+    {
+      "id": "6",
+      "name_english": "022 Mundamattam Migraine Clinic",
+      "name_malayalam": "മുണ്ടമറ്റം മൈഗ്രൈൻ ക്ലിനിക്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9946914764",
+      "created_at": "2018-06-26 16:36:47",
+      "updated_at": "2018-09-23 21:56:46"
+    },
+    {
+      "id": "10",
+      "name_english": "024 P.S.K Ayurvedic Hospital and Dental Clinic",
+      "name_malayalam": "പി.എസ്.കെ ആർവേദിക് ആൻഡ് ഡെന്റൽ ക്ലിനിക്ക്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272051",
+      "created_at": "2018-06-26 16:59:19",
+      "updated_at": "2018-09-23 21:57:01"
+    },
+    {
+      "id": "5",
+      "name_english": "026 Rishi Ayurveda Hospital & Research Centre",
+      "name_malayalam": "ഋഷി ആയുർവേദിക്ക് ഹോസ്പിറ്റൽ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9037776000",
+      "created_at": "2018-06-26 16:36:16",
+      "updated_at": "2018-09-23 21:57:15"
+    },
+    {
+      "id": "8",
+      "name_english": "028 Smile Care Dental Clinic",
+      "name_malayalam": "സ്‌മൈൽ കെയർ ഡെന്റൽ ക്ലിനിക്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822276333",
+      "created_at": "2018-06-26 16:56:43",
+      "updated_at": "2018-09-23 21:57:29"
+    },
+    {
+      "id": "9",
+      "name_english": "030 A Villamthanam's Homoeopathy Hospital",
+      "name_malayalam": "വില്യംതാനം ഹോമിയോ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447571968",
+      "created_at": "2018-06-26 16:58:29",
+      "updated_at": "2018-09-23 21:58:28"
+    },
+    {
+      "id": "33",
+      "name_english": "050 Thaluk ",
+      "name_malayalam": "താലൂക്ക് ഹോസ്പിറ്റൽ",
+      "place": "കാഞ്ഞിരപ്പള്ളി",
+      "phone": "04828202292",
+      "created_at": "2018-08-28 06:39:29",
+      "updated_at": "2018-09-23 22:05:21"
+    },
+    {
+      "id": "12",
+      "name_english": "101 GV Raja PHC Poonjar",
+      "name_malayalam": "ജി വി രാജാ പി എച് സി ",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "04822273638",
+      "created_at": "2018-06-26 17:05:55",
+      "updated_at": "2018-09-23 22:01:26"
+    },
+    {
+      "id": "11",
+      "name_english": "102 Gejo Hospital",
+      "name_malayalam": "ജിജോ ഹോസ്പിറ്റൽ",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "04822272530",
+      "created_at": "2018-06-26 17:05:09",
+      "updated_at": "2018-09-23 22:01:17"
+    },
+    {
+      "id": "13",
+      "name_english": "120 Alphonsa Dental Clinic Poonjar",
+      "name_malayalam": "അൽഫോൻസാ ദന്തൽ ക്ലിനിക്ക്",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "09446275411",
+      "created_at": "2018-06-26 17:07:00",
+      "updated_at": "2018-09-23 22:05:37"
+    },
+    {
+      "id": "32",
+      "name_english": "200 Thaluk hospital",
+      "name_malayalam": "താലൂക്ക് ഹോസ്പിറ്റൽ",
+      "place": "പാലാ",
+      "phone": "04822212302",
+      "created_at": "2018-08-28 06:38:43",
+      "updated_at": "2018-09-23 22:05:00"
+    },
+    {
+      "id": "14",
+      "name_english": "202 IHM Hospital Marygiri",
+      "name_malayalam": "ഐ എച് എം ഹോസ്പിറ്റൽ മേരിഗിരി",
+      "place": "ഭരണങ്ങാനം",
+      "phone": "04822237367",
+      "created_at": "2018-06-26 19:14:04",
+      "updated_at": "2018-09-23 22:06:40"
+    },
+    {
+      "id": "18",
+      "name_english": "203 CArmal",
+      "name_malayalam": "കാർമൽ മെഡിക്കൽ സെന്റർ ",
+      "place": "പാലാ ",
+      "phone": "04822212785",
+      "created_at": "2018-08-28 06:18:14",
+      "updated_at": "2018-09-23 22:06:53"
+    },
+    {
+      "id": "17",
+      "name_english": "205 Janatha",
+      "name_malayalam": "ജനത ചിൽഡ്രൻസ് ഹോസ്പിറ്റൽ",
+      "place": "പാലാ",
+      "phone": "04822212132",
+      "created_at": "2018-08-28 06:17:10",
+      "updated_at": "2018-09-23 22:02:14"
+    },
+    {
+      "id": "19",
+      "name_english": "209 Marian",
+      "name_malayalam": "മരിയൻ മെഡിക്കൽ സെന്റർ",
+      "place": "പാലാ",
+      "phone": "04822214219",
+      "created_at": "2018-08-28 06:19:31",
+      "updated_at": "2018-09-23 22:03:54"
+    },
+    {
+      "id": "36",
+      "name_english": "301 Al Azhar medical college & super speciality ho",
+      "name_malayalam": "അല്‍ അസ്ഹർ ഹോസ്പിറ്റൽ",
+      "place": "  തൊടുപുഴ ",
+      "phone": " 04862223000",
+      "created_at": "2018-09-16 08:01:37",
+      "updated_at": "2018-09-23 21:59:41"
+    },
+    {
+      "id": "26",
+      "name_english": "302 Chazhikadan",
+      "name_malayalam": "ചാഴികാടൻ ഹോസ്പിറ്റൽ",
+      "place": "തൊടുപുഴ",
+      "phone": "04862300300",
+      "created_at": "2018-08-28 06:28:19",
+      "updated_at": "2018-09-23 21:59:53"
+    },
+    {
+      "id": "27",
+      "name_english": "308 St merys",
+      "name_malayalam": "സെന്റ് മേരീസ് ഹോസ്പിറ്റൽ",
+      "place": "തൊടുപുഴ",
+      "phone": "04862222525",
+      "created_at": "2018-08-28 06:29:46",
+      "updated_at": "2018-09-23 22:04:50"
+    },
+    {
+      "id": "31",
+      "name_english": "400 Dist hospital",
+      "name_malayalam": "ഡിസ്ട്രിക്ട് ഹോസ്പിറ്റൽ ",
+      "place": "കോട്ടയം",
+      "phone": "04812563611",
+      "created_at": "2018-08-28 06:36:32",
+      "updated_at": "2018-09-23 22:01:09"
+    },
+    {
+      "id": "35",
+      "name_english": "400 Medical college",
+      "name_malayalam": "മെഡിക്കൽ കോളേജ് ",
+      "place": "കോട്ടയം",
+      "phone": "04812597310",
+      "created_at": "2018-08-28 06:49:53",
+      "updated_at": "2018-09-23 22:04:17"
+    },
+    {
+      "id": "20",
+      "name_english": "401 Carithas",
+      "name_malayalam": "കാരിത്താസ് ഹോസ്പിറ്റൽ",
+      "place": "കോട്ടയം",
+      "phone": "04812790025",
+      "created_at": "2018-08-28 06:20:43",
+      "updated_at": "2018-09-23 22:00:20"
+    },
+    {
+      "id": "23",
+      "name_english": "405 Bharath",
+      "name_malayalam": "ഭാരത് ഹോസ്പിറ്റൽ",
+      "place": "കോട്ടയം",
+      "phone": "9744711000",
+      "created_at": "2018-08-28 06:25:15",
+      "updated_at": "2018-09-23 22:07:13"
+    },
+    {
+      "id": "25",
+      "name_english": "406 Kims",
+      "name_malayalam": "കിംസ് ഹോസ്പിറ്റൽ",
+      "place": "കോട്ടയം",
+      "phone": "04816611000",
+      "created_at": "2018-08-28 06:26:57",
+      "updated_at": "2018-09-23 22:02:24"
+    },
+    {
+      "id": "21",
+      "name_english": "410 Matha",
+      "name_malayalam": "മാതാ ഹോസ്പിറ്റൽ",
+      "place": "തെള്ളകം, കോട്ടയം",
+      "phone": "04812790920",
+      "created_at": "2018-08-28 06:22:05",
+      "updated_at": "2018-09-23 22:04:06"
+    },
+    {
+      "id": "24",
+      "name_english": "430 Indo",
+      "name_malayalam": "ഇൻഡോ അമേരിക്കൻ ഹോസ്പിറ്റൽ",
+      "place": "വൈക്കം",
+      "phone": "04829273281",
+      "created_at": "2018-08-28 06:26:18",
+      "updated_at": "2018-09-23 22:02:02"
+    },
+    {
+      "id": "22",
+      "name_english": "430 Llm",
+      "name_malayalam": "എൽ എൽ എം",
+      "place": "കിടങ്ങൂർ ",
+      "phone": "04822255845",
+      "created_at": "2018-08-28 06:23:54",
+      "updated_at": "2018-09-23 22:03:43"
+    },
+    {
+      "id": "29",
+      "name_english": "500 AMrtha",
+      "name_malayalam": "അമൃത ഹോസ്പിറ്റൽ",
+      "place": "എറണാകുളം",
+      "phone": "04842801234",
+      "created_at": "2018-08-28 06:31:59",
+      "updated_at": "2018-09-23 22:00:43"
+    },
+    {
+      "id": "30",
+      "name_english": "501 Lekshore",
+      "name_malayalam": "ലേക്‌ഷോർ",
+      "place": "എറണാകുളം",
+      "phone": "04842701032",
+      "created_at": "2018-08-28 06:33:49",
+      "updated_at": "2018-09-23 22:03:21"
+    },
+    {
+      "id": "28",
+      "name_english": "700 Rcc",
+      "name_malayalam": "റീജനൽ ക്യാൻസർ സെന്റർ (RCC)",
+      "place": "തിരുവനന്തപുരം",
+      "phone": "04712443128",
+      "created_at": "2018-08-28 06:31:07",
+      "updated_at": "2018-09-23 22:05:49"
+    }
+  ]
+
+}

@@ -1,0 +1,238 @@
+{
+  "media": [
+    {
+      "id": "2",
+      "name_english": "001 Malayala Manorama",
+      "name_malayalam": "മലയാള മനോരമ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9495701408",
+      "created_at": "2018-07-17 18:27:12",
+      "updated_at": "2018-09-23 22:09:49"
+    },
+    {
+      "id": "1",
+      "name_english": "002 Madhyamam",
+      "name_malayalam": "മാധ്യമം",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "94475 99634",
+      "created_at": "2018-07-17 18:24:35",
+      "updated_at": "2018-09-23 22:09:41"
+    },
+    {
+      "id": "21",
+      "name_english": "004 MANgalam",
+      "name_malayalam": "മംഗളം ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447056716",
+      "created_at": "2018-08-23 17:17:15",
+      "updated_at": "2018-09-23 22:10:00"
+    },
+    {
+      "id": "3",
+      "name_english": "004 Mathrubhoomi",
+      "name_malayalam": "മാതൃഭൂമി",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9946555306",
+      "created_at": "2018-07-17 18:29:25",
+      "updated_at": "2018-09-23 22:10:07"
+    },
+    {
+      "id": "4",
+      "name_english": "004 Suprabhatham",
+      "name_malayalam": "സുപ്രഭാതം",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961142988",
+      "created_at": "2018-07-17 18:30:27",
+      "updated_at": "2018-09-23 22:11:41"
+    },
+    {
+      "id": "9",
+      "name_english": "005 Chandrika",
+      "name_malayalam": "ചന്ദ്രിക",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961142988",
+      "created_at": "2018-07-17 18:35:22",
+      "updated_at": "2018-09-23 22:08:49"
+    },
+    {
+      "id": "8",
+      "name_english": "005 Thejas",
+      "name_malayalam": "തേജസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9037119920",
+      "created_at": "2018-07-17 18:33:53",
+      "updated_at": "2018-09-23 22:11:48"
+    },
+    {
+      "id": "5",
+      "name_english": "006 Deshabhimani",
+      "name_malayalam": "ദേശാഭിമാനി",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847600511",
+      "created_at": "2018-07-17 18:31:23",
+      "updated_at": "2018-09-23 22:09:07"
+    },
+    {
+      "id": "7",
+      "name_english": "007 Deepika",
+      "name_malayalam": "ദീപിക",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961478348",
+      "created_at": "2018-07-17 18:33:08",
+      "updated_at": "2018-09-23 22:08:58"
+    },
+    {
+      "id": "11",
+      "name_english": "007 Kerala Koumudi",
+      "name_malayalam": "കേരള കൗമുദി",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "7012608168",
+      "created_at": "2018-07-17 19:33:46",
+      "updated_at": "2018-09-23 22:09:30"
+    },
+    {
+      "id": "23",
+      "name_english": "011 nassar alumthara janaugam",
+      "name_malayalam": "ജനയുഗം ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "8086862004",
+      "created_at": "2018-09-15 15:00:16",
+      "updated_at": "2018-09-23 22:10:34"
+    },
+    {
+      "id": "6",
+      "name_english": "020 Drishya news",
+      "name_malayalam": "ദൃശ്യ ന്യൂസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447897635",
+      "created_at": "2018-07-17 18:32:21",
+      "updated_at": "2018-09-23 22:09:20"
+    },
+    {
+      "id": "14",
+      "name_english": "020 Sgc",
+      "name_malayalam": "എസ്.ജി.സി",
+      "place": "അരുവിത്തുറ",
+      "phone": "9947275250",
+      "created_at": "2018-08-23 17:09:29",
+      "updated_at": "2018-09-23 22:10:55"
+    },
+    {
+      "id": "25",
+      "name_english": "022 STARVISION CHANNEL",
+      "name_malayalam": "സ്റ്റാര്‍ വിഷന്‍ ചാനല്‍",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9048749473",
+      "created_at": "2018-09-17 13:22:36",
+      "updated_at": "2018-09-23 22:11:03"
+    },
+    {
+      "id": "22",
+      "name_english": "022 Verzent",
+      "name_malayalam": "വെർസെന്റ് മീഡിയ ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": " 9447143205",
+      "created_at": "2018-09-15 13:33:34",
+      "updated_at": "2018-09-23 22:11:59"
+    },
+    {
+      "id": "24",
+      "name_english": "200 meenachilnews",
+      "name_malayalam": "മീനച്ചില്‍ ന്യൂസ്‌ ",
+      "place": "പാല ",
+      "phone": "7902412694",
+      "created_at": "2018-09-15 21:48:32",
+      "updated_at": "2018-09-23 22:10:21"
+    },
+    {
+      "id": "26",
+      "name_english": "202 STARVISION CHANNEL",
+      "name_malayalam": "സ്റ്റാര്‍ വിഷന്‍ ചാനല്‍",
+      "place": "പാല ",
+      "phone": "8086677704 ",
+      "created_at": "2018-09-17 13:23:41",
+      "updated_at": "2018-09-23 22:13:17"
+    },
+    {
+      "id": "17",
+      "name_english": "300 Asianet",
+      "name_malayalam": "ഏഷ്യനെറ്റ് ന്യൂസ് ",
+      "place": "കോട്ടയം",
+      "phone": "04812569910",
+      "created_at": "2018-08-23 17:12:43",
+      "updated_at": "2018-09-23 22:12:12"
+    },
+    {
+      "id": "27",
+      "name_english": "300 Media One",
+      "name_malayalam": "മീഡിയ വൺ ",
+      "place": "കോട്ടയം",
+      "phone": "94475 17139",
+      "created_at": "2018-09-23 22:16:27",
+      "updated_at": "2018-09-23 22:16:41"
+    },
+    {
+      "id": "20",
+      "name_english": "300 Press club",
+      "name_malayalam": "പ്രസ് ക്ലബ്ബ് ",
+      "place": "കോട്ടയം",
+      "phone": "04812568877",
+      "created_at": "2018-08-23 17:16:10",
+      "updated_at": "2018-09-23 22:12:54"
+    },
+    {
+      "id": "18",
+      "name_english": "301 KAIrali",
+      "name_malayalam": "കൈരളി ",
+      "place": "കോട്ടയം",
+      "phone": "04812566501",
+      "created_at": "2018-08-23 17:13:44",
+      "updated_at": "2018-09-23 22:12:21"
+    },
+    {
+      "id": "19",
+      "name_english": "302 Mathurbhumi",
+      "name_malayalam": "മാതൃഭൂമി ന്യൂസ്",
+      "place": "കോട്ടയം",
+      "phone": "04812568055",
+      "created_at": "2018-08-23 17:15:02",
+      "updated_at": "2018-09-23 22:12:32"
+    },
+    {
+      "id": "16",
+      "name_english": "303 AVc",
+      "name_malayalam": "എ. വി.സി",
+      "place": "കോട്ടയം",
+      "phone": "9895949906",
+      "created_at": "2018-08-23 17:11:37",
+      "updated_at": "2018-09-23 22:12:41"
+    },
+    {
+      "id": "15",
+      "name_english": "306 Star",
+      "name_malayalam": "സ്റ്റാർ വിഷൻ ",
+      "place": "കോട്ടയം",
+      "phone": "8086677701",
+      "created_at": "2018-08-23 17:10:25",
+      "updated_at": "2018-09-23 22:13:05"
+    },
+    {
+      "id": "29",
+      "name_english": "Janmabhumi news ",
+      "name_malayalam": "ജന്മഭൂമി ",
+      "place": "കോട്ടയം ",
+      "phone": "9847914770",
+      "created_at": "2018-09-24 07:50:53",
+      "updated_at": "2018-09-24 07:50:53"
+    },
+    {
+      "id": "28",
+      "name_english": "siraj news papper",
+      "name_malayalam": "സിറാജ് ദിനപ്പത്രം",
+      "place": "കോട്ടയം ",
+      "phone": "8593 056612",
+      "created_at": "2018-09-24 07:46:43",
+      "updated_at": "2018-09-24 07:46:43"
+    }
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "politicians": [
+    {
+      "id": "8",
+      "category_id": "1",
+      "name_english": "Abdhul basith",
+      "name_malayalam": "അബ്‍ദുൾ ബാസിത്ത്",
+      "position": "ഈലക്കയം - 8",
+      "phone": "9447910050",
+      "created_at": "2018-08-06 17:34:23",
+      "updated_at": "2018-09-01 15:40:59"
+    },
+    {
+      "id": "3",
+      "category_id": "1",
+      "name_english": "ABHdul kadhar",
+      "name_malayalam": "അബ്‌ദുൾ കാദർ പി എം ",
+      "position": "വട്ടക്കയം - വാർഡ് 3",
+      "phone": "9747189192",
+      "created_at": "2018-08-06 17:25:45",
+      "updated_at": "2018-08-07 17:29:56"
+    },
+    {
+      "id": "16",
+      "category_id": "1",
+      "name_english": "Ad. Vp nazar",
+      "name_malayalam": "അഡ്വ വി പി നാസർ",
+      "position": "കുഴിവേലി -  വാർഡ് 16",
+      "phone": "9744221106",
+      "created_at": "2018-08-07 13:21:57",
+      "updated_at": "2018-08-07 13:21:57"
+    },
+    {
+      "id": "92",
+      "category_id": "5",
+      "name_english": "AJtha",
+      "name_malayalam": "അജിതാ മോഹന്‍ദാസ് ",
+      "position": "12 കല്ലറങ്ങാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:41:52",
+      "updated_at": "2018-08-27 11:41:52"
+    },
+    {
+      "id": "61",
+      "category_id": "6",
+      "name_english": "Anni",
+      "name_malayalam": "ആനിയമ്മ സണ്ണി ",
+      "position": "7 വളതൂക്ക് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:11:06",
+      "updated_at": "2018-08-08 09:11:06"
+    },
+    {
+      "id": "49",
+      "category_id": "3",
+      "name_english": "Ansi jestin",
+      "name_malayalam": "ആന്‍സി ജെസ്റ്റിന്‍ ",
+      "position": "8 മലമേല്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:41:22",
+      "updated_at": "2018-08-07 21:41:22"
+    },
+    {
+      "id": "96",
+      "category_id": "8",
+      "name_english": "Anto antony",
+      "name_malayalam": "ആന്റോ ആന്റണി",
+      "position": "എം പി - പത്തനംതിട്ട",
+      "phone": "9447010000",
+      "created_at": "2018-08-27 21:03:05",
+      "updated_at": "2018-08-27 21:03:05"
+    },
+    {
+      "id": "31",
+      "category_id": "2",
+      "name_english": "Anupama",
+      "name_malayalam": "അനുപമ വിശ്വനാഥ്",
+      "position": "3 പൂവത്താനി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:40:08",
+      "updated_at": "2018-08-07 20:40:08"
+    },
+    {
+      "id": "21",
+      "category_id": "1",
+      "name_english": "ANvar aliyar",
+      "name_malayalam": "അൻവർ അലിയാർ ",
+      "position": "ടൌൺ വാർഡ് - വാർഡ് 20",
+      "phone": "9895154722",
+      "created_at": "2018-08-07 13:29:43",
+      "updated_at": "2018-08-07 13:29:43"
+    },
+    {
+      "id": "65",
+      "category_id": "6",
+      "name_english": "Av",
+      "name_malayalam": "എ.വി സാമുവല്‍",
+      "position": "11 കൊണ്ടൂര്‍  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:14:44",
+      "updated_at": "2018-08-08 09:14:44"
+    },
+    {
+      "id": "20",
+      "category_id": "1",
+      "name_english": "Balkis navas",
+      "name_malayalam": "ബൽകീസ് നവാസ് (വൈ. ചെയർപേഴ്‌സൻ)",
+      "position": "വഞ്ചാങ്കൽ - വാർഡ് 19 ",
+      "phone": "9496280941",
+      "created_at": "2018-08-07 13:28:14",
+      "updated_at": "2018-09-21 02:57:31"
+    },
+    {
+      "id": "4",
+      "category_id": "1",
+      "name_english": "BEema nazar",
+      "name_malayalam": " ബീമാ നാസർ ",
+      "position": "നടൂപ്പറമ്പ് - വാർഡ് 4",
+      "phone": "9447314456",
+      "created_at": "2018-08-06 17:27:25",
+      "updated_at": "2018-09-01 15:43:31"
+    },
+    {
+      "id": "74",
+      "category_id": "4",
+      "name_english": "Bindhu",
+      "name_malayalam": "ബിന്ദു അശോകന്‍ ",
+      "position": "7 പുളിയ്ക്കപ്പാലം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:53:34",
+      "updated_at": "2018-08-08 09:53:34"
+    },
+    {
+      "id": "89",
+      "category_id": "5",
+      "name_english": "Bino",
+      "name_malayalam": "ബിനോ ജോസഫ് ",
+      "position": "9 കാളകെട്ടി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:39:20",
+      "updated_at": "2018-08-27 11:39:20"
+    },
+    {
+      "id": "5",
+      "category_id": "1",
+      "name_english": "Binu narayanan",
+      "name_malayalam": "ബിനു നാരായണൻ ",
+      "position": "മുരിക്കോലി - വാർഡ് 5",
+      "phone": "9961002989",
+      "created_at": "2018-08-06 17:29:11",
+      "updated_at": "2018-08-07 17:30:46"
+    },
+    {
+      "id": "104",
+      "category_id": "9",
+      "name_english": "Bjp",
+      "name_malayalam": "ബിജെപി",
+      "position": "രാജേഷ് പാറക്കൽ",
+      "phone": "9447275614",
+      "created_at": "2018-09-15 20:21:19",
+      "updated_at": "2018-09-15 20:21:19"
+    },
+    {
+      "id": "58",
+      "category_id": "6",
+      "name_english": "Bonoyi",
+      "name_malayalam": "ബിനോയി ജോസഫ് ",
+      "position": "4 തീക്കോയി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:34:49",
+      "updated_at": "2018-08-08 06:34:49"
+    },
+    {
+      "id": "37",
+      "category_id": "2",
+      "name_english": "C j karunakaran",
+      "name_malayalam": "സി. ജി. കരുണാകരന്‍ ",
+      "position": "9 പ്ലാശനാൽ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:51:35",
+      "updated_at": "2018-08-07 20:51:35"
+    },
+    {
+      "id": "119",
+      "category_id": "11",
+      "name_english": "Campus frnd",
+      "name_malayalam": "യൂനുസ് ",
+      "position": "ക്യാമ്പസ് ഫ്രണ്ട് ",
+      "phone": "9526547076",
+      "created_at": "2018-09-15 20:54:12",
+      "updated_at": "2018-09-15 20:54:12"
+    },
+    {
+      "id": "40",
+      "category_id": "2",
+      "name_english": "Cb shailaja",
+      "name_malayalam": "സി. ബി. ശൈലജ",
+      "position": "12 കാഞ്ഞിരപ്പാറ  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:58:43",
+      "updated_at": "2018-08-07 20:58:43"
+    },
+    {
+      "id": "106",
+      "category_id": "9",
+      "name_english": "Congress (I)",
+      "name_malayalam": "ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസ്‌",
+      "position": "അഡ്വ . ഇല്യാസ് ",
+      "phone": "8547469661",
+      "created_at": "2018-09-15 20:25:15",
+      "updated_at": "2018-09-23 21:50:46"
+    },
+    {
+      "id": "124",
+      "category_id": "9",
+      "name_english": "CPI",
+      "name_malayalam": "സി.പി.ഐ ",
+      "position": "മുജീബ് ഇടത്തൊട്ടിയില്‍ ",
+      "phone": "9447511636",
+      "created_at": "2018-09-16 14:36:39",
+      "updated_at": "2018-09-16 21:29:06"
+    },
+    {
+      "id": "99",
+      "category_id": "9",
+      "name_english": "Cpim",
+      "name_malayalam": "സിപിഐ (എം)",
+      "position": "കെഎം ബഷീർ",
+      "phone": "9495048596",
+      "created_at": "2018-09-15 20:08:15",
+      "updated_at": "2018-09-15 20:08:15"
+    },
+    {
+      "id": "36",
+      "category_id": "2",
+      "name_english": "Devayani",
+      "name_malayalam": "ദേവയാനി",
+      "position": "8 പനയ്ക്കപ്പാലം  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:50:02",
+      "updated_at": "2018-08-07 20:50:02"
+    },
+    {
+      "id": "109",
+      "category_id": "10",
+      "name_english": "Dyfi",
+      "name_malayalam": "സവാദ് ഇഞ്ചക്കാടൻ",
+      "position": "ഡി വൈ എഫ് ഐ",
+      "phone": "9605840047",
+      "created_at": "2018-09-15 20:30:35",
+      "updated_at": "2018-09-23 21:48:53"
+    },
+    {
+      "id": "53",
+      "category_id": "3",
+      "name_english": "Faransis",
+      "name_malayalam": "ഫ്രാന്‍സീസ് ജേക്കബ്ബ് ",
+      "position": "12 പഞ്ചായത്ത് ജംഗ്ഷന്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:45:13",
+      "updated_at": "2018-08-07 21:45:13"
+    },
+    {
+      "id": "24",
+      "category_id": "1",
+      "name_english": "Fathima",
+      "name_malayalam": "ഫാത്തിമ അൻസാർ ",
+      "position": "ആനിപ്പടി - വാർഡ് 23",
+      "phone": "9744192962",
+      "created_at": "2018-08-07 17:07:17",
+      "updated_at": "2018-08-07 17:07:17"
+    },
+    {
+      "id": "126",
+      "category_id": "11",
+      "name_english": "FRATERNITY",
+      "name_malayalam": "ഫിർദൗസ് റഷീദ്‌",
+      "position": "ഫ്രറ്റേണിറ്റി മൂവ്‌മെന്റ്‌",
+      "phone": "9744280111",
+      "created_at": "2018-09-22 15:51:00",
+      "updated_at": "2018-09-22 15:58:49"
+    },
+    {
+      "id": "73",
+      "category_id": "4",
+      "name_english": "Geetha",
+      "name_malayalam": "ഗീത നോബിള്‍ ",
+      "position": "6 തണ്ണിപ്പാറ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:52:46",
+      "updated_at": "2018-08-08 09:52:46"
+    },
+    {
+      "id": "79",
+      "category_id": "4",
+      "name_english": "Geetha",
+      "name_malayalam": "ഗീത ജമിനി ",
+      "position": "12 ചെറുകുന്നം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:59:44",
+      "updated_at": "2018-08-08 09:59:44"
+    },
+    {
+      "id": "75",
+      "category_id": "4",
+      "name_english": "Gopalan",
+      "name_malayalam": "ഗോപകുമാര്‍ വി.ജി ",
+      "position": "8 മണിയംകുന്ന് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:54:37",
+      "updated_at": "2018-08-08 09:54:37"
+    },
+    {
+      "id": "22",
+      "category_id": "1",
+      "name_english": "Haseena faisal",
+      "name_malayalam": "ഹസീന ഫൈസൽ ",
+      "position": "തടവനാൽ - വാർഡ് 21",
+      "phone": "9447054114",
+      "created_at": "2018-08-07 13:31:04",
+      "updated_at": "2018-08-07 13:31:04"
+    },
+    {
+      "id": "18",
+      "category_id": "1",
+      "name_english": "Ilmunisa shafi",
+      "name_malayalam": "ഇൽമുന്നിസ്സാ മുഹമ്മദ് ഷാഫി ",
+      "position": "ശാസ്താംകുന്ന് - വാർഡ് 17",
+      "phone": "9544381526",
+      "created_at": "2018-08-07 13:24:57",
+      "updated_at": "2018-09-21 02:56:33"
+    },
+    {
+      "id": "102",
+      "category_id": "9",
+      "name_english": "INL",
+      "name_malayalam": "ഐ എൻ എൽ",
+      "position": "റഫീഖ് പട്ടരുപറമ്പിൽ",
+      "phone": "9539191913",
+      "created_at": "2018-09-15 20:18:35",
+      "updated_at": "2018-09-16 21:52:48"
+    },
+    {
+      "id": "33",
+      "category_id": "2",
+      "name_english": "INthira radha",
+      "name_malayalam": "ഇന്ദിര രാധാകൃഷ്ണന്‍ ",
+      "position": "5 ഇളപ്പുങ്കല്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:45:41",
+      "updated_at": "2018-08-07 20:45:41"
+    },
+    {
+      "id": "41",
+      "category_id": "2",
+      "name_english": "Jaisan",
+      "name_malayalam": "ജെയ്സണ്‍ ജോസഫ് ",
+      "position": "13 ഈറ്റക്കാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:59:35",
+      "updated_at": "2018-08-07 20:59:35"
+    },
+    {
+      "id": "103",
+      "category_id": "9",
+      "name_english": "Janapaksham",
+      "name_malayalam": "ജനപക്ഷം",
+      "position": "മുഹമ്മദ് അലി",
+      "phone": "9656530227",
+      "created_at": "2018-09-15 20:19:43",
+      "updated_at": "2018-09-15 20:19:43"
+    },
+    {
+      "id": "107",
+      "category_id": "9",
+      "name_english": "Janatha",
+      "name_malayalam": "ലോക് താന്ത്രിക്ക്  ജനതാദൾ",
+      "position": "മാഹിൻ തലപള്ളി",
+      "phone": "9249398524",
+      "created_at": "2018-09-15 20:27:17",
+      "updated_at": "2018-09-15 21:02:56"
+    },
+    {
+      "id": "78",
+      "category_id": "4",
+      "name_english": "Jayakumar i",
+      "name_malayalam": " ജയകുമാരി ",
+      "position": "11 നെടുന്താനം",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:58:23",
+      "updated_at": "2018-08-08 09:58:23"
+    },
+    {
+      "id": "42",
+      "category_id": "3",
+      "name_english": "Jc thomas",
+      "name_malayalam": "ജെസി തോമസ്",
+      "position": "1 അറുകോണ്‍മല ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:05:56",
+      "updated_at": "2018-08-07 21:05:56"
+    },
+    {
+      "id": "69",
+      "category_id": "4",
+      "name_english": "Jisha",
+      "name_malayalam": "ജിഷ സന്തോഷ് ",
+      "position": "2 മറ്റയ്ക്കാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:47:00",
+      "updated_at": "2018-08-08 09:47:00"
+    },
+    {
+      "id": "90",
+      "category_id": "5",
+      "name_english": "Jomon",
+      "name_malayalam": "ജോമോന്‍",
+      "position": "10 പിണ്ണാക്കനാട്  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:40:15",
+      "updated_at": "2018-08-27 11:40:15"
+    },
+    {
+      "id": "28",
+      "category_id": "1",
+      "name_english": "Jose ",
+      "name_malayalam": "ജോസ് മാത്യു",
+      "position": "അരുവിത്തുറ - വാർഡ് 28",
+      "phone": "9447911147",
+      "created_at": "2018-08-07 17:28:16",
+      "updated_at": "2018-08-07 17:28:16"
+    },
+    {
+      "id": "98",
+      "category_id": "8",
+      "name_english": "Jose k mani",
+      "name_malayalam": "ജോസ് കെ മാണി",
+      "position": "എം പി - കോട്ടയം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 21:05:15",
+      "updated_at": "2018-08-27 21:09:25"
+    },
+    {
+      "id": "123",
+      "category_id": "8",
+      "name_english": "jose kmani",
+      "name_malayalam": "ജോസ് കെ മാണി ",
+      "position": "പാല  ",
+      "phone": "9495197772",
+      "created_at": "2018-09-16 14:03:39",
+      "updated_at": "2018-09-16 14:03:39"
+    },
+    {
+      "id": "29",
+      "category_id": "2",
+      "name_english": "Joy",
+      "name_malayalam": "ജോയി ജോസഫ് ",
+      "position": "1 നരിയങ്ങാനം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:37:16",
+      "updated_at": "2018-08-07 20:37:16"
+    },
+    {
+      "id": "27",
+      "category_id": "1",
+      "name_english": "KAbeer",
+      "name_malayalam": "കബീർ വി കെ വലിയവീട്ടിൽ (ചെയർമാൻ)",
+      "position": "ബ്ലോക്ക് ഓഫീസ് - വാർഡ് 27",
+      "phone": "9447074162",
+      "created_at": "2018-08-07 17:26:42",
+      "updated_at": "2018-09-21 02:58:31"
+    },
+    {
+      "id": "52",
+      "category_id": "3",
+      "name_english": "Kc",
+      "name_malayalam": "കെ.സി ജെയിംസ് ",
+      "position": "11 ചേരിമല ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:44:14",
+      "updated_at": "2018-08-07 21:44:14"
+    },
+    {
+      "id": "122",
+      "category_id": "9",
+      "name_english": "Kerala Con M",
+      "name_malayalam": "കേരള കോൺഗ്രസ് ബി",
+      "position": "മൻസൂർ പാലയംപറമ്പിൽ ",
+      "phone": "7907186063",
+      "created_at": "2018-09-16 11:15:11",
+      "updated_at": "2018-09-16 21:52:31"
+    },
+    {
+      "id": "54",
+      "category_id": "3",
+      "name_english": "Kk orikalum",
+      "name_malayalam": "കെ.കെ പരീക്കൊച്ച്",
+      "position": "13 ആനിയിളപ്പ്  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:46:15",
+      "updated_at": "2018-08-07 21:46:15"
+    },
+    {
+      "id": "23",
+      "category_id": "1",
+      "name_english": "Kp mujeeb",
+      "name_malayalam": "കെ പി മുജീബ്",
+      "position": "മുത്താരം കുന്ന് - വാർഡ് 22 ",
+      "phone": "9447174412",
+      "created_at": "2018-08-07 17:06:05",
+      "updated_at": "2018-09-01 15:45:32"
+    },
+    {
+      "id": "62",
+      "category_id": "6",
+      "name_english": "Kr",
+      "name_malayalam": "കെ.ആര്‍.മോഹനന്‍ നായര്‍ ",
+      "position": "8 പൂഞ്ഞാര്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:12:19",
+      "updated_at": "2018-08-08 09:12:19"
+    },
+    {
+      "id": "115",
+      "category_id": "11",
+      "name_english": "Ksu",
+      "name_malayalam": "റിഫാൻ മനാഫ്",
+      "position": "കെ എസ് യു",
+      "phone": "9539144336",
+      "created_at": "2018-09-15 20:42:25",
+      "updated_at": "2018-09-22 15:57:01"
+    },
+    {
+      "id": "7",
+      "category_id": "1",
+      "name_english": "Kunju mol siyadh",
+      "name_malayalam": " കുഞ്ഞു മോൾ സിയാദ് ",
+      "position": "കാട്ടാമല - വാർഡ് 7",
+      "phone": "9495847527",
+      "created_at": "2018-08-06 17:32:43",
+      "updated_at": "2018-08-07 17:31:07"
+    },
+    {
+      "id": "1",
+      "category_id": "1",
+      "name_english": "Laila parith ",
+      "name_malayalam": "ലൈല പരിത് ",
+      "position": "ഇടത്തും കുന്ന് - വാർഡ് 1",
+      "phone": "9605925657",
+      "created_at": "2018-08-06 17:21:27",
+      "updated_at": "2018-08-07 17:31:20"
+    },
+    {
+      "id": "34",
+      "category_id": "2",
+      "name_english": "Lakshmikuttiyamma",
+      "name_malayalam": "ലക്ഷ്മിക്കുട്ടിയമ്മ കെ. ",
+      "position": "6 തലപ്പലം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:46:59",
+      "updated_at": "2018-08-07 20:46:59"
+    },
+    {
+      "id": "43",
+      "category_id": "3",
+      "name_english": "Leelamma jorjkutti",
+      "name_malayalam": "ലീലാമ്മ ജോര്‍ജുകുട്ടി ",
+      "position": "2 തീക്കോയി ടൌണ്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:07:12",
+      "updated_at": "2018-08-07 21:07:12"
+    },
+    {
+      "id": "88",
+      "category_id": "5",
+      "name_english": "Leena",
+      "name_malayalam": "ലീന ജോര്‍ജ്ജ് ",
+      "position": "8 ചേറ്റുതോട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:38:32",
+      "updated_at": "2018-08-27 11:38:32"
+    },
+    {
+      "id": "100",
+      "category_id": "9",
+      "name_english": "Lig",
+      "name_malayalam": "ഇൻഡ്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്",
+      "position": "വി.എച്ച്. നാസർ",
+      "phone": "9446197391",
+      "created_at": "2018-09-15 20:09:27",
+      "updated_at": "2018-09-23 21:50:05"
+    },
+    {
+      "id": "76",
+      "category_id": "4",
+      "name_english": "Lilamma",
+      "name_malayalam": "ലീലാമ്മ ചാക്കോ ",
+      "position": "9 വളതൂക്ക് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:55:29",
+      "updated_at": "2018-08-08 09:55:29"
+    },
+    {
+      "id": "80",
+      "category_id": "4",
+      "name_english": "Lisamma",
+      "name_malayalam": "ലിസമ്മ സണ്ണി ",
+      "position": "13 മണിയംകുളം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 10:00:54",
+      "updated_at": "2018-08-08 10:00:54"
+    },
+    {
+      "id": "64",
+      "category_id": "6",
+      "name_english": "Lissi",
+      "name_malayalam": "ലിസ്സി തോമസ്സ് ",
+      "position": "10 തിടനാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:13:55",
+      "updated_at": "2018-08-08 09:13:55"
+    },
+    {
+      "id": "47",
+      "category_id": "3",
+      "name_english": "Manju",
+      "name_malayalam": "മഞ്ചു സിജോ ",
+      "position": "6 കാരികാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:39:34",
+      "updated_at": "2018-08-07 21:39:34"
+    },
+    {
+      "id": "55",
+      "category_id": "6",
+      "name_english": "Mariyamma",
+      "name_malayalam": "മറിയാമ്മ ഫെര്‍ണാണ്ടസ് ",
+      "position": "1 മേലുകാവ് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:31:36",
+      "updated_at": "2018-08-08 06:31:36"
+    },
+    {
+      "id": "35",
+      "category_id": "2",
+      "name_english": "Merimol",
+      "name_malayalam": "മേരിമോള്‍ മൈക്കിള്‍ ",
+      "position": "7 ഇഞ്ചോലിക്കാവ്",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:47:49",
+      "updated_at": "2018-08-07 20:47:49"
+    },
+    {
+      "id": "87",
+      "category_id": "5",
+      "name_english": "Mezhsi",
+      "name_malayalam": "മേഴ്സി ജോസഫ് ",
+      "position": "7 വാരിയാനിക്കാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:31:46",
+      "updated_at": "2018-08-27 11:31:46"
+    },
+    {
+      "id": "93",
+      "category_id": "5",
+      "name_english": "Mini",
+      "name_malayalam": "മിനി സാവിയോ ",
+      "position": "13 തിടനാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:46:22",
+      "updated_at": "2018-08-27 11:46:22"
+    },
+    {
+      "id": "50",
+      "category_id": "3",
+      "name_english": "Mm baby",
+      "name_malayalam": "എം.ഐ ബേബി ",
+      "position": "9 വേലത്തുശ്ശേരി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:42:11",
+      "updated_at": "2018-08-07 21:42:11"
+    },
+    {
+      "id": "114",
+      "category_id": "11",
+      "name_english": "Msf",
+      "name_malayalam": "ജാസിം ജാഫർ",
+      "position": "എം എസ് എഫ്",
+      "phone": "9747445405",
+      "created_at": "2018-09-15 20:41:00",
+      "updated_at": "2018-12-15 11:29:49"
+    },
+    {
+      "id": "10",
+      "category_id": "1",
+      "name_english": "Muhammed ismail",
+      "name_malayalam": "മുഹമ്മദ്‌ ഇസ്മായിൽ",
+      "position": "തേവരു പാറ - വാർഡ് 10",
+      "phone": "9947801624",
+      "created_at": "2018-08-06 17:37:39",
+      "updated_at": "2018-08-07 17:32:45"
+    },
+    {
+      "id": "46",
+      "category_id": "3",
+      "name_english": "Nissama ",
+      "name_malayalam": "നൈസമ്മ ജോര്‍ജ് ",
+      "position": "5 ഒറ്റയീട്ടി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:38:38",
+      "updated_at": "2018-08-07 21:38:38"
+    },
+    {
+      "id": "13",
+      "category_id": "1",
+      "name_english": "NIzar kubani",
+      "name_malayalam": "നിസാർ കുർബാനി",
+      "position": "മുളന്താനം - വാർഡ് 13",
+      "phone": "9747543361",
+      "created_at": "2018-08-07 12:57:27",
+      "updated_at": "2018-09-03 16:30:53"
+    },
+    {
+      "id": "82",
+      "category_id": "5",
+      "name_english": "Oamana",
+      "name_malayalam": "ഓമന രമേശ് ",
+      "position": "2 കൊണ്ടൂര്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:26:06",
+      "updated_at": "2018-08-27 11:26:06"
+    },
+    {
+      "id": "77",
+      "category_id": "4",
+      "name_english": "Olvin",
+      "name_malayalam": "ഓള്‍വിന്‍ തോമസ് ",
+      "position": "10 ചേന്നാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:56:32",
+      "updated_at": "2018-08-08 09:56:32"
+    },
+    {
+      "id": "2",
+      "category_id": "1",
+      "name_english": "P h haseeb",
+      "name_malayalam": "പി എച്ച് ഹസീബ്  ",
+      "position": "കല്ലുത്താഴം - വാർഡ് 2",
+      "phone": "9447336887",
+      "created_at": "2018-08-06 17:24:07",
+      "updated_at": "2018-09-03 16:31:36"
+    },
+    {
+      "id": "45",
+      "category_id": "3",
+      "name_english": "P murukkan",
+      "name_malayalam": "പി. മുരുകന്",
+      "position": "4 തീക്കോയി എസ്റ്റേറ്റ്  ‍",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:37:41",
+      "updated_at": "2018-08-07 21:37:41"
+    },
+    {
+      "id": "95",
+      "category_id": "7",
+      "name_english": "Pc george",
+      "name_malayalam": "പി സി ജോർജ്",
+      "position": "എം എൽ എ - പൂഞ്ഞാർ",
+      "phone": "9447043027",
+      "created_at": "2018-08-27 21:00:18",
+      "updated_at": "2018-08-27 21:10:15"
+    },
+    {
+      "id": "108",
+      "category_id": "9",
+      "name_english": "Pdp",
+      "name_malayalam": "പി ഡി പി",
+      "position": "നിഷാദ് നടക്കൽ",
+      "phone": "9447105513",
+      "created_at": "2018-09-15 20:28:21",
+      "updated_at": "2018-09-15 20:28:21"
+    },
+    {
+      "id": "51",
+      "category_id": "3",
+      "name_english": "Pj",
+      "name_malayalam": " പി.ജെ സെബാസ്റ്റ്യന്‍ ( ഷാജന്‍ പുറപ്പന്താനം )",
+      "position": "10 വാഗമറ്റം",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:43:19",
+      "updated_at": "2018-08-07 21:43:19"
+    },
+    {
+      "id": "66",
+      "category_id": "6",
+      "name_english": "Premji",
+      "name_malayalam": "പ്രേംജി ആര്‍ ",
+      "position": "12 തലപ്പലം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:15:35",
+      "updated_at": "2018-08-08 09:15:35"
+    },
+    {
+      "id": "68",
+      "category_id": "4",
+      "name_english": "Presadh",
+      "name_malayalam": "പ്രസാദ് തോമസ് ",
+      "position": "1 പെരുന്നിലം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:45:57",
+      "updated_at": "2018-08-08 09:45:57"
+    },
+    {
+      "id": "15",
+      "category_id": "1",
+      "name_english": "Rafi ",
+      "name_malayalam": "റാഫി അബ്‍ദുൾ ഖാദർ ",
+      "position": "സഫാ നഗർ - വാർഡ് 15",
+      "phone": "9645400427",
+      "created_at": "2018-08-07 13:01:14",
+      "updated_at": "2018-08-07 13:01:14"
+    },
+    {
+      "id": "72",
+      "category_id": "4",
+      "name_english": "Ramesh",
+      "name_malayalam": "രമേഷ് ബി. വെട്ടിമറ്റം ",
+      "position": "5 പനച്ചികപ്പാറ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:51:08",
+      "updated_at": "2018-08-08 09:51:08"
+    },
+    {
+      "id": "121",
+      "category_id": "1",
+      "name_english": "rejena nofal",
+      "name_malayalam": "റജീന നൗഫൽ ഖാൻ ",
+      "position": "കൊണ്ടൂർ മല - 26 ",
+      "phone": "9447123331",
+      "created_at": "2018-09-16 09:17:49",
+      "updated_at": "2018-09-16 09:17:49"
+    },
+    {
+      "id": "59",
+      "category_id": "6",
+      "name_english": "Rohini",
+      "name_malayalam": "രോഹിണി ജോസഫ് ",
+      "position": "5 കല്ലേക്കുളം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:35:47",
+      "updated_at": "2018-08-08 06:35:47"
+    },
+    {
+      "id": "57",
+      "category_id": "6",
+      "name_english": "Rohinni",
+      "name_malayalam": "രോഹിണി ഭായ് ഉണ്ണികൃഷ്ണന്‍",
+      "position": "3 തലനാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:33:49",
+      "updated_at": "2018-08-08 06:33:49"
+    },
+    {
+      "id": "84",
+      "category_id": "5",
+      "name_english": "Sabu",
+      "name_malayalam": "സാബു ജോസഫ് ",
+      "position": "4 വെയില്‍ കാണാംപാറ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:28:39",
+      "updated_at": "2018-08-27 11:28:39"
+    },
+    {
+      "id": "56",
+      "category_id": "6",
+      "name_english": "Sajeev",
+      "name_malayalam": "സജീവന്‍ ഗോപാലന്‍ ",
+      "position": "2 മൂന്നിലവ് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:32:29",
+      "updated_at": "2018-08-08 06:32:29"
+    },
+    {
+      "id": "39",
+      "category_id": "2",
+      "name_english": "SAjeev pc",
+      "name_malayalam": "സജീവ് പി.സി.",
+      "position": "11 കീഴമ്പാറ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:53:29",
+      "updated_at": "2018-08-07 20:53:29"
+    },
+    {
+      "id": "101",
+      "category_id": "9",
+      "name_english": "Sdpi",
+      "name_malayalam": "എസ് ഡി പി ഐ",
+      "position": "സുബൈർ വെള്ളാപ്പള്ളിൽ",
+      "phone": "9447138523",
+      "created_at": "2018-09-15 20:17:13",
+      "updated_at": "2018-09-15 20:17:13"
+    },
+    {
+      "id": "91",
+      "category_id": "5",
+      "name_english": "Sebastin",
+      "name_malayalam": "സെബാസ്റ്റ്യന്‍ എബ്രഹാം ",
+      "position": "11 ചെമ്മലമറ്റം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:41:10",
+      "updated_at": "2018-08-27 11:41:10"
+    },
+    {
+      "id": "38",
+      "category_id": "2",
+      "name_english": "Sebin",
+      "name_malayalam": "സെബിന്‍ സെബാസ്റ്റ്യൻ",
+      "position": "10 മേലമ്പാറ",
+      "phone": "0000000000000",
+      "created_at": "2018-08-07 20:52:30",
+      "updated_at": "2018-09-17 12:30:32"
+    },
+    {
+      "id": "6",
+      "category_id": "1",
+      "name_english": "Serina ",
+      "name_malayalam": " ഷെറീന അബ്‍ദുൾ റഹീം ",
+      "position": "മാതാക്കൽ -വാർഡ് 6",
+      "phone": "9562954419",
+      "created_at": "2018-08-06 17:31:04",
+      "updated_at": "2018-09-15 07:19:34"
+    },
+    {
+      "id": "83",
+      "category_id": "5",
+      "name_english": "Sevyar",
+      "name_malayalam": "സേവ്യര്‍ കെ.വി ‍",
+      "position": "3 പാതാമ്പുഴ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:27:47",
+      "updated_at": "2018-09-03 16:42:48"
+    },
+    {
+      "id": "116",
+      "category_id": "11",
+      "name_english": "Sfi",
+      "name_malayalam": "പി എ ഷെമീർ",
+      "position": "എസ് എഫ് ഐ",
+      "phone": "9447112801",
+      "created_at": "2018-09-15 20:43:23",
+      "updated_at": "2018-09-15 20:43:23"
+    },
+    {
+      "id": "9",
+      "category_id": "1",
+      "name_english": "Shahabanth ",
+      "name_malayalam": "ഷഹുബാനത്ത്‌ ടീച്ചർ ",
+      "position": "കാരക്കാട് - വാർഡ് 9",
+      "phone": "9847781725",
+      "created_at": "2018-08-06 17:35:49",
+      "updated_at": "2018-09-21 02:55:44"
+    },
+    {
+      "id": "30",
+      "category_id": "2",
+      "name_english": "Shaini",
+      "name_malayalam": "ഷൈനി മൈക്കിള്‍",
+      "position": "2 അഞ്ഞൂറ്റിമംഗലം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:38:29",
+      "updated_at": "2018-08-07 20:38:29"
+    },
+    {
+      "id": "48",
+      "category_id": "3",
+      "name_english": "Shaini",
+      "name_malayalam": "ഷൈനി ബേബി ",
+      "position": "7 വെള്ളികുളം ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:40:28",
+      "updated_at": "2018-08-07 21:40:28"
+    },
+    {
+      "id": "11",
+      "category_id": "1",
+      "name_english": "Sheila ansari",
+      "name_malayalam": "ഷൈല അൻസാരി",
+      "position": "കുറ്റിമരം പറമ്പ് - വാർഡ് 11",
+      "phone": "9847324884",
+      "created_at": "2018-08-07 12:53:47",
+      "updated_at": "2018-09-03 16:40:12"
+    },
+    {
+      "id": "26",
+      "category_id": "1",
+      "name_english": "Sheila salim",
+      "name_malayalam": "ഷൈല സലീം ",
+      "position": "കല്ലോലി - വാർഡ് 25",
+      "phone": "9747814124",
+      "created_at": "2018-08-07 17:10:04",
+      "updated_at": "2018-09-14 22:07:25"
+    },
+    {
+      "id": "71",
+      "category_id": "4",
+      "name_english": "Shihab",
+      "name_malayalam": "ഷിഹാബ് ഉസ്മാന്‍ ",
+      "position": "4 നെല്ലിയ്ക്കച്ചാല്‍ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:49:05",
+      "updated_at": "2018-08-08 09:49:05"
+    },
+    {
+      "id": "60",
+      "category_id": "6",
+      "name_english": "Sindhu",
+      "name_malayalam": "സിന്ദു ഷാജി ",
+      "position": "6 പാതാമ്പുഴ ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 06:37:09",
+      "updated_at": "2018-08-08 06:37:09"
+    },
+    {
+      "id": "120",
+      "category_id": "11",
+      "name_english": "Sio",
+      "name_malayalam": "ജവാദ്",
+      "position": "എസ് ഐ ഒ",
+      "phone": "8547632006",
+      "created_at": "2018-09-15 20:55:24",
+      "updated_at": "2018-09-15 20:55:24"
+    },
+    {
+      "id": "127",
+      "category_id": "10",
+      "name_english": "SOLidarity",
+      "name_malayalam": "അൻസാർ എം. അലി",
+      "position": "സോളിഡാരിറ്റി യൂത്ത് മൂവ്‌മെന്റ് ",
+      "phone": "9747176005",
+      "created_at": "2018-09-23 21:46:26",
+      "updated_at": "2018-09-23 21:47:11"
+    },
+    {
+      "id": "67",
+      "category_id": "6",
+      "name_english": "Soumya",
+      "name_malayalam": " സൌമ്യ ജോസഫ്",
+      "position": "13 കളത്തുക്കടവ് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:16:23",
+      "updated_at": "2018-08-08 09:16:23"
+    },
+    {
+      "id": "12",
+      "category_id": "1",
+      "name_english": "Subair vellappally",
+      "name_malayalam": "സുബൈർ വെള്ളാപ്പള്ളി ",
+      "position": "പത്താഴപ്പടി - വാർഡ് 12",
+      "phone": "9961671947",
+      "created_at": "2018-08-07 12:55:51",
+      "updated_at": "2018-09-03 16:41:12"
+    },
+    {
+      "id": "32",
+      "category_id": "2",
+      "name_english": "Subash",
+      "name_malayalam": "സുബാഷ് ജോര്‍ജ് ",
+      "position": "4 കളത്തൂക്കടവ് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 20:44:39",
+      "updated_at": "2018-08-07 20:44:39"
+    },
+    {
+      "id": "70",
+      "category_id": "4",
+      "name_english": "Subramanian",
+      "name_malayalam": "സുബ്രഹ്മണ്യന്‍",
+      "position": "3 പാലസ്  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:48:03",
+      "updated_at": "2018-08-08 09:48:03"
+    },
+    {
+      "id": "86",
+      "category_id": "5",
+      "name_english": "Suja babu",
+      "name_malayalam": "സുജാ ബാബൂ ",
+      "position": "6 നെടുംചേരി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:30:34",
+      "updated_at": "2018-08-27 11:30:34"
+    },
+    {
+      "id": "25",
+      "category_id": "1",
+      "name_english": "Sulfath",
+      "name_malayalam": "സുൽഫത്ത് നൗഫൽ ഖാൻ ",
+      "position": "ചിരപ്പാറ - വാർഡ് 24",
+      "phone": "9745346376",
+      "created_at": "2018-08-07 17:08:33",
+      "updated_at": "2018-09-03 16:41:31"
+    },
+    {
+      "id": "85",
+      "category_id": "5",
+      "name_english": "Suresh kumar",
+      "name_malayalam": "സുരേഷ്കുമാര്‍ കെ.വി",
+      "position": "5 പൊന്തനാല്‍  ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:29:41",
+      "updated_at": "2018-08-27 11:29:41"
+    },
+    {
+      "id": "81",
+      "category_id": "5",
+      "name_english": "TK",
+      "name_malayalam": " റ്റി.കെ പ്രഭാകരന്‍ നായര്‍ ",
+      "position": "1 അമ്പാറനിരപ്പേല്‍",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:22:53",
+      "updated_at": "2018-08-27 11:22:53"
+    },
+    {
+      "id": "19",
+      "category_id": "1",
+      "name_english": "Tm r",
+      "name_malayalam": "ടി എം റഷീദ്",
+      "position": "മറ്റക്കാട് - വാർഡ് 18",
+      "phone": "9447273694",
+      "created_at": "2018-08-07 13:26:21",
+      "updated_at": "2018-08-07 13:26:21"
+    },
+    {
+      "id": "94",
+      "category_id": "5",
+      "name_english": "Usha",
+      "name_malayalam": "ഉഷ ശശി ",
+      "position": "14 മൂന്നാംതോട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-27 11:47:05",
+      "updated_at": "2018-08-27 11:47:05"
+    },
+    {
+      "id": "44",
+      "category_id": "3",
+      "name_english": "Vijayamma",
+      "name_malayalam": "വിജയമ്മ ഗോപിൻ ",
+      "position": "3 മംഗളഗിരി ",
+      "phone": "0000000000",
+      "created_at": "2018-08-07 21:36:31",
+      "updated_at": "2018-08-07 21:36:31"
+    },
+    {
+      "id": "14",
+      "category_id": "1",
+      "name_english": "vm ",
+      "name_malayalam": "വി എം സിറാജ്",
+      "position": "കൊല്ലംപറമ്പ് - വാർഡ് 14",
+      "phone": "9656476737",
+      "created_at": "2018-08-07 12:59:37",
+      "updated_at": "2018-09-03 16:47:38"
+    },
+    {
+      "id": "63",
+      "category_id": "6",
+      "name_english": "Vt",
+      "name_malayalam": "വി.റ്റി തോമസ്",
+      "position": "9 പിണ്ണാക്കനാട് ",
+      "phone": "0000000000",
+      "created_at": "2018-08-08 09:13:12",
+      "updated_at": "2018-08-08 09:13:12"
+    },
+    {
+      "id": "117",
+      "category_id": "11",
+      "name_english": "Vydhrathi",
+      "name_malayalam": "ബിൻസാദ് ഖാൻ",
+      "position": "വിദ്യാർത്ഥി ജനത",
+      "phone": "9746535382",
+      "created_at": "2018-09-15 20:44:52",
+      "updated_at": "2018-09-15 20:44:52"
+    },
+    {
+      "id": "105",
+      "category_id": "9",
+      "name_english": "Welfare",
+      "name_malayalam": "വെൽഫെയർ  പാര്‍ട്ടി",
+      "position": "ഹസീബ് വെളിയത്ത്",
+      "phone": "9747007469",
+      "created_at": "2018-09-15 20:22:26",
+      "updated_at": "2018-09-16 21:28:20"
+    },
+    {
+      "id": "111",
+      "category_id": "10",
+      "name_english": "Yiuth lig",
+      "name_malayalam": "അമീൻ പിട്ടയിൽ ",
+      "position": "യൂത്ത് ലീഗ്",
+      "phone": "9447106085",
+      "created_at": "2018-09-15 20:32:56",
+      "updated_at": "2018-09-23 21:49:16"
+    },
+    {
+      "id": "110",
+      "category_id": "10",
+      "name_english": "Youth",
+      "name_malayalam": "ഷിയാസ് സി സി എം ",
+      "position": "യൂത്ത് കോൺഗ്രസ്‌",
+      "phone": "9495972201",
+      "created_at": "2018-09-15 20:31:32",
+      "updated_at": "2018-09-23 21:47:55"
+    },
+    {
+      "id": "113",
+      "category_id": "10",
+      "name_english": "Yuva janadhadhal",
+      "name_malayalam": "ഷനീര്‍  മഠത്തിൽ ",
+      "position": "യുവ ജനതാദള്‍ ",
+      "phone": "9633118228",
+      "created_at": "2018-09-15 20:37:27",
+      "updated_at": "2018-09-15 21:03:59"
+    },
+    {
+      "id": "125",
+      "category_id": "10",
+      "name_english": "YUVA JANATHA DAL",
+      "name_malayalam": "നസീബ് പത്താഴപ്പടി",
+      "position": "യുവജനതാദൾ",
+      "phone": "9947015751",
+      "created_at": "2018-09-18 16:30:21",
+      "updated_at": "2018-09-23 21:48:22"
+    },
+    {
+      "id": "112",
+      "category_id": "10",
+      "name_english": "Yuvajana paksham",
+      "name_malayalam": "സത്താർ കെ എസ്",
+      "position": "യുവജന പക്ഷം ",
+      "phone": "9747892668",
+      "created_at": "2018-09-15 20:34:59",
+      "updated_at": "2018-09-15 20:34:59"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "1016560865589",
+    "firebase_url": "https://myapp-18bae.firebaseio.com",
+    "project_id": "myapp-18bae",
+    "storage_bucket": "myapp-18bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016560865589:android:108fffe041b75bd5",
+        "android_client_info": {
+          "package_name": "com.techpakka.eerattupetta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016560865589-2u31mklqealenk9up5pr8ab3tao5ir9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpakka.eerattupetta",
+            "certificate_hash": "905567331004b300e9687bf8c29938a4841f981a"
+          }
+        },
+        {
+          "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4T0LAEcoPSQ_4JbzJl_CrsLq8Dx9KXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016560865589:android:319574af86e14cb5",
+        "android_client_info": {
+          "package_name": "com.techpakka.erattupettaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016560865589-qtl4omlgirp9j5i65qne5c1vke06d15b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpakka.erattupettaadmin",
+            "certificate_hash": "905567331004b300e9687bf8c29938a4841f981a"
+          }
+        },
+        {
+          "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4T0LAEcoPSQ_4JbzJl_CrsLq8Dx9KXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016560865589:android:bee1493858505f00",
+        "android_client_info": {
+          "package_name": "com.techpakka.jetplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016560865589-iir0jj8eupe42cs16otetajf2740kba9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpakka.jetplane",
+            "certificate_hash": "905567331004b300e9687bf8c29938a4841f981a"
+          }
+        },
+        {
+          "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4T0LAEcoPSQ_4JbzJl_CrsLq8Dx9KXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016560865589:android:d7d72bbb40d7c105",
+        "android_client_info": {
+          "package_name": "com.techpakka.whatsappstickerspack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016560865589-6vu63eedn25geekg436vq483c31s28h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpakka.whatsappstickerspack",
+            "certificate_hash": "905567331004b300e9687bf8c29938a4841f981a"
+          }
+        },
+        {
+          "client_id": "1016560865589-an34mhunfh02ft8lt4j5ecuhjg8424ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpakka.whatsappstickerspack",
+            "certificate_hash": "b198f21ddc7710df67721f4ba6be2e2d5e1d0226"
+          }
+        },
+        {
+          "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4T0LAEcoPSQ_4JbzJl_CrsLq8Dx9KXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016560865589-0v939v4bnseou01bahfva38j83kptv1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8880297974968217~7524414495"
+    }
+  ],
+  "configuration_version": "1"
+}

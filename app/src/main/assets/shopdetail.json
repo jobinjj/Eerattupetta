@@ -1,0 +1,5294 @@
+{
+  "shops": [
+    {
+      "id": "353",
+      "category_id": "54",
+      "name_english": " CAR CHOICE USED CAR SHOWROOM ",
+      "name_malayalam": "കാർ ചോയ്സ് ",
+      "place": " ഈരാറ്റുപേട്ട",
+      "phone": "09447762405",
+      "created_at": "2018-09-15 17:39:00",
+      "updated_at": "2018-09-15 17:39:00"
+    },
+    {
+      "id": "169",
+      "category_id": "32",
+      "name_english": " Cm",
+      "name_malayalam": "സി എം ഇലക്ട്രിക്കൽസ്",
+      "place": "എം ഈ എസ് ജങ്ഷൻ ",
+      "phone": "9048680028",
+      "created_at": "2018-09-07 10:48:01",
+      "updated_at": "2018-09-07 10:48:01"
+    },
+    {
+      "id": "461",
+      "category_id": "66",
+      "name_english": " DE MiLANo",
+      "name_malayalam": "ഡി  മിലാനോ (ലേഡീസ്  ടൈലറിംഗ്\u200c )",
+      "place": "സിറ്റി  സെന്റർ  സെൻട്രൽ  ജംഗ്ഷൻ  ഈരാറ്റുപേട്ട  ",
+      "phone": "9745997550",
+      "created_at": "2018-09-19 05:15:36",
+      "updated_at": "2018-09-19 05:15:36"
+    },
+    {
+      "id": "356",
+      "category_id": "62",
+      "name_english": " friends internet cafe",
+      "name_malayalam": "ഫ്രണ്ട്സ്  ഇന്റര്\u200dനെറ്റ് നെറ്റ് കഫെ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9497586675",
+      "created_at": "2018-09-15 17:47:00",
+      "updated_at": "2018-09-15 17:47:00"
+    },
+    {
+      "id": "515",
+      "category_id": "54",
+      "name_english": " Mahin veliyath ",
+      "name_malayalam": "മാഹിൻ വെളിയത്ത് ",
+      "place": "ഈരാറ്റുപേട്ട  ",
+      "phone": " 9447843232",
+      "created_at": "2018-10-01 13:16:01",
+      "updated_at": "2018-10-01 13:16:01"
+    },
+    {
+      "id": "305",
+      "category_id": "28",
+      "name_english": " Muhammed Wafa",
+      "name_malayalam": "മുഹമ്മദ് വഫാ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847504803",
+      "created_at": "2018-09-14 11:46:00",
+      "updated_at": "2018-09-14 11:46:00"
+    },
+    {
+      "id": "524",
+      "category_id": "77",
+      "name_english": " Perfect agencies ",
+      "name_malayalam": "പെർഫെക്ട് ഏജൻസീസ് (പാർലെ ഡിസ്ട്രിബ്യൂട്ടർ)",
+      "place": "നടയ്ക്കൽ ",
+      "phone": "9846058798",
+      "created_at": "2018-10-14 16:01:37",
+      "updated_at": "2018-10-14 16:01:37"
+    },
+    {
+      "id": "416",
+      "category_id": "33",
+      "name_english": " Perfect aluminium & Door",
+      "name_malayalam": "പെര്\u200dഫെക്റ്റ്\u200c അലുമിനിയം& ഡോര്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8089185781 ",
+      "created_at": "2018-09-15 22:34:30",
+      "updated_at": "2018-09-15 22:34:30"
+    },
+    {
+      "id": "426",
+      "category_id": "10",
+      "name_english": "2 AND 3 ",
+      "name_malayalam": "2 ആൻഡ് 3 സെക്കൻഡ് ഹാൻഡ് സ്പെയർ പാർട്സ്  ",
+      "place": "നടക്കല്\u200d  , ഈരാറ്റുപേട്ട ",
+      "phone": "9447805578",
+      "created_at": "2018-09-16 13:01:43",
+      "updated_at": "2018-09-16 13:01:43"
+    },
+    {
+      "id": "437",
+      "category_id": "50",
+      "name_english": "????? ",
+      "name_malayalam": "സ്റ്റേഷനറി ഹോൾസെയിൽ",
+      "place": "തെക്കേക്കര , ഈരാറ്റുപേട്ട ",
+      "phone": "81130 88633 ",
+      "created_at": "2018-09-17 16:11:18",
+      "updated_at": "2018-09-17 16:11:18"
+    },
+    {
+      "id": "153",
+      "category_id": "29",
+      "name_english": "A one ",
+      "name_malayalam": "എ വൺ സിമന്റ് പ്രൊഡക്ട്",
+      "place": "ആറാം മൈൽ, പനക്കപ്പാലം ",
+      "phone": "9605171833",
+      "created_at": "2018-09-06 07:06:13",
+      "updated_at": "2018-09-06 07:06:13"
+    },
+    {
+      "id": "95",
+      "category_id": "20",
+      "name_english": "A one thread",
+      "name_malayalam": "എ വൺ ത്രഡ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9495212608",
+      "created_at": "2018-09-03 06:39:13",
+      "updated_at": "2018-09-03 06:39:13"
+    },
+    {
+      "id": "446",
+      "category_id": "54",
+      "name_english": "Abhdul karim",
+      "name_malayalam": "അബ്ദുൽ കരീം",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "09447105230",
+      "created_at": "2018-09-17 21:51:16",
+      "updated_at": "2018-09-17 21:51:16"
+    },
+    {
+      "id": "70",
+      "category_id": "16",
+      "name_english": "Abilash",
+      "name_malayalam": "അഭിലാഷ് ടെക്സ്റ്റൈൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822273338",
+      "created_at": "2018-09-02 22:09:50",
+      "updated_at": "2018-09-02 22:09:50"
+    },
+    {
+      "id": "121",
+      "category_id": "22",
+      "name_english": "AChoos",
+      "name_malayalam": "അച്ചൂസ് സിഡി ഷോപ്പ്",
+      "place": "പി ബി എതിർ വശം, ഈരാറ്റുപേട്ട",
+      "phone": "9847883513",
+      "created_at": "2018-09-04 08:44:31",
+      "updated_at": "2018-09-04 08:44:31"
+    },
+    {
+      "id": "501",
+      "category_id": "18",
+      "name_english": "Address",
+      "name_malayalam": "അഡ്രസ് അപ്പാരൽസ്\u200c  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8086000338",
+      "created_at": "2018-09-24 17:50:32",
+      "updated_at": "2018-09-24 17:50:32"
+    },
+    {
+      "id": "247",
+      "category_id": "45",
+      "name_english": "ADHikaram",
+      "name_malayalam": "അധികാരം ട്രേഡേഴ്\u200cസ്",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "04822273733",
+      "created_at": "2018-09-11 08:18:40",
+      "updated_at": "2018-09-11 08:18:40"
+    },
+    {
+      "id": "85",
+      "category_id": "18",
+      "name_english": "Ahashtag",
+      "name_malayalam": "ഹാഷ്ടാഗ് മെൻസ് വെയർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9037438447",
+      "created_at": "2018-09-02 22:34:30",
+      "updated_at": "2018-09-02 22:34:30"
+    },
+    {
+      "id": "280",
+      "category_id": "51",
+      "name_english": "AJ audios & events  ",
+      "name_malayalam": "എ ജെ ഓഡിയോസ് & ഇവന്റസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605445050",
+      "created_at": "2018-09-12 09:27:25",
+      "updated_at": "2018-09-12 09:27:25"
+    },
+    {
+      "id": "216",
+      "category_id": "41",
+      "name_english": "AJ department store",
+      "name_malayalam": "എ.ജെ ഡിപാർട്ട്മെന്റ് സ്റ്റോർ",
+      "place": "കോസ്വേ റോഡ് ",
+      "phone": "9447599893",
+      "created_at": "2018-09-08 13:49:11",
+      "updated_at": "2018-09-08 13:49:11"
+    },
+    {
+      "id": "154",
+      "category_id": "29",
+      "name_english": "AKIla",
+      "name_malayalam": "അഖില കോണ്ക്രീറ്റ് വർക്\u200cസ്",
+      "place": "ആറാം മൈൽ , പനക്കപ്പാലം",
+      "phone": "9744999144",
+      "created_at": "2018-09-06 07:07:53",
+      "updated_at": "2018-09-06 07:07:53"
+    },
+    {
+      "id": "520",
+      "category_id": "53",
+      "name_english": "al aqbar",
+      "name_malayalam": "അൽ അഖ്ബാർ  മൊബൈൽസ്&ഡ്യൂട്ടി പൈഡ്   ",
+      "place": "തെക്കേക്കര , ഈരാറ്റുപേട്ട ",
+      "phone": "9633599973",
+      "created_at": "2018-10-07 07:07:25",
+      "updated_at": "2018-10-07 07:07:25"
+    },
+    {
+      "id": "328",
+      "category_id": "12",
+      "name_english": "al baik",
+      "name_malayalam": "അൽ-ബേയ്\u200cക്ക്   ",
+      "place": "കോസ്സ്\u200cവേ റോഡ്  ",
+      "phone": "9747123142",
+      "created_at": "2018-09-15 13:46:12",
+      "updated_at": "2018-09-15 13:46:12"
+    },
+    {
+      "id": "350",
+      "category_id": "14",
+      "name_english": "Al Falah power Links ",
+      "name_malayalam": "അല്\u200d ഫലാഹ് പവര്\u200d ലിങ്ക് ",
+      "place": " ഈരാറ്റുപേട്ട",
+      "phone": "9288500608",
+      "created_at": "2018-09-15 17:26:04",
+      "updated_at": "2018-09-15 17:26:04"
+    },
+    {
+      "id": "351",
+      "category_id": "14",
+      "name_english": "Al Falah power Links ",
+      "name_malayalam": "അല്\u200d ഫലാഹ് പവര്\u200d ലിങ്ക് ",
+      "place": " ഈരാറ്റുപേട്ട",
+      "phone": "9288500608",
+      "created_at": "2018-09-15 17:26:05",
+      "updated_at": "2018-09-15 17:26:05"
+    },
+    {
+      "id": "218",
+      "category_id": "41",
+      "name_english": "Al huda",
+      "name_malayalam": "അൽ ഹുദാ സ്റ്റോർസ്",
+      "place": "നടക്കൽ",
+      "phone": "9961310225",
+      "created_at": "2018-09-08 13:52:21",
+      "updated_at": "2018-09-08 13:52:21"
+    },
+    {
+      "id": "10",
+      "category_id": "2",
+      "name_english": "Al khyam",
+      "name_malayalam": "അൽ ഖയാം",
+      "place": "പി.എം.സി ഹോസ്പിറ്റൽ-ഈരാറ്റുപേട്ട",
+      "phone": "9744390350",
+      "created_at": "2018-08-11 06:24:05",
+      "updated_at": "2018-08-11 06:24:05"
+    },
+    {
+      "id": "323",
+      "category_id": "2",
+      "name_english": "Al madeena",
+      "name_malayalam": "അൽ മദീന  ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "7902223335",
+      "created_at": "2018-09-15 13:37:52",
+      "updated_at": "2018-09-15 13:37:52"
+    },
+    {
+      "id": "299",
+      "category_id": "53",
+      "name_english": "alba ",
+      "name_malayalam": "ആൽബ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447599853",
+      "created_at": "2018-09-14 09:34:50",
+      "updated_at": "2018-09-14 09:34:50"
+    },
+    {
+      "id": "487",
+      "category_id": "55",
+      "name_english": "alfa",
+      "name_malayalam": "ആൽഫ ഡിസൈനർ ടൈൽസ്.",
+      "place": "തേവരുപറ",
+      "phone": "9847549058",
+      "created_at": "2018-09-22 09:49:55",
+      "updated_at": "2018-09-22 09:49:55"
+    },
+    {
+      "id": "488",
+      "category_id": "29",
+      "name_english": "alfa",
+      "name_malayalam": "ആൽഫ ഹോളോ & സോളിഡ്  ബ്രിക്\u200cസ്",
+      "place": "തേവരുപറ",
+      "phone": "9847549058",
+      "created_at": "2018-09-22 09:51:17",
+      "updated_at": "2018-09-22 09:51:17"
+    },
+    {
+      "id": "301",
+      "category_id": "53",
+      "name_english": "alif ",
+      "name_malayalam": "അലിഫ് മൊബൈൽസ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9496608148",
+      "created_at": "2018-09-14 09:37:40",
+      "updated_at": "2018-09-14 09:37:40"
+    },
+    {
+      "id": "420",
+      "category_id": "10",
+      "name_english": "alif",
+      "name_malayalam": "അലിഫ് ഗാരേജ് വെഹിക്കിൾ സെക്കന്റ് സ്പയർ പാർട്സുകൾ ",
+      "place": "മുട്ടം ജഗ്ഷൻ നിയർ പി റ്റി എം സ് ഒഡിറ്റോറിയം",
+      "phone": "9633204299 ",
+      "created_at": "2018-09-16 08:25:27",
+      "updated_at": "2018-09-16 08:25:27"
+    },
+    {
+      "id": "248",
+      "category_id": "45",
+      "name_english": "ALIya",
+      "name_malayalam": "ആലിയ സ്പൈസ്സ്",
+      "place": "കടുവാമുഴി",
+      "phone": "9447507729",
+      "created_at": "2018-09-11 08:19:27",
+      "updated_at": "2018-09-11 08:19:27"
+    },
+    {
+      "id": "272",
+      "category_id": "50",
+      "name_english": "ALiya",
+      "name_malayalam": "ആലിയ ലേഡീസ് സ്റ്റോർ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9447404464",
+      "created_at": "2018-09-12 08:19:36",
+      "updated_at": "2018-09-12 08:19:36"
+    },
+    {
+      "id": "156",
+      "category_id": "30",
+      "name_english": "ALLoos cool bar",
+      "name_malayalam": "അല്ലുസ് കൂൾബാർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961676748",
+      "created_at": "2018-09-06 07:19:52",
+      "updated_at": "2018-09-06 07:19:52"
+    },
+    {
+      "id": "217",
+      "category_id": "41",
+      "name_english": "Alnoor",
+      "name_malayalam": "അൽ നൂർ മിനി മാർക്കറ്റ്",
+      "place": "എം.ഇ.എസ് ജംഗ്ഷൻ",
+      "phone": "9946924996",
+      "created_at": "2018-09-08 13:50:35",
+      "updated_at": "2018-09-08 13:50:35"
+    },
+    {
+      "id": "273",
+      "category_id": "50",
+      "name_english": "ALphonsa",
+      "name_malayalam": "അൽഫോൻസാ കളക്ഷൻസ് & കിഡ് പാർക്ക്",
+      "place": "പുളിക്കൽസ് ഷോപ്പിങ് മാൾ",
+      "phone": "04822273160",
+      "created_at": "2018-09-12 08:21:41",
+      "updated_at": "2018-09-12 08:21:41"
+    },
+    {
+      "id": "28",
+      "category_id": "6",
+      "name_english": "Amala super furniture",
+      "name_malayalam": "അമല സൂപ്പർ ഫർണിച്ചർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605052211",
+      "created_at": "2018-08-11 06:59:39",
+      "updated_at": "2018-08-11 06:59:39"
+    },
+    {
+      "id": "409",
+      "category_id": "12",
+      "name_english": "amana bakery",
+      "name_malayalam": "അമാന ബേക്കറി ചിപ്സ് സെന്റർ  ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9961932732",
+      "created_at": "2018-09-15 21:36:53",
+      "updated_at": "2018-09-15 21:36:53"
+    },
+    {
+      "id": "111",
+      "category_id": "13",
+      "name_english": "AMAron",
+      "name_malayalam": "അമറോൻ ബാറ്ററി ഷോപ്പ്",
+      "place": "പൂഞ്ഞാർ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9961699030",
+      "created_at": "2018-09-03 08:53:37",
+      "updated_at": "2018-09-03 08:53:37"
+    },
+    {
+      "id": "265",
+      "category_id": "49",
+      "name_english": "AMeen",
+      "name_malayalam": "അമീൻ ജ്വവല്ലറി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9744961030",
+      "created_at": "2018-09-12 08:07:02",
+      "updated_at": "2018-09-12 08:07:02"
+    },
+    {
+      "id": "283",
+      "category_id": "52",
+      "name_english": "AMeen",
+      "name_malayalam": "അമീൻ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847678267",
+      "created_at": "2018-09-14 07:08:23",
+      "updated_at": "2018-09-14 07:08:23"
+    },
+    {
+      "id": "60",
+      "category_id": "12",
+      "name_english": "AMMoos",
+      "name_malayalam": "അമ്മൂസ് ബേക്കറി",
+      "place": "ചെന്നാട് ജങ്ഷൻ , തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9605569608",
+      "created_at": "2018-09-02 06:34:27",
+      "updated_at": "2018-09-02 06:34:27"
+    },
+    {
+      "id": "393",
+      "category_id": "35",
+      "name_english": "AMMukili",
+      "name_malayalam": "അമ്മുക്കിളി ഫിഷറീസ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9744957474",
+      "created_at": "2018-09-15 19:40:38",
+      "updated_at": "2018-09-15 19:40:38"
+    },
+    {
+      "id": "432",
+      "category_id": "9",
+      "name_english": "AMNA METALS",
+      "name_malayalam": "അംന മെറ്റല്\u200dസ്\u200c",
+      "place": "മാര്\u200dക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "7025543836",
+      "created_at": "2018-09-17 12:45:51",
+      "updated_at": "2018-09-18 13:41:00"
+    },
+    {
+      "id": "61",
+      "category_id": "12",
+      "name_english": "ANgel",
+      "name_malayalam": "എയ്ഞ്ചൽ ബേക്കേഴ്\u200cസ്",
+      "place": "അരുവിത്തുറ, ഈരാറ്റുപേട്ട ",
+      "phone": "9846445586",
+      "created_at": "2018-09-02 06:35:37",
+      "updated_at": "2018-09-02 06:35:37"
+    },
+    {
+      "id": "4",
+      "category_id": "1",
+      "name_english": "Ansar",
+      "name_malayalam": "അൻസാർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847295386",
+      "created_at": "2018-07-27 09:40:47",
+      "updated_at": "2018-07-27 09:40:47"
+    },
+    {
+      "id": "287",
+      "category_id": "52",
+      "name_english": "ANsil",
+      "name_malayalam": "അൻസിൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "7025790900",
+      "created_at": "2018-09-14 07:13:25",
+      "updated_at": "2018-09-14 07:13:25"
+    },
+    {
+      "id": "8",
+      "category_id": "6",
+      "name_english": "ANvar sulthan",
+      "name_malayalam": "അൻവർ സുൽത്താൻ  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961808794",
+      "created_at": "2018-08-09 06:42:48",
+      "updated_at": "2018-08-09 06:42:48"
+    },
+    {
+      "id": "214",
+      "category_id": "40",
+      "name_english": "Apple",
+      "name_malayalam": "ആപ്പിൾ ഫോട്ടോസ്റ്റാറ്റ്, ഡി.റ്റി.പി",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9656805222",
+      "created_at": "2018-09-08 13:10:17",
+      "updated_at": "2018-09-08 13:10:17"
+    },
+    {
+      "id": "219",
+      "category_id": "41",
+      "name_english": "Apple",
+      "name_malayalam": "ആപ്പിൾ സൂപ്പർ ബസാർ",
+      "place": "കോസ്വേ റോഡ്",
+      "phone": "9447127357",
+      "created_at": "2018-09-08 13:54:04",
+      "updated_at": "2018-09-08 13:54:04"
+    },
+    {
+      "id": "490",
+      "category_id": "72",
+      "name_english": "apple power tools",
+      "name_malayalam": "ആപ്പിൾ പവർ ടൂൾസ്   ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9446126450 ",
+      "created_at": "2018-09-22 11:40:21",
+      "updated_at": "2018-09-22 11:40:21"
+    },
+    {
+      "id": "1",
+      "category_id": "2",
+      "name_english": "Arabian Crew Grill Station",
+      "name_malayalam": "അറേബ്യൻ ക്രൂ ഗ്രിൽ സ്റ്റേഷൻ",
+      "place": "ആറാം മൈൽ, ഈരാറ്റുപേട്ട",
+      "phone": "9847282895",
+      "created_at": "2018-07-24 12:38:55",
+      "updated_at": "2018-09-07 15:28:04"
+    },
+    {
+      "id": "62",
+      "category_id": "12",
+      "name_english": "ARcgana",
+      "name_malayalam": "അർച്ചന സ്വീറ്\u200cസ്",
+      "place": "പി. ബി സ്റ്റാൻഡ് ഈരാറ്റുപേട്ട",
+      "phone": "9744046543",
+      "created_at": "2018-09-02 06:36:50",
+      "updated_at": "2018-09-02 06:36:50"
+    },
+    {
+      "id": "341",
+      "category_id": "53",
+      "name_english": "arebia",
+      "name_malayalam": "അറേബ്യാ മൊബൈൽസ്,",
+      "place": "നടയ്ക്കൽ",
+      "phone": "9947804214",
+      "created_at": "2018-09-15 15:22:20",
+      "updated_at": "2018-09-15 15:22:20"
+    },
+    {
+      "id": "436",
+      "category_id": "50",
+      "name_english": "arebin",
+      "name_malayalam": "അറേബ്യൻ സ്റ്റേഷനറി&ലേഡീസ്റ്റോർ.",
+      "place": "കടുവാമുഴി",
+      "phone": "9074389142",
+      "created_at": "2018-09-17 16:00:49",
+      "updated_at": "2018-09-17 16:00:49"
+    },
+    {
+      "id": "395",
+      "category_id": "4",
+      "name_english": "arshad",
+      "name_malayalam": "അര്\u200dഷാദ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605840005",
+      "created_at": "2018-09-15 19:51:51",
+      "updated_at": "2018-09-15 19:51:51"
+    },
+    {
+      "id": "475",
+      "category_id": "59",
+      "name_english": "Arshad",
+      "name_malayalam": "അർഷദ് ഡിസൈനിങ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605840005",
+      "created_at": "2018-09-20 13:09:13",
+      "updated_at": "2018-09-20 13:09:13"
+    },
+    {
+      "id": "476",
+      "category_id": "36",
+      "name_english": "arshad ",
+      "name_malayalam": "അർഷദ് ഡിസൈനിങ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605840005",
+      "created_at": "2018-09-20 13:09:43",
+      "updated_at": "2018-09-20 13:09:43"
+    },
+    {
+      "id": "35",
+      "category_id": "7",
+      "name_english": "Arun sounds",
+      "name_malayalam": "അരുൺ സൗണ്ട്\u200cസ് - 1",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "9446985598",
+      "created_at": "2018-08-28 08:23:34",
+      "updated_at": "2018-08-28 08:23:34"
+    },
+    {
+      "id": "36",
+      "category_id": "7",
+      "name_english": "ARun sounds",
+      "name_malayalam": "അരുൺ സൗണ്ട്\u200cസ് - 2",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "9446475514",
+      "created_at": "2018-08-28 08:24:45",
+      "updated_at": "2018-08-28 08:24:45"
+    },
+    {
+      "id": "245",
+      "category_id": "45",
+      "name_english": "As",
+      "name_malayalam": "എ എസ് ട്രേഡേഴ്\u200cസ്",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9947804767",
+      "created_at": "2018-09-11 07:55:13",
+      "updated_at": "2018-09-11 07:55:13"
+    },
+    {
+      "id": "449",
+      "category_id": "18",
+      "name_english": "ASHIKURTHAS",
+      "name_malayalam": "ആഷി കുർത്താസ്",
+      "place": "മാർക്കറ്റ് റോഡ്",
+      "phone": "9747177121",
+      "created_at": "2018-09-18 13:38:08",
+      "updated_at": "2018-09-18 13:38:08"
+    },
+    {
+      "id": "505",
+      "category_id": "54",
+      "name_english": "ashraf (indus motors)",
+      "name_malayalam": "  അഷ്റഫ്  (ഇൻഡസ് മോട്ടോർസ്)",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": " 9746743379",
+      "created_at": "2018-09-25 15:15:01",
+      "updated_at": "2018-09-25 15:15:01"
+    },
+    {
+      "id": "285",
+      "category_id": "52",
+      "name_english": "ASif",
+      "name_malayalam": "ആസിഫ് ഇഞ്ചകാടൻ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9207006104",
+      "created_at": "2018-09-14 07:11:58",
+      "updated_at": "2018-09-14 07:11:58"
+    },
+    {
+      "id": "45",
+      "category_id": "10",
+      "name_english": "Auto",
+      "name_malayalam": "ഓട്ടോ സോൺ ",
+      "place": "പാലാ റോഡ് , കടുവാമുഴി ",
+      "phone": "9847325939",
+      "created_at": "2018-09-01 21:47:18",
+      "updated_at": "2018-09-01 21:47:18"
+    },
+    {
+      "id": "440",
+      "category_id": "3",
+      "name_english": "AUTOLAND CAR ACCESSORIES",
+      "name_malayalam": "സാദിഖ് നാസിം",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "7902262707",
+      "created_at": "2018-09-17 17:14:04",
+      "updated_at": "2018-09-17 17:14:04"
+    },
+    {
+      "id": "167",
+      "category_id": "3",
+      "name_english": "Axiom carplaza",
+      "name_malayalam": "ആക്സിയം കാർ പ്ലാസ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9747190110",
+      "created_at": "2018-09-06 20:46:52",
+      "updated_at": "2018-09-06 20:46:52"
+    },
+    {
+      "id": "246",
+      "category_id": "45",
+      "name_english": "Ay",
+      "name_malayalam": "എ വൈ ട്രഡേഴ്സ്",
+      "place": "ചെന്നാട് ജങ്ഷൻ , തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9447074783",
+      "created_at": "2018-09-11 08:17:35",
+      "updated_at": "2018-09-11 08:17:35"
+    },
+    {
+      "id": "537",
+      "category_id": "78",
+      "name_english": "Ayinseh ",
+      "name_malayalam": "ഐൻസെ മേഹന്തി സ്റ്റുഡിയോ ",
+      "place": "എം ഈ എസ് ജങ്ഷൻ, ഈരാറ്റുപേട്ട ",
+      "phone": "9946740548",
+      "created_at": "2018-11-09 08:38:30",
+      "updated_at": "2018-11-09 08:38:30"
+    },
+    {
+      "id": "131",
+      "category_id": "24",
+      "name_english": "BAdariya",
+      "name_malayalam": "ബദരിയ മിനി ബസ്സർ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9447263951",
+      "created_at": "2018-09-04 09:00:11",
+      "updated_at": "2018-09-04 09:00:11"
+    },
+    {
+      "id": "343",
+      "category_id": "59",
+      "name_english": "bans card",
+      "name_malayalam": "ബാൻസ്  കാർഡ്  - സനീർ പി പി",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "94464 77962",
+      "created_at": "2018-09-15 15:42:49",
+      "updated_at": "2018-09-16 06:34:42"
+    },
+    {
+      "id": "157",
+      "category_id": "30",
+      "name_english": "Beema",
+      "name_malayalam": "ബീമാ കുൾബാർ ",
+      "place": "ചെന്നാട് ജങ്ഷൻ , തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9744117502",
+      "created_at": "2018-09-06 07:21:08",
+      "updated_at": "2018-09-06 07:21:08"
+    },
+    {
+      "id": "46",
+      "category_id": "10",
+      "name_english": "Benz",
+      "name_malayalam": "ബെൻസ് ഓട്ടോ മൊബൈൽസ് ",
+      "place": " വടക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "04822277707",
+      "created_at": "2018-09-01 21:49:41",
+      "updated_at": "2018-09-01 21:49:41"
+    },
+    {
+      "id": "442",
+      "category_id": "63",
+      "name_english": "BETHANY PHOTOGRAPHY",
+      "name_malayalam": "BETHANY PHOTOGRAPHY",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9645657107",
+      "created_at": "2018-09-17 17:37:50",
+      "updated_at": "2018-09-17 17:37:50"
+    },
+    {
+      "id": "48",
+      "category_id": "10",
+      "name_english": "Bharadh",
+      "name_malayalam": "ഭാരത് ഓട്ടോ പാർട്\u200cസ് ",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9447456727",
+      "created_at": "2018-09-01 21:51:51",
+      "updated_at": "2018-09-07 15:15:57"
+    },
+    {
+      "id": "166",
+      "category_id": "32",
+      "name_english": "BHarath",
+      "name_malayalam": "ഭാരത് ഇലക്ട്രികൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447139920",
+      "created_at": "2018-09-06 10:46:02",
+      "updated_at": "2018-09-06 10:46:02"
+    },
+    {
+      "id": "162",
+      "category_id": "31",
+      "name_english": "BHarathi ",
+      "name_malayalam": "ഭാരതി തേപ്പുകട",
+      "place": "വട്ടക്കയം , ഈരാറ്റുപേട്ട",
+      "phone": "8593025689",
+      "created_at": "2018-09-06 10:40:22",
+      "updated_at": "2018-09-06 10:40:22"
+    },
+    {
+      "id": "71",
+      "category_id": "16",
+      "name_english": "Bismi",
+      "name_malayalam": "ബിസ്മി സിൽക് പാലസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447076619",
+      "created_at": "2018-09-02 22:10:58",
+      "updated_at": "2018-09-02 22:10:58"
+    },
+    {
+      "id": "158",
+      "category_id": "30",
+      "name_english": "Bismi",
+      "name_malayalam": "ബിസ്മി കുൾബാർ",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9847010471",
+      "created_at": "2018-09-06 07:22:24",
+      "updated_at": "2018-09-06 07:22:24"
+    },
+    {
+      "id": "193",
+      "category_id": "37",
+      "name_english": "Bismi",
+      "name_malayalam": "ബിസ്മി ഫുട്ട് വെയർ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447108063",
+      "created_at": "2018-09-08 07:39:41",
+      "updated_at": "2018-09-08 07:39:41"
+    },
+    {
+      "id": "63",
+      "category_id": "12",
+      "name_english": "Boofiya",
+      "name_malayalam": "ബൂഫിയ ബേക്കറി",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9526642417",
+      "created_at": "2018-09-02 06:37:56",
+      "updated_at": "2018-09-02 06:37:56"
+    },
+    {
+      "id": "117",
+      "category_id": "15",
+      "name_english": "Book house",
+      "name_malayalam": "ബുക്ക് സ്റ്റോർ",
+      "place": "കോളേജ് റോഡ് അരുവിത്തുറ",
+      "phone": "9496158443",
+      "created_at": "2018-09-03 14:31:24",
+      "updated_at": "2018-09-03 14:31:24"
+    },
+    {
+      "id": "485",
+      "category_id": "18",
+      "name_english": "BRAND ZONE MENS&KIDS WEAR",
+      "name_malayalam": "തട്ടാംപറമ്പിൽ ഷോപ്പിംഗ് കോംപ്ലക്\u200cസ്, സെൻട്രൽ ജംഗ്ഷ",
+      "place": "തട്ടാംപറമ്പിൽ ഷോപ്പിംഗ് കോംപ്ലക്\u200cസ്, opp. നൈനാർ മസ",
+      "phone": " 9656516468",
+      "created_at": "2018-09-22 09:28:52",
+      "updated_at": "2018-09-22 09:28:52"
+    },
+    {
+      "id": "465",
+      "category_id": "63",
+      "name_english": "Bravias media studio  ",
+      "name_malayalam": "ബ്രാവിയസ് മീഡിയ സ്റ്റുഡിയോ  ",
+      "place": "കോളേജ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട ",
+      "phone": "9544900044",
+      "created_at": "2018-09-19 16:14:14",
+      "updated_at": "2018-09-19 16:14:14"
+    },
+    {
+      "id": "168",
+      "category_id": "32",
+      "name_english": "Bright",
+      "name_malayalam": "Bright electricals ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9447882422",
+      "created_at": "2018-09-07 10:46:03",
+      "updated_at": "2018-09-07 10:46:03"
+    },
+    {
+      "id": "274",
+      "category_id": "50",
+      "name_english": "Campus",
+      "name_malayalam": "ക്യാംപസ് ഫാൻസി",
+      "place": "ടി ബി റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9447210296",
+      "created_at": "2018-09-12 08:23:08",
+      "updated_at": "2018-09-12 08:23:08"
+    },
+    {
+      "id": "178",
+      "category_id": "33",
+      "name_english": "CAsino",
+      "name_malayalam": "കാസിനോ ഡോർസ് ",
+      "place": "എം ഇ എസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9747771990",
+      "created_at": "2018-09-07 17:39:41",
+      "updated_at": "2018-09-07 17:39:41"
+    },
+    {
+      "id": "249",
+      "category_id": "45",
+      "name_english": "Ccm",
+      "name_malayalam": "സി സി എം ഗ്രുപ്പ്",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9495972201",
+      "created_at": "2018-09-11 08:21:00",
+      "updated_at": "2018-09-11 08:21:00"
+    },
+    {
+      "id": "124",
+      "category_id": "23",
+      "name_english": "Center",
+      "name_malayalam": "സെൻട്രൽ ഹർഡ്\u200cവെസ്",
+      "place": "പൂഞ്ഞാർ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9961273376",
+      "created_at": "2018-09-04 08:48:22",
+      "updated_at": "2018-09-04 08:48:22"
+    },
+    {
+      "id": "64",
+      "category_id": "12",
+      "name_english": "Central ",
+      "name_malayalam": "സെൻട്രൽ ബേക്കറി",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9744278080",
+      "created_at": "2018-09-02 06:39:22",
+      "updated_at": "2018-09-02 06:39:22"
+    },
+    {
+      "id": "220",
+      "category_id": "41",
+      "name_english": "Central",
+      "name_malayalam": "സെൻട്രൽ സ്റ്റോർ",
+      "place": "മുട്ടം ജംഗ്ഷൻ",
+      "phone": "9400232431",
+      "created_at": "2018-09-08 13:55:20",
+      "updated_at": "2018-09-08 13:55:20"
+    },
+    {
+      "id": "91",
+      "category_id": "19",
+      "name_english": "Century",
+      "name_malayalam": "സെഞ്ചുറി സ്പോർട്സ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847914799",
+      "created_at": "2018-09-02 22:52:39",
+      "updated_at": "2018-09-02 22:52:39"
+    },
+    {
+      "id": "516",
+      "category_id": "39",
+      "name_english": "Chaiparambil rexine house Kanjirapally ",
+      "name_malayalam": "ചായിപ്പറമ്പിൽ റെക്സിൻ  ഹൗസ്  ",
+      "place": "കാഞ്ഞിരപ്പള്ളി ",
+      "phone": "8547590654",
+      "created_at": "2018-10-01 13:21:27",
+      "updated_at": "2018-10-01 13:21:27"
+    },
+    {
+      "id": "250",
+      "category_id": "45",
+      "name_english": "CHanthukhan",
+      "name_malayalam": "ചാന്തുകാൻ പറമ്പിൽ ഹിൽ പ്രൊഡക്ട്",
+      "place": "നിയർ സി സി എം, തെക്കേക്കര",
+      "phone": "9947668435",
+      "created_at": "2018-09-11 08:23:01",
+      "updated_at": "2018-09-11 08:23:01"
+    },
+    {
+      "id": "477",
+      "category_id": "12",
+      "name_english": "charcol",
+      "name_malayalam": "ചാർകോൾ(അൽഫാം, ഷവർമ്മ)",
+      "place": "നടയ്ക്കൽ",
+      "phone": "9747591026",
+      "created_at": "2018-09-20 13:10:19",
+      "updated_at": "2018-09-20 13:10:19"
+    },
+    {
+      "id": "468",
+      "category_id": "12",
+      "name_english": "charkol",
+      "name_malayalam": "ചാർകോൾ (അൽഫാം ,ഷവർമ്മ)",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9747591026",
+      "created_at": "2018-09-20 10:18:54",
+      "updated_at": "2018-09-20 10:18:54"
+    },
+    {
+      "id": "203",
+      "category_id": "38",
+      "name_english": "Chemannachalil",
+      "name_malayalam": "ചെമ്മന്നചാല്ലിൽ  എഗ്ഗ് സ്റ്റോർ",
+      "place": "കുരിക്കൽ നഗർ, ഈരാറ്റുപേട്ട",
+      "phone": "9447474929",
+      "created_at": "2018-09-08 07:56:27",
+      "updated_at": "2018-09-08 07:56:27"
+    },
+    {
+      "id": "99",
+      "category_id": "21",
+      "name_english": "Cheriyaballam",
+      "name_malayalam": "ചെറിയവല്ലം ടിമ്പേഴ്സ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961497558",
+      "created_at": "2018-09-03 06:45:45",
+      "updated_at": "2018-09-03 06:45:45"
+    },
+    {
+      "id": "421",
+      "category_id": "49",
+      "name_english": "Chilanka jewellers",
+      "name_malayalam": "ചിലങ്ക ജുവലറി",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9947224003",
+      "created_at": "2018-09-16 08:28:43",
+      "updated_at": "2018-09-16 08:28:43"
+    },
+    {
+      "id": "275",
+      "category_id": "50",
+      "name_english": "Chinnu",
+      "name_malayalam": "ചിന്നു ഷോപ്പിങ് സെന്റർ",
+      "place": "ടി ബി റോഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9495227030",
+      "created_at": "2018-09-12 08:32:11",
+      "updated_at": "2018-09-12 08:32:11"
+    },
+    {
+      "id": "179",
+      "category_id": "33",
+      "name_english": "CHoice",
+      "name_malayalam": "ചോയ്സ് അലുമിനിയം ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9847396997",
+      "created_at": "2018-09-07 17:40:35",
+      "updated_at": "2018-09-07 17:40:35"
+    },
+    {
+      "id": "170",
+      "category_id": "32",
+      "name_english": "Choices",
+      "name_malayalam": "ചോയ്സ് സാനിവെയർ & ഇലക്ട്രിക്കൽസ്",
+      "place": "നിയർ കെ എസ് ഈ ബി, വടക്കേക്കര ",
+      "phone": "04822277233",
+      "created_at": "2018-09-07 10:51:47",
+      "updated_at": "2018-09-07 10:51:47"
+    },
+    {
+      "id": "65",
+      "category_id": "12",
+      "name_english": "City",
+      "name_malayalam": "സിറ്റി ബേക്കറി",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9961314039",
+      "created_at": "2018-09-02 06:40:26",
+      "updated_at": "2018-09-02 06:40:26"
+    },
+    {
+      "id": "66",
+      "category_id": "12",
+      "name_english": "City",
+      "name_malayalam": "സിറ്റി ബേക്കറി",
+      "place": "കടുവാമുഴി, ഈരാറ്റുപേട്ട",
+      "phone": "9947124596",
+      "created_at": "2018-09-02 06:41:29",
+      "updated_at": "2018-09-02 06:41:29"
+    },
+    {
+      "id": "171",
+      "category_id": "32",
+      "name_english": "City",
+      "name_malayalam": "സിറ്റി സാനിറ്ററി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9447784319",
+      "created_at": "2018-09-07 10:53:25",
+      "updated_at": "2018-09-07 10:53:25"
+    },
+    {
+      "id": "194",
+      "category_id": "37",
+      "name_english": "City",
+      "name_malayalam": "സിറ്റി ബൂട്\u200cസ്",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447548580",
+      "created_at": "2018-09-08 07:40:45",
+      "updated_at": "2018-09-08 07:40:45"
+    },
+    {
+      "id": "471",
+      "category_id": "71",
+      "name_english": "City auto service station ",
+      "name_malayalam": "സിറ്റി ഓട്ടോ സർവിസ് സ്റ്റേഷൻ  ",
+      "place": "നിയർ അൽമനാർ, ",
+      "phone": "9020333337 ",
+      "created_at": "2018-09-20 10:43:58",
+      "updated_at": "2018-09-20 10:43:58"
+    },
+    {
+      "id": "434",
+      "category_id": "12",
+      "name_english": "city bakery",
+      "name_malayalam": "സിറ്റി ബേക്കറി  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961314085",
+      "created_at": "2018-09-17 12:55:30",
+      "updated_at": "2018-09-17 12:55:30"
+    },
+    {
+      "id": "298",
+      "category_id": "53",
+      "name_english": "City times",
+      "name_malayalam": "സിറ്റി ടൈംസ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9747992872",
+      "created_at": "2018-09-14 09:34:09",
+      "updated_at": "2018-09-14 09:34:09"
+    },
+    {
+      "id": "180",
+      "category_id": "33",
+      "name_english": "Classic",
+      "name_malayalam": "ക്ലാസിക് ഫൈബർ ഡോർ",
+      "place": "മുട്ടം ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9947855728",
+      "created_at": "2018-09-07 17:41:51",
+      "updated_at": "2018-09-07 17:41:51"
+    },
+    {
+      "id": "430",
+      "category_id": "51",
+      "name_english": "Classic",
+      "name_malayalam": "ക്ലാസിക് ലൈറ്റ് & സൗണ്ട്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8089007795",
+      "created_at": "2018-09-16 18:43:40",
+      "updated_at": "2018-09-16 18:43:40"
+    },
+    {
+      "id": "431",
+      "category_id": "51",
+      "name_english": "Classic",
+      "name_malayalam": "ക്ലാസിക് ലൈറ്റ് & സൗണ്ട്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8089007795",
+      "created_at": "2018-09-16 18:43:41",
+      "updated_at": "2018-09-16 18:43:41"
+    },
+    {
+      "id": "313",
+      "category_id": "56",
+      "name_english": "Clint",
+      "name_malayalam": "ക്ലിന്റ് ഓഫ്സെറ്റ് പ്രസ്സ്  ",
+      "place": "കോസ്\u200cവേ റോഡ് ഈരാറ്റുപേട്ട",
+      "phone": "9961234008",
+      "created_at": "2018-09-14 22:33:41",
+      "updated_at": "2018-09-14 22:33:41"
+    },
+    {
+      "id": "522",
+      "category_id": "16",
+      "name_english": "club 7",
+      "name_malayalam": "ക്ലബ്\u200c 7ഫാഷൻ  കോർണർ (ലേഡീസ് &ജെന്റ്സ്  വെയർ)",
+      "place": "സിറ്റി സെന്റർ ബിൽഡിംഗ്\u200c , ഈരാറ്റുപേട്ട ",
+      "phone": "9847894438",
+      "created_at": "2018-10-09 20:20:05",
+      "updated_at": "2018-10-09 20:20:05"
+    },
+    {
+      "id": "93",
+      "category_id": "19",
+      "name_english": "Cochin",
+      "name_malayalam": "കൊച്ചിൻ സൈക്കിൾസ് & സ്പോർട്സ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447120291",
+      "created_at": "2018-09-02 22:53:52",
+      "updated_at": "2018-09-02 22:53:52"
+    },
+    {
+      "id": "67",
+      "category_id": "12",
+      "name_english": "COffee",
+      "name_malayalam": "കോപ്പി ലാൻഡ് ബേക്കറി",
+      "place": "പനയ്ക്കപാലം",
+      "phone": "98 47 99 82 93",
+      "created_at": "2018-09-02 08:32:23",
+      "updated_at": "2018-09-02 08:32:23"
+    },
+    {
+      "id": "232",
+      "category_id": "43",
+      "name_english": "Cohin ",
+      "name_malayalam": "കൊച്ചിൻ പ്ലൈവുഡ് ",
+      "place": "എം ഇ എസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447067702",
+      "created_at": "2018-09-11 07:26:27",
+      "updated_at": "2018-09-11 07:26:27"
+    },
+    {
+      "id": "331",
+      "category_id": "56",
+      "name_english": "color mix",
+      "name_malayalam": "കളർ മിക്സ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9072920714",
+      "created_at": "2018-09-15 13:56:16",
+      "updated_at": "2018-09-15 13:56:16"
+    },
+    {
+      "id": "332",
+      "category_id": "36",
+      "name_english": "Color mix",
+      "name_malayalam": "കളർ മിക്സ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9072920714",
+      "created_at": "2018-09-15 13:56:39",
+      "updated_at": "2018-09-18 15:16:39"
+    },
+    {
+      "id": "188",
+      "category_id": "36",
+      "name_english": "Colour point",
+      "name_malayalam": "കളർ പോയിന്റ്",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9446713159",
+      "created_at": "2018-09-07 17:52:52",
+      "updated_at": "2018-09-07 17:52:52"
+    },
+    {
+      "id": "346",
+      "category_id": "18",
+      "name_english": "Combo",
+      "name_malayalam": "കോമ്പോ മെൻസ് വെയർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9895486548",
+      "created_at": "2018-09-15 16:35:05",
+      "updated_at": "2018-09-15 16:35:05"
+    },
+    {
+      "id": "300",
+      "category_id": "53",
+      "name_english": "connect",
+      "name_malayalam": "കണക്ട് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447767208",
+      "created_at": "2018-09-14 09:35:44",
+      "updated_at": "2018-09-14 09:35:44"
+    },
+    {
+      "id": "333",
+      "category_id": "28",
+      "name_english": "connect g",
+      "name_malayalam": "കണക്ട് കമ്പ്യൂട്ടേർസ്  ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447767208",
+      "created_at": "2018-09-15 14:17:26",
+      "updated_at": "2018-09-15 14:17:26"
+    },
+    {
+      "id": "358",
+      "category_id": "18",
+      "name_english": "CROCZ MENS HUB ERATTUPETTA  ",
+      "name_malayalam": "ക്രോക്ക്സ് മെന്\u200dസ് ഹബ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9496608148",
+      "created_at": "2018-09-15 17:58:54",
+      "updated_at": "2018-09-15 17:58:54"
+    },
+    {
+      "id": "352",
+      "category_id": "47",
+      "name_english": "cup & sauser",
+      "name_malayalam": "കപ് ആൻ സോസെർ ഹോം അപ്ലൈൻസ് ആൻഡ്\u200c ഗിഫ്റ്റ് ഹൌസ്    ",
+      "place": "ഹുദാ ജംഗ്ഷൻ നടക്കൽ",
+      "phone": "9447764577",
+      "created_at": "2018-09-15 17:32:43",
+      "updated_at": "2018-09-15 17:32:43"
+    },
+    {
+      "id": "438",
+      "category_id": "9",
+      "name_english": "cup & sauser 1",
+      "name_malayalam": "കപ് ആൻ സോസെർ ഹോം അപ്ലൈൻസ് ആൻഡ്\u200c ഗിഫ്റ്റ് ഹൌസ്",
+      "place": "ആരിഫ ആർക്കേഡ് ഹുദാ ജംഗ്ഷൻ,നടക്കൽ",
+      "phone": "9447764577",
+      "created_at": "2018-09-17 16:38:18",
+      "updated_at": "2018-09-17 16:38:18"
+    },
+    {
+      "id": "29",
+      "category_id": "6",
+      "name_english": "D caza homs",
+      "name_malayalam": "ഡി കാസാ ഹോംസ്",
+      "place": "കടുവാമുഴി",
+      "phone": "04822275713",
+      "created_at": "2018-08-11 07:00:53",
+      "updated_at": "2018-08-11 07:00:53"
+    },
+    {
+      "id": "372",
+      "category_id": "18",
+      "name_english": "D company",
+      "name_malayalam": "ഡി കമ്പനി ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9995671430",
+      "created_at": "2018-09-15 19:06:25",
+      "updated_at": "2018-09-15 19:06:25"
+    },
+    {
+      "id": "80",
+      "category_id": "17",
+      "name_english": "D milano",
+      "name_malayalam": "ഡി മിലാനോ ബൂട്ടിക്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9745997550",
+      "created_at": "2018-09-02 22:25:39",
+      "updated_at": "2018-09-02 22:25:39"
+    },
+    {
+      "id": "362",
+      "category_id": "60",
+      "name_english": "damian medicals",
+      "name_malayalam": "ഡാമിയന്\u200d മെഡിക്കല്\u200dസ് ",
+      "place": "മുട്ടം കവല ",
+      "phone": "0482224286",
+      "created_at": "2018-09-15 18:53:23",
+      "updated_at": "2018-09-15 18:53:23"
+    },
+    {
+      "id": "531",
+      "category_id": "6",
+      "name_english": "Decorath Italian Sofa and furniture  ",
+      "name_malayalam": "ഡെക്കോർത് ഇറ്റാലിയൻ സോഫ ആൻഡ് ഫർണിച്ചർ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "7025525782",
+      "created_at": "2018-10-25 08:43:02",
+      "updated_at": "2018-10-25 08:43:02"
+    },
+    {
+      "id": "536",
+      "category_id": "15",
+      "name_english": "DEENIYAT MAKTAB . FATHIMA MASJID . KUZHIVELI .NADA",
+      "name_malayalam": "ദീനിയാത്ത് മക്തബ്",
+      "place": "ഫാത്തിമ മസ്ജിദിന് സമീപം, കുഴിവേലി, നടയ്ക്കൽ",
+      "phone": "9947130580",
+      "created_at": "2018-11-07 20:27:45",
+      "updated_at": "2018-11-07 20:27:45"
+    },
+    {
+      "id": "480",
+      "category_id": "7",
+      "name_english": "Dennis",
+      "name_malayalam": "ഡെന്നിസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9446600062",
+      "created_at": "2018-09-20 23:00:51",
+      "updated_at": "2018-09-20 23:00:51"
+    },
+    {
+      "id": "311",
+      "category_id": "4",
+      "name_english": "Design corner",
+      "name_malayalam": "ഡിസൈൻ കോർണർ ",
+      "place": "നടക്കൽ ",
+      "phone": "8301818198",
+      "created_at": "2018-09-14 21:58:59",
+      "updated_at": "2018-09-14 21:58:59"
+    },
+    {
+      "id": "321",
+      "category_id": "36",
+      "name_english": "Design corner",
+      "name_malayalam": "ഡിസൈൻ കോർണർ ",
+      "place": "നടക്കൽ ",
+      "phone": "8301818198",
+      "created_at": "2018-09-14 22:53:08",
+      "updated_at": "2018-09-14 22:53:08"
+    },
+    {
+      "id": "52",
+      "category_id": "11",
+      "name_english": "Dhanudhari",
+      "name_malayalam": "ധന്വന്തരി",
+      "place": "സെൻട്രൽ ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447292706",
+      "created_at": "2018-09-01 22:34:01",
+      "updated_at": "2018-09-01 22:34:01"
+    },
+    {
+      "id": "470",
+      "category_id": "16",
+      "name_english": "dhiya",
+      "name_malayalam": "ദിയ ഫാഷൻ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9946291013",
+      "created_at": "2018-09-20 10:26:28",
+      "updated_at": "2018-09-20 10:26:28"
+    },
+    {
+      "id": "448",
+      "category_id": "66",
+      "name_english": "Dising dress meakes",
+      "name_malayalam": "ഡിസൈൻസ് ഡ്രസ്സ്മേകേഴ്സ് ",
+      "place": "ഹുദാ ജംഗ്ഷൻ നടക്കൽ  ഈരാറ്റുപേട്ട ",
+      "phone": "9847 8613 17",
+      "created_at": "2018-09-17 22:39:34",
+      "updated_at": "2018-09-17 22:39:34"
+    },
+    {
+      "id": "181",
+      "category_id": "33",
+      "name_english": "Doors",
+      "name_malayalam": "ഡോർസ് & ലോക്സ്സ്",
+      "place": "പി എം സി ജങ്ഷൻ, ഈരാറ്റുപേട്ട  ",
+      "phone": "9946473841",
+      "created_at": "2018-09-07 17:42:58",
+      "updated_at": "2018-09-07 17:42:58"
+    },
+    {
+      "id": "425",
+      "category_id": "16",
+      "name_english": "Dora kids  ",
+      "name_malayalam": "ഡോറ കിഡ്സ്\u200c ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9061852418",
+      "created_at": "2018-09-16 12:23:57",
+      "updated_at": "2018-09-16 12:23:57"
+    },
+    {
+      "id": "151",
+      "category_id": "28",
+      "name_english": "Dream",
+      "name_malayalam": "ഡ്രീം സോൺ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822274762",
+      "created_at": "2018-09-05 17:13:51",
+      "updated_at": "2018-09-05 17:13:51"
+    },
+    {
+      "id": "527",
+      "category_id": "53",
+      "name_english": "dream cell",
+      "name_malayalam": "ഡ്രീം സെൽ  ",
+      "place": "സെൻട്രൽ ജംഗ്ഷൻ, ഈരാറ്റുപേട്ട ",
+      "phone": "9447458633",
+      "created_at": "2018-10-24 20:56:05",
+      "updated_at": "2018-10-24 20:56:05"
+    },
+    {
+      "id": "185",
+      "category_id": "35",
+      "name_english": "Dry",
+      "name_malayalam": "ഉണക്ക മീൻ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9947139382",
+      "created_at": "2018-09-07 17:48:58",
+      "updated_at": "2018-09-07 17:48:58"
+    },
+    {
+      "id": "118",
+      "category_id": "15",
+      "name_english": "E mart",
+      "name_malayalam": "ഇ മാർട്ട് ",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9495704935",
+      "created_at": "2018-09-03 14:32:37",
+      "updated_at": "2018-09-03 14:32:37"
+    },
+    {
+      "id": "521",
+      "category_id": "76",
+      "name_english": "echofriend trading ",
+      "name_malayalam": "എക്കോഫ്രണ്ട് ട്രേഡിംഗ് ",
+      "place": " (മൺ പാത്രങ്ങൾ, മുള ഉൽപന്നങ്ങൾ) - നടയ്ക്കൽ",
+      "phone": "8606363806",
+      "created_at": "2018-10-08 19:14:38",
+      "updated_at": "2018-10-08 19:14:38"
+    },
+    {
+      "id": "39",
+      "category_id": "9",
+      "name_english": "Edhan metals",
+      "name_malayalam": "ഏദൻ മെറ്റൽസ്",
+      "place": "പനക്കപ്പാലം  ",
+      "phone": "9496323007",
+      "created_at": "2018-09-01 19:09:11",
+      "updated_at": "2018-09-07 15:11:38"
+    },
+    {
+      "id": "494",
+      "category_id": "36",
+      "name_english": "efx xv add",
+      "name_malayalam": "ഇ എഫ് എക്സ്  ആഡ്\u200cസ്   ഫ്ലെക്സ് വർക്ക്\u200c ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447369873",
+      "created_at": "2018-09-22 15:34:20",
+      "updated_at": "2018-09-22 15:34:20"
+    },
+    {
+      "id": "186",
+      "category_id": "35",
+      "name_english": "ELavunkal",
+      "name_malayalam": "ഇലവുങ്കൽ ഉണക്ക മീൻ",
+      "place": "ചെന്നാട് ജങ്ഷൻ, തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9961698930",
+      "created_at": "2018-09-07 17:50:14",
+      "updated_at": "2018-09-07 17:50:14"
+    },
+    {
+      "id": "204",
+      "category_id": "38",
+      "name_english": "ENjakkattil",
+      "name_malayalam": "ഇഞ്ചക്കാട്ടിൽ  ബനനസ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9744802039",
+      "created_at": "2018-09-08 07:58:13",
+      "updated_at": "2018-09-08 07:58:13"
+    },
+    {
+      "id": "316",
+      "category_id": "56",
+      "name_english": "Erattupetta printing society",
+      "name_malayalam": "ഈരാറ്റുപേട്ട പ്രിന്റിങ് സൊസൈറ്റി ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "0482275366",
+      "created_at": "2018-09-14 22:35:39",
+      "updated_at": "2018-09-14 22:35:39"
+    },
+    {
+      "id": "519",
+      "category_id": "6",
+      "name_english": "Faima furniture ",
+      "name_malayalam": "ഫാത്തിമ ഫർണിച്ചർ  ",
+      "place": "തേവരുപാറ  ",
+      "phone": "9526821998",
+      "created_at": "2018-10-02 15:09:25",
+      "updated_at": "2018-10-02 15:09:25"
+    },
+    {
+      "id": "417",
+      "category_id": "44",
+      "name_english": "FAIROOZ FASHION GOLD COVERING ORNAMENTS ",
+      "name_malayalam": "ഫൈറൂസ് ഫാഷന്\u200d ഗോള്\u200dഡ്\u200c കവറിംഗ് ഹോൾസെയിൽ & റീട്ടെയി",
+      "place": "നടയ്ക്കൽ, ഈരാറ്റുപേട്ട",
+      "phone": "9847602516",
+      "created_at": "2018-09-16 07:45:52",
+      "updated_at": "2018-09-22 10:11:05"
+    },
+    {
+      "id": "5",
+      "category_id": "1",
+      "name_english": "Faisal",
+      "name_malayalam": "ഫൈസൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447930447",
+      "created_at": "2018-07-27 09:41:42",
+      "updated_at": "2018-07-27 09:41:42"
+    },
+    {
+      "id": "68",
+      "category_id": "12",
+      "name_english": "Faisal",
+      "name_malayalam": "ഫൈസൽ ബേക്കറി",
+      "place": "കടുവാമുഴി ഈരാറ്റുപേട്ട",
+      "phone": "94 96 97 64 90",
+      "created_at": "2018-09-02 08:49:08",
+      "updated_at": "2018-09-02 08:49:08"
+    },
+    {
+      "id": "237",
+      "category_id": "44",
+      "name_english": "Fajima",
+      "name_malayalam": "ഫാജിമ ഗോൾഡ്\u200c കവറിങ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9037627475",
+      "created_at": "2018-09-11 07:43:18",
+      "updated_at": "2018-09-22 10:12:19"
+    },
+    {
+      "id": "221",
+      "category_id": "41",
+      "name_english": "Family",
+      "name_malayalam": "ഫാമിലി സൂപ്പർ മാർക്കറ്റ്",
+      "place": "സെൻട്രൽ ജംഗ്ഷൻ",
+      "phone": "9895201570",
+      "created_at": "2018-09-08 13:56:24",
+      "updated_at": "2018-09-08 13:56:24"
+    },
+    {
+      "id": "37",
+      "category_id": "8",
+      "name_english": "Farmer's shop ",
+      "name_malayalam": "ഫാർമേഴ്\u200cസ് ഷോപ്പ് ",
+      "place": "പൂഞ്ഞാർ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9947804857",
+      "created_at": "2018-09-01 17:43:33",
+      "updated_at": "2018-09-01 17:43:33"
+    },
+    {
+      "id": "195",
+      "category_id": "37",
+      "name_english": "Fashion ",
+      "name_malayalam": "ഫാഷൻ ഷു",
+      "place": "പിബി റോഡ് , ഈരാറ്റുപേട്ട  ",
+      "phone": "9744280111",
+      "created_at": "2018-09-08 07:42:00",
+      "updated_at": "2018-09-08 07:42:00"
+    },
+    {
+      "id": "238",
+      "category_id": "44",
+      "name_english": "Fashion",
+      "name_malayalam": "ഫാഷൻ ഗോൾഡ്\u200c കവറിങ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9447808363",
+      "created_at": "2018-09-11 07:46:14",
+      "updated_at": "2018-09-11 07:46:14"
+    },
+    {
+      "id": "509",
+      "category_id": "74",
+      "name_english": "Fathiha Dry fruts & perfumes   ",
+      "name_malayalam": "ഫാത്തിമ ഡ്രൈ ഫ്രൂട്ട്\u200cസ് & പെർഫ്യൂംസ്  ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട  ",
+      "phone": "9747767601",
+      "created_at": "2018-09-27 08:46:27",
+      "updated_at": "2018-09-27 08:46:27"
+    },
+    {
+      "id": "239",
+      "category_id": "44",
+      "name_english": "Fathima",
+      "name_malayalam": "ഫാത്തിമ ഗോൾഡ്\u200c കവറിങ്",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9447042869",
+      "created_at": "2018-09-11 07:47:34",
+      "updated_at": "2018-09-11 07:47:34"
+    },
+    {
+      "id": "525",
+      "category_id": "17",
+      "name_english": "Favourite collections",
+      "name_malayalam": "ഫേവറേറ്റ് കളക്ഷൻസ് (ladies and kids)",
+      "place": "ഒന്നാം മൈൽ, നടക്കൽ,ഈരാറ്റുപേട്ട ",
+      "phone": "9526812109",
+      "created_at": "2018-10-20 13:35:38",
+      "updated_at": "2018-10-20 13:35:38"
+    },
+    {
+      "id": "535",
+      "category_id": "17",
+      "name_english": "Favourite collections ladies and kids ",
+      "name_malayalam": "ഫേവറേറ്റ് കളക്ഷൻ ലേഡീസ് ആൻഡ് കിഡ്സ് ",
+      "place": "നടക്കൽ, ഈരാറ്റുപേട്ട ",
+      "phone": "9526812109",
+      "created_at": "2018-11-06 17:11:05",
+      "updated_at": "2018-11-06 17:11:05"
+    },
+    {
+      "id": "306",
+      "category_id": "28",
+      "name_english": "forever systems ",
+      "name_malayalam": "ഫോറെവർ സിസ്റ്റംസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947002110 ",
+      "created_at": "2018-09-14 11:48:02",
+      "updated_at": "2018-09-14 11:48:02"
+    },
+    {
+      "id": "266",
+      "category_id": "49",
+      "name_english": "Fornas",
+      "name_malayalam": "ഫോർനാസ് ജൂവലറി",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "04822276353",
+      "created_at": "2018-09-12 08:08:56",
+      "updated_at": "2018-09-12 08:08:56"
+    },
+    {
+      "id": "402",
+      "category_id": "12",
+      "name_english": "friends bakery",
+      "name_malayalam": "ഫ്രണ്ട്സ് ബേക്കറി ",
+      "place": "തെക്കേക്കര ",
+      "phone": "8606914292",
+      "created_at": "2018-09-15 20:08:56",
+      "updated_at": "2018-09-15 20:08:56"
+    },
+    {
+      "id": "69",
+      "category_id": "12",
+      "name_english": "Frnd",
+      "name_malayalam": "ഫ്രണ്ട്സ് ബേക്കറി",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9447139974",
+      "created_at": "2018-09-02 08:50:09",
+      "updated_at": "2018-09-02 08:50:09"
+    },
+    {
+      "id": "418",
+      "category_id": "28",
+      "name_english": "G-TEC COMPUTER EDUCATION",
+      "name_malayalam": "ജി ടെക്ക് കമ്പ്യൂട്ടർ എഡ്യൂക്കേഷൻ  ",
+      "place": "നൈനാർ പള്ളി കോംപ്ലക്സ് ഈരാറ്റുപേട്ട  ",
+      "phone": "9544427007 ",
+      "created_at": "2018-09-16 07:48:21",
+      "updated_at": "2018-09-16 07:48:21"
+    },
+    {
+      "id": "325",
+      "category_id": "10",
+      "name_english": "gagets",
+      "name_malayalam": "ഗാഗെറ്റ്സ് ബുള്ളറ്റ് ആക്സിറിസ് ഹബ്",
+      "place": "എം ഇ എസ് ജം. ഈരാറ്റുപേട്ട  ",
+      "phone": "9567444889",
+      "created_at": "2018-09-15 13:44:20",
+      "updated_at": "2018-09-16 09:12:37"
+    },
+    {
+      "id": "210",
+      "category_id": "39",
+      "name_english": "Galaxy",
+      "name_malayalam": "ഗാലക്\u200cസി കർട്ടൺ& ഫർണിഷിങ്",
+      "place": "മുട്ടം ജംഗ്ഷൻ",
+      "phone": "9447403748",
+      "created_at": "2018-09-08 13:03:17",
+      "updated_at": "2018-09-08 13:03:17"
+    },
+    {
+      "id": "96",
+      "category_id": "20",
+      "name_english": "Gemini",
+      "name_malayalam": "ജമിനി ഇലക്ട്രോണിക്സ്- സീവിങ് മെഷീൻ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9446126770",
+      "created_at": "2018-09-03 06:40:40",
+      "updated_at": "2018-09-03 06:40:40"
+    },
+    {
+      "id": "371",
+      "category_id": "18",
+      "name_english": "GHF",
+      "name_malayalam": "GHF",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9633700147",
+      "created_at": "2018-09-15 19:05:24",
+      "updated_at": "2018-09-15 19:05:24"
+    },
+    {
+      "id": "354",
+      "category_id": "6",
+      "name_english": "Global Furniture and sofas Nadackal  Unais ",
+      "name_malayalam": "ഗ്ലോബല്\u200d ഫര്\u200dണിച്ചര്\u200d  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447208159",
+      "created_at": "2018-09-15 17:42:26",
+      "updated_at": "2018-09-15 17:42:26"
+    },
+    {
+      "id": "202",
+      "category_id": "37",
+      "name_english": "Golden ",
+      "name_malayalam": "ഗോൾഡൻ ബൂട്ട്\u200cസ്",
+      "place": "പി ബി സ്റ്റാൻഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9447599313",
+      "created_at": "2018-09-08 07:53:43",
+      "updated_at": "2018-09-08 07:53:43"
+    },
+    {
+      "id": "453",
+      "category_id": "69",
+      "name_english": "GOLDEN SPICES",
+      "name_malayalam": "ഷമീർ പി. പി. (ഗോള്\u200dഡന്\u200d സ്\u200cപൈസസ്\u200c)",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447110432",
+      "created_at": "2018-09-18 15:40:57",
+      "updated_at": "2018-09-18 15:40:57"
+    },
+    {
+      "id": "114",
+      "category_id": "14",
+      "name_english": "Grand",
+      "name_malayalam": "ഗ്രാൻഡ് ബിരിയാനി സ്റ്റോർ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9605569777",
+      "created_at": "2018-09-03 08:58:10",
+      "updated_at": "2018-09-03 08:58:10"
+    },
+    {
+      "id": "132",
+      "category_id": "24",
+      "name_english": "Grand",
+      "name_malayalam": "ഗ്രാൻഡ് എഗ്ഗ് & ചിക്കൻ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9249876427",
+      "created_at": "2018-09-04 09:01:18",
+      "updated_at": "2018-09-04 09:01:18"
+    },
+    {
+      "id": "502",
+      "category_id": "55",
+      "name_english": "Grand ",
+      "name_malayalam": "ഗ്രാൻഡ് ഗ്രാനൈറ്റ്സ് ഫാക്ടറി ഔട്ട്ലെറ്റ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9946968769",
+      "created_at": "2018-09-24 20:31:03",
+      "updated_at": "2018-09-24 20:31:03"
+    },
+    {
+      "id": "365",
+      "category_id": "52",
+      "name_english": "Grand autos",
+      "name_malayalam": "ഗ്രാൻഡ് ഓട്ടോസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9744130230",
+      "created_at": "2018-09-15 18:56:38",
+      "updated_at": "2018-09-15 18:56:38"
+    },
+    {
+      "id": "24",
+      "category_id": "6",
+      "name_english": "Grand homes",
+      "name_malayalam": "ഗ്രാന്റ്\u200c ഹോംസ്",
+      "place": "പത്താഴപ്പടി",
+      "phone": "9747007996",
+      "created_at": "2018-08-11 06:53:53",
+      "updated_at": "2018-08-11 06:53:53"
+    },
+    {
+      "id": "479",
+      "category_id": "10",
+      "name_english": "gulfpaints ",
+      "name_malayalam": "ഗൾഫ് പെയിന്റ്\u200cസ് -വാഹനങ്ങളുടെ പെയിന്റ്\u200c",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9526519044",
+      "created_at": "2018-09-20 22:46:12",
+      "updated_at": "2018-09-20 22:46:12"
+    },
+    {
+      "id": "115",
+      "category_id": "14",
+      "name_english": "Hafiz",
+      "name_malayalam": "ഹഫീസ് ഏജന്സിസ്",
+      "place": "മസ്ജിദ് ലൈൻ, സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9947971860",
+      "created_at": "2018-09-03 08:59:52",
+      "updated_at": "2018-09-03 08:59:52"
+    },
+    {
+      "id": "422",
+      "category_id": "1",
+      "name_english": "hah",
+      "name_malayalam": "എഫ് എ എച്ച്  സ്ക്രാപ്പ് മര്\u200dച്ചന്\u200dറ് - ഫൈസല്\u200d കന്ന",
+      "place": "മുട്ടം ജങ്ങ്ഷന്\u200d ",
+      "phone": "9447930447",
+      "created_at": "2018-09-16 09:50:19",
+      "updated_at": "2018-09-16 09:50:19"
+    },
+    {
+      "id": "423",
+      "category_id": "1",
+      "name_english": "hah",
+      "name_malayalam": " എഫ് എ എച്ച്  സ്ക്രാപ്പ് മര്\u200dച്ചന്\u200dറ്  ",
+      "place": "മുട്ടം ജങ്ങ്ഷന്\u200d ",
+      "phone": "  9847295386",
+      "created_at": "2018-09-16 09:52:09",
+      "updated_at": "2018-09-16 09:52:09"
+    },
+    {
+      "id": "88",
+      "category_id": "17",
+      "name_english": "Hana",
+      "name_malayalam": "ഹന പർദാസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947475523",
+      "created_at": "2018-09-02 22:38:07",
+      "updated_at": "2018-09-02 22:38:07"
+    },
+    {
+      "id": "259",
+      "category_id": "47",
+      "name_english": "Happy",
+      "name_malayalam": "ഹാപ്പി ഹോം ",
+      "place": "മുട്ടം ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447258485",
+      "created_at": "2018-09-11 15:46:25",
+      "updated_at": "2018-09-11 15:46:25"
+    },
+    {
+      "id": "141",
+      "category_id": "25",
+      "name_english": "Happy sweets",
+      "name_malayalam": "ഹാപ്പി സ്വീറ്\u200cസ് ( മൊത്ത വ്യാപാരം )",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9605108096",
+      "created_at": "2018-09-05 16:26:41",
+      "updated_at": "2018-09-05 16:26:41"
+    },
+    {
+      "id": "456",
+      "category_id": "36",
+      "name_english": "HASHIM DEIRA",
+      "name_malayalam": "ഹാഷിം ഡൈറാ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9947280203",
+      "created_at": "2018-09-18 16:08:00",
+      "updated_at": "2018-09-18 16:08:00"
+    },
+    {
+      "id": "172",
+      "category_id": "32",
+      "name_english": "Hi",
+      "name_malayalam": "ഹൈ ലൈറ്റ് ഇലക്ട്രിക്കൽസ്",
+      "place": "പൂഞ്ഞാർ റോഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9495380921",
+      "created_at": "2018-09-07 10:56:52",
+      "updated_at": "2018-09-07 10:56:52"
+    },
+    {
+      "id": "89",
+      "category_id": "17",
+      "name_english": "Hiba",
+      "name_malayalam": "ഹിബ പർദ്ദാ ഹൗസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947002389",
+      "created_at": "2018-09-02 22:39:04",
+      "updated_at": "2018-09-02 22:39:04"
+    },
+    {
+      "id": "119",
+      "category_id": "15",
+      "name_english": "Hira",
+      "name_malayalam": "ഹിറാ ബുക്ക്സ് & പെർഫ്യൂം",
+      "place": "നിയർ പുത്തൻപള്ളി , ഈരാറ്റുപേട്ട",
+      "phone": "9446756883",
+      "created_at": "2018-09-03 14:33:51",
+      "updated_at": "2018-09-03 14:33:51"
+    },
+    {
+      "id": "363",
+      "category_id": "60",
+      "name_english": "hira",
+      "name_malayalam": "ഹിറാ മെഡിക്കല്\u200dസ് ",
+      "place": "കുരിക്കള്\u200d നഗര്\u200d ",
+      "phone": "9847782676",
+      "created_at": "2018-09-15 18:54:39",
+      "updated_at": "2018-09-15 18:54:39"
+    },
+    {
+      "id": "25",
+      "category_id": "6",
+      "name_english": "Home style",
+      "name_malayalam": "ഹോം സ്റ്റൈൽ എന്റർപ്രൈസസ്",
+      "place": "വടക്കേക്കര",
+      "phone": "9747384428",
+      "created_at": "2018-08-11 06:55:08",
+      "updated_at": "2018-08-11 06:55:08"
+    },
+    {
+      "id": "263",
+      "category_id": "48",
+      "name_english": "Ice berg",
+      "name_malayalam": "ഐസ് ബെർഗ് ഐസ് ക്രീം",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9961036029",
+      "created_at": "2018-09-11 15:51:37",
+      "updated_at": "2018-09-11 15:51:37"
+    },
+    {
+      "id": "199",
+      "category_id": "37",
+      "name_english": "Ideal",
+      "name_malayalam": "ഐഡിയൽ ഷൂ പാർക്ക്",
+      "place": "പി ബി സ്റ്റാൻഡ് ,ഈരാറ്റുപേട്ട",
+      "phone": "9947804054",
+      "created_at": "2018-09-08 07:50:29",
+      "updated_at": "2018-09-08 07:50:29"
+    },
+    {
+      "id": "105",
+      "category_id": "12",
+      "name_english": "Indian",
+      "name_malayalam": "ഇൻഡ്യൻ ബേക്കേഴ്\u200cസ്",
+      "place": "പാറനാനി ആർക്കിഡ്, ടി ബി റോഡ്, പുളിക്കൻസ് ഷോപ്പിംഗ്",
+      "phone": "9605002016",
+      "created_at": "2018-09-03 08:35:00",
+      "updated_at": "2018-09-03 08:35:00"
+    },
+    {
+      "id": "173",
+      "category_id": "32",
+      "name_english": "INdian",
+      "name_malayalam": "ഇന്ത്യൻ സാനിറ്ററി ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447044063",
+      "created_at": "2018-09-07 11:34:43",
+      "updated_at": "2018-09-07 11:34:43"
+    },
+    {
+      "id": "50",
+      "category_id": "10",
+      "name_english": "Indian auto parts",
+      "name_malayalam": "ഇൻഡ്യൻ ഓട്ടോ പാർട്\u200cസ്",
+      "place": " വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9447128328",
+      "created_at": "2018-09-01 21:53:51",
+      "updated_at": "2018-09-01 21:53:51"
+    },
+    {
+      "id": "11",
+      "category_id": "2",
+      "name_english": "Indian hotel",
+      "name_malayalam": "ഇൻഡ്യൻ ഹോട്ടൽ",
+      "place": "എം.ഇ.എസ് ജംഗ്ഷൻ-ഈരാറ്റുപേട്ട",
+      "phone": "9847487443",
+      "created_at": "2018-08-11 06:25:46",
+      "updated_at": "2018-08-11 06:25:46"
+    },
+    {
+      "id": "211",
+      "category_id": "39",
+      "name_english": "Indian rexin house",
+      "name_malayalam": "ഇൻഡ്യൻ റെക്സിൻ ഹൗസ്",
+      "place": "പൂഞ്ഞാർ റോഡ്",
+      "phone": "9446981974",
+      "created_at": "2018-09-08 13:04:17",
+      "updated_at": "2018-09-08 13:04:17"
+    },
+    {
+      "id": "498",
+      "category_id": "30",
+      "name_english": "iqbal coolbar &chips centre",
+      "name_malayalam": "ഇഖ്ബാൽ കൂൾ ബാർ & ചിപ്\u200cസ് സെന്റർ",
+      "place": "Opp. മുഹ്\u200cയുദ്ദീൻ പള്ളി, തെക്കേക്കര കോസ്\u200cവേ",
+      "phone": "9747135757",
+      "created_at": "2018-09-23 17:55:02",
+      "updated_at": "2018-09-23 17:55:02"
+    },
+    {
+      "id": "464",
+      "category_id": "15",
+      "name_english": "iqrak",
+      "name_malayalam": "ഇഖ്റഅ്ബുക്ക് സ്റ്റാൾ & പെർഫ്യൂം സെന്റർ ",
+      "place": "തട്ടാംപറമ്പിൽ ബിൽഡിംഗ് നൈനാർ പള്ളിക്ക് മുൻവശം ഈരാറ",
+      "phone": "9605 280395",
+      "created_at": "2018-09-19 16:09:16",
+      "updated_at": "2018-09-19 16:09:16"
+    },
+    {
+      "id": "150",
+      "category_id": "28",
+      "name_english": "IT",
+      "name_malayalam": "ഐ ടി ബസാർ",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9400479825",
+      "created_at": "2018-09-05 17:12:26",
+      "updated_at": "2018-09-05 17:12:26"
+    },
+    {
+      "id": "320",
+      "category_id": "29",
+      "name_english": "J&j",
+      "name_malayalam": "ജെ & ജെ (സക്കിർ)",
+      "place": "പൂഞ്ഞാർ റോഡ് മറ്റകാട്",
+      "phone": "9947002097",
+      "created_at": "2018-09-14 22:40:31",
+      "updated_at": "2018-09-14 22:40:31"
+    },
+    {
+      "id": "51",
+      "category_id": "10",
+      "name_english": "Jamba",
+      "name_malayalam": "ജഗദംബ ഓട്ടോ സ്\u200cപെയർ പാർട്\u200cസ്",
+      "place": "ആറാംമൈൽ, ഈരാറ്റുപേട്ട ",
+      "phone": "8301045615",
+      "created_at": "2018-09-01 21:55:05",
+      "updated_at": "2018-09-01 21:55:05"
+    },
+    {
+      "id": "289",
+      "category_id": "52",
+      "name_english": "Jamees",
+      "name_malayalam": "ജമീസ്",
+      "place": "നിയർ പുത്തൻപള്ളി ജുമാമസ്ജിദ്",
+      "phone": "9447767281",
+      "created_at": "2018-09-14 07:15:23",
+      "updated_at": "2018-09-14 07:15:23"
+    },
+    {
+      "id": "72",
+      "category_id": "16",
+      "name_english": "Janatha",
+      "name_malayalam": "ജനതാ ടെക്സ്റ്റൈൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447602229",
+      "created_at": "2018-09-02 22:11:59",
+      "updated_at": "2018-09-02 22:11:59"
+    },
+    {
+      "id": "279",
+      "category_id": "51",
+      "name_english": "Janatha",
+      "name_malayalam": "ജനത ലൈറ്റ് ആൻഡ് സൗണ്ട്",
+      "place": "നിയർ പഞ്ചായത്ത് ഓഫീസ്",
+      "phone": "9447231066",
+      "created_at": "2018-09-12 08:40:07",
+      "updated_at": "2018-09-12 08:40:07"
+    },
+    {
+      "id": "375",
+      "category_id": "1",
+      "name_english": "Jiji",
+      "name_malayalam": "ജിജി",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447413047",
+      "created_at": "2018-09-15 19:14:49",
+      "updated_at": "2018-09-15 19:14:49"
+    },
+    {
+      "id": "478",
+      "category_id": "60",
+      "name_english": "JJ Medicals",
+      "name_malayalam": "ജെ.ജെ. മെഡിക്കൽസ് ",
+      "place": "near RIMS, കടുവാമുഴി ",
+      "phone": "9656054514",
+      "created_at": "2018-09-20 22:28:55",
+      "updated_at": "2018-09-20 22:28:55"
+    },
+    {
+      "id": "212",
+      "category_id": "39",
+      "name_english": "Jmj curtaim",
+      "name_malayalam": "ജെ.എം.ജെ കർട്ടൻ",
+      "place": "കോളേജ് റോഡ്",
+      "phone": "9447507648",
+      "created_at": "2018-09-08 13:05:25",
+      "updated_at": "2018-09-08 13:05:25"
+    },
+    {
+      "id": "267",
+      "category_id": "49",
+      "name_english": "Josco",
+      "name_malayalam": "ജോസ്കോ ജൂവലറി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822272643",
+      "created_at": "2018-09-12 08:10:09",
+      "updated_at": "2018-09-12 08:10:09"
+    },
+    {
+      "id": "373",
+      "category_id": "63",
+      "name_english": "jose",
+      "name_malayalam": "ജോസ് ഡിജിറ്റല്\u200d സ്റ്റുഡിയോ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447141594",
+      "created_at": "2018-09-15 19:13:22",
+      "updated_at": "2018-09-15 19:13:22"
+    },
+    {
+      "id": "26",
+      "category_id": "6",
+      "name_english": "Kadaprayil agencies",
+      "name_malayalam": "കടപ്രയിൽ ഏജൻസീസ്",
+      "place": "വടക്കേക്കര",
+      "phone": "9447324224",
+      "created_at": "2018-08-11 06:56:08",
+      "updated_at": "2018-08-11 06:56:08"
+    },
+    {
+      "id": "174",
+      "category_id": "32",
+      "name_english": "KAlapurakal",
+      "name_malayalam": "കളപുരയ്കൽ ഇലക്ട്രിക്കൽസ്",
+      "place": "കോളേജ് റോഡ്, ",
+      "phone": "9846437002",
+      "created_at": "2018-09-07 11:36:29",
+      "updated_at": "2018-09-07 11:36:29"
+    },
+    {
+      "id": "200",
+      "category_id": "37",
+      "name_english": "Kalpaka",
+      "name_malayalam": "കല്പക ഷൂ മാർട്ട് ",
+      "place": "അരുവിത്തുറ, ഈരാറ്റുപേട്ട ",
+      "phone": "9947203040",
+      "created_at": "2018-09-08 07:51:26",
+      "updated_at": "2018-09-08 07:51:26"
+    },
+    {
+      "id": "222",
+      "category_id": "41",
+      "name_english": "Kandathil",
+      "name_malayalam": "കണ്ടത്തിൽ സ്റ്റോർസ്",
+      "place": "സെൻട്രൽ ജംഗ്ഷൻ",
+      "phone": "9447785864",
+      "created_at": "2018-09-08 13:57:48",
+      "updated_at": "2018-09-08 13:57:48"
+    },
+    {
+      "id": "130",
+      "category_id": "23",
+      "name_english": "Kandathin",
+      "name_malayalam": "കണ്ടത്തിങ്കര ഹാർഡ് വെയർസ്",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "04822272867",
+      "created_at": "2018-09-04 08:59:04",
+      "updated_at": "2018-09-04 08:59:04"
+    },
+    {
+      "id": "73",
+      "category_id": "16",
+      "name_english": "Kanjirangattu",
+      "name_malayalam": "കാഞ്ഞിരങ്ങാട്ട് സിൽക്സ് & സാരീസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272828",
+      "created_at": "2018-09-02 22:12:54",
+      "updated_at": "2018-09-02 22:12:54"
+    },
+    {
+      "id": "205",
+      "category_id": "38",
+      "name_english": "Kappithan",
+      "name_malayalam": "കപ്പിത്താൻ ഫ്രൂട്\u200cസ്",
+      "place": "കുരിക്കൽ നഗർ, ഈരാറ്റുപേട്ട",
+      "phone": "9447599461",
+      "created_at": "2018-09-08 07:59:11",
+      "updated_at": "2018-09-08 07:59:11"
+    },
+    {
+      "id": "102",
+      "category_id": "10",
+      "name_english": "Karich",
+      "name_malayalam": "ഓട്ടോ സ്പെയർസ്",
+      "place": "എം ഇ എസ് ജങ്ഷൻ",
+      "phone": "9947801704",
+      "created_at": "2018-09-03 08:25:38",
+      "updated_at": "2018-09-03 08:25:38"
+    },
+    {
+      "id": "223",
+      "category_id": "41",
+      "name_english": "Karshaka",
+      "name_malayalam": "കർഷക ഓപ്പൺ മാർക്കറ്റ്",
+      "place": "ആറാം മൈൽ",
+      "phone": "9847780252",
+      "created_at": "2018-09-08 13:58:33",
+      "updated_at": "2018-09-08 13:58:33"
+    },
+    {
+      "id": "12",
+      "category_id": "2",
+      "name_english": "Karshaka hotel",
+      "name_malayalam": "കർഷക ഹോട്ടൽ",
+      "place": "അരുവിത്തുറ",
+      "phone": "9400232359",
+      "created_at": "2018-08-11 06:26:50",
+      "updated_at": "2018-08-11 06:26:50"
+    },
+    {
+      "id": "451",
+      "category_id": "68",
+      "name_english": "KAUTHUKAM",
+      "name_malayalam": "കൗതുകം ടൈംസ്\u200c",
+      "place": "സെന്\u200dട്രല്\u200d ജം., ഈരാറ്റുപേട്ട ",
+      "phone": "9947002581",
+      "created_at": "2018-09-18 15:27:16",
+      "updated_at": "2018-09-18 15:27:16"
+    },
+    {
+      "id": "256",
+      "category_id": "46",
+      "name_english": "Kaveri",
+      "name_malayalam": "കാവേരി",
+      "place": "പാലാ റോഡ് , ആറാം മൈൽ",
+      "phone": "9447212968",
+      "created_at": "2018-09-11 15:42:55",
+      "updated_at": "2018-09-11 15:42:55"
+    },
+    {
+      "id": "424",
+      "category_id": "41",
+      "name_english": "kaveri",
+      "name_malayalam": "കാവേരി ട്രേഡിംഗ് കമ്പനി (പലചരക്ക് മൊത്ത വ്യാപാരം)",
+      "place": "കടുവമുഴി, ഈരാറ്റുപേട്ട ",
+      "phone": "9495148018",
+      "created_at": "2018-09-16 11:56:06",
+      "updated_at": "2018-09-16 11:56:06"
+    },
+    {
+      "id": "125",
+      "category_id": "23",
+      "name_english": "Kerala",
+      "name_malayalam": "കേരള ഏജന്സിസ് ",
+      "place": "പുത്തൻപള്ളി കോംപ്ലസ്\u200c, പൂഞ്ഞാർ റോഡ് ഈരാറ്റുപേട്ട",
+      "phone": "9447356475",
+      "created_at": "2018-09-04 08:50:42",
+      "updated_at": "2018-09-04 08:50:42"
+    },
+    {
+      "id": "303",
+      "category_id": "38",
+      "name_english": "Khanson fruts",
+      "name_malayalam": "ഖാൻസൺ ഫ്രൂട്സ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847776850",
+      "created_at": "2018-09-14 11:31:38",
+      "updated_at": "2018-09-14 11:31:38"
+    },
+    {
+      "id": "42",
+      "category_id": "9",
+      "name_english": "Kichan world",
+      "name_malayalam": "കിച്ചൻ വേൾഡ് സ്റ്റീൽ ആൻഡ് ഗിഫ്റ്റ് ",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822276509",
+      "created_at": "2018-09-01 21:37:44",
+      "updated_at": "2018-09-01 21:37:44"
+    },
+    {
+      "id": "201",
+      "category_id": "37",
+      "name_english": "King",
+      "name_malayalam": "കിങ്\u200cസ് ഷൂ മാർട്",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822274767",
+      "created_at": "2018-09-08 07:52:28",
+      "updated_at": "2018-09-08 07:52:28"
+    },
+    {
+      "id": "206",
+      "category_id": "38",
+      "name_english": "King",
+      "name_malayalam": "കിങ്\u200cസ് ഫ്രഷ് ഫ്രൂട്\u200cസ്",
+      "place": "പി ബി സ്റ്റാൻഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9847212520",
+      "created_at": "2018-09-08 08:03:09",
+      "updated_at": "2018-09-08 08:03:09"
+    },
+    {
+      "id": "106",
+      "category_id": "12",
+      "name_english": "Kings",
+      "name_malayalam": "കിങ്\u200cസ് ബേക്കറി & സൂപ്പർ മാർക്കറ്റ്",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9447805307",
+      "created_at": "2018-09-03 08:36:04",
+      "updated_at": "2018-09-03 08:36:04"
+    },
+    {
+      "id": "324",
+      "category_id": "53",
+      "name_english": "kins",
+      "name_malayalam": "കിൻസ് മൊബൈൽസ്  ",
+      "place": "കോസ്സ്\u200cവേ റോഡ്  ",
+      "phone": "9744277626",
+      "created_at": "2018-09-15 13:42:31",
+      "updated_at": "2018-09-15 13:42:31"
+    },
+    {
+      "id": "133",
+      "category_id": "24",
+      "name_english": "Kkp",
+      "name_malayalam": "കെ കെ പി മട്ടൻ & ബീഫ് സെന്റർ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9961019292",
+      "created_at": "2018-09-04 09:03:13",
+      "updated_at": "2018-09-04 09:03:13"
+    },
+    {
+      "id": "467",
+      "category_id": "24",
+      "name_english": "kkp",
+      "name_malayalam": "കെ കെ പി കോൾഡ് സ്റ്റോറേജ്",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9447281048",
+      "created_at": "2018-09-20 10:17:51",
+      "updated_at": "2018-09-20 10:17:51"
+    },
+    {
+      "id": "13",
+      "category_id": "2",
+      "name_english": "KMB restorent",
+      "name_malayalam": "KMB ഹോട്ടൽ",
+      "place": "മാർക്കറ്റ് റോഡ്-ഈരാറ്റുപേട്ട",
+      "phone": "9744278738",
+      "created_at": "2018-08-11 06:28:09",
+      "updated_at": "2018-08-11 06:28:09"
+    },
+    {
+      "id": "40",
+      "category_id": "9",
+      "name_english": "Kmp",
+      "name_malayalam": "കെ എം പി മേറ്റൽസ് ",
+      "place": "നിയർ മക്ക മസ്ജിദ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9947925926",
+      "created_at": "2018-09-01 19:11:03",
+      "updated_at": "2018-09-01 19:11:03"
+    },
+    {
+      "id": "224",
+      "category_id": "41",
+      "name_english": "Kmp karakkad",
+      "name_malayalam": "കെ.എം.പി സ്റ്റോർസ്",
+      "place": "കാരക്കാട്",
+      "phone": "9847946099",
+      "created_at": "2018-09-08 13:59:21",
+      "updated_at": "2018-09-08 13:59:21"
+    },
+    {
+      "id": "142",
+      "category_id": "26",
+      "name_english": "Kochupurackal",
+      "name_malayalam": "കൊച്ചുപുരക്കൽ ഏജന്സിസ്",
+      "place": "എം ഈ എസ് ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447910972",
+      "created_at": "2018-09-05 16:28:56",
+      "updated_at": "2018-09-05 16:28:56"
+    },
+    {
+      "id": "43",
+      "category_id": "9",
+      "name_english": "Kollam",
+      "name_malayalam": "കൊല്ലംപറമ്പിൽ മെറ്റൽസ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9447119870",
+      "created_at": "2018-09-01 21:38:53",
+      "updated_at": "2018-09-07 15:13:11"
+    },
+    {
+      "id": "44",
+      "category_id": "9",
+      "name_english": "Kollam parambil",
+      "name_malayalam": "കൊല്ലംപറമ്പിൽ സ്റ്റീൽസ് & ഗിഫ്റ്റ്\u200c    ",
+      "place": "നിയർ പുത്തൻപള്ളി ജുമാമസ്ജിദ്, പൂഞ്ഞാർ റോഡ് ",
+      "phone": "04822274959",
+      "created_at": "2018-09-01 21:40:05",
+      "updated_at": "2018-09-07 15:14:52"
+    },
+    {
+      "id": "53",
+      "category_id": "11",
+      "name_english": "KOttakal",
+      "name_malayalam": "കോട്ടക്കൽ ആര്യവൈദ്യശാല",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9446638171",
+      "created_at": "2018-09-01 22:37:17",
+      "updated_at": "2018-09-01 22:37:17"
+    },
+    {
+      "id": "14",
+      "category_id": "2",
+      "name_english": "Kottas",
+      "name_malayalam": "കൊട്ടാസ് ഫാസ്റ്റ്ഫുഡ്",
+      "place": "കോസ്വേ റോഡ്-ഈരാറ്റുപേട്ട",
+      "phone": "9447029696",
+      "created_at": "2018-08-11 06:38:14",
+      "updated_at": "2018-08-11 06:38:14"
+    },
+    {
+      "id": "251",
+      "category_id": "46",
+      "name_english": "Ksm",
+      "name_malayalam": "കെ എസ് എം ",
+      "place": "മുട്ടം ജങ്ഷൻ",
+      "phone": "9048665000",
+      "created_at": "2018-09-11 15:38:33",
+      "updated_at": "2018-09-11 15:38:33"
+    },
+    {
+      "id": "336",
+      "category_id": "12",
+      "name_english": "kukku",
+      "name_malayalam": "കുക്കു ബേക്കറി",
+      "place": "നടയ്ക്കൽ",
+      "phone": "9847203766",
+      "created_at": "2018-09-15 15:19:16",
+      "updated_at": "2018-09-15 15:19:16"
+    },
+    {
+      "id": "382",
+      "category_id": "50",
+      "name_english": "kukku",
+      "name_malayalam": " കുക്കു ഫാന്\u200dസി ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9947457702",
+      "created_at": "2018-09-15 19:21:11",
+      "updated_at": "2018-09-15 19:21:11"
+    },
+    {
+      "id": "462",
+      "category_id": "12",
+      "name_english": "kuku bekary",
+      "name_malayalam": "കുക്കു ബേക്കറി ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9847203766",
+      "created_at": "2018-09-19 16:05:23",
+      "updated_at": "2018-09-19 16:05:23"
+    },
+    {
+      "id": "264",
+      "category_id": "48",
+      "name_english": "Kulirma",
+      "name_malayalam": "കുളിർമ ക്രീം ലാൻഡ്",
+      "place": "കടുവാമുഴി",
+      "phone": "9447307415",
+      "created_at": "2018-09-11 15:52:34",
+      "updated_at": "2018-09-11 15:52:34"
+    },
+    {
+      "id": "225",
+      "category_id": "41",
+      "name_english": "Kunnappallil",
+      "name_malayalam": "കുന്നപ്പള്ളിൽ ട്രേഡേഴ്സ്",
+      "place": "മാർക്കറ്റ് റോഡ്",
+      "phone": "04822273099",
+      "created_at": "2018-09-08 14:00:53",
+      "updated_at": "2018-09-08 14:00:53"
+    },
+    {
+      "id": "196",
+      "category_id": "37",
+      "name_english": "Leather world",
+      "name_malayalam": "ലെദർ വെൽഡ് ",
+      "place": "പുളിക്കൻസ് ഷോപ്പിങ് മാൾ, ഈരാറ്റുപേട്ട",
+      "phone": "9446604118",
+      "created_at": "2018-09-08 07:44:32",
+      "updated_at": "2018-09-08 07:44:32"
+    },
+    {
+      "id": "348",
+      "category_id": "31",
+      "name_english": "lifeline",
+      "name_malayalam": "ലൈഫ് ലൈൻ ഹോം കെയർ ",
+      "place": "മാർക്കറ്റ് റോഡ് ഈരാറ്റുപേട്ട",
+      "phone": "8089010601",
+      "created_at": "2018-09-15 17:19:08",
+      "updated_at": "2018-09-15 17:19:08"
+    },
+    {
+      "id": "145",
+      "category_id": "27",
+      "name_english": "Limra",
+      "name_malayalam": "ലിംറ സ്റ്റോർ ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9447400796",
+      "created_at": "2018-09-05 17:05:18",
+      "updated_at": "2018-09-05 17:05:18"
+    },
+    {
+      "id": "276",
+      "category_id": "50",
+      "name_english": "Lulu",
+      "name_malayalam": "ലുലു ഫാൻസി & ഫുട്വെയർ ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9961018005",
+      "created_at": "2018-09-12 08:33:16",
+      "updated_at": "2018-09-12 08:33:16"
+    },
+    {
+      "id": "533",
+      "category_id": "37",
+      "name_english": "Lulu Fancy &  Foot wear ",
+      "name_malayalam": "ലുലു ഫാൻസി & ഫൂട്ട് വെയർ  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961018005",
+      "created_at": "2018-10-27 09:25:09",
+      "updated_at": "2018-10-27 09:25:09"
+    },
+    {
+      "id": "355",
+      "category_id": "17",
+      "name_english": "lyloon",
+      "name_malayalam": "ലൈലൂണ്\u200d പർദാസ് ",
+      "place": "നിയർ അൽമനാർ സ്കൂൾ , ഈരാറ്റുപേട്ട",
+      "phone": "9605522244",
+      "created_at": "2018-09-15 17:43:56",
+      "updated_at": "2018-09-15 17:43:56"
+    },
+    {
+      "id": "312",
+      "category_id": "55",
+      "name_english": "M M Granites",
+      "name_malayalam": "എം.എം  ഗ്രാനൈറ്റ്സ് ",
+      "place": "തെക്കേക്കര ",
+      "phone": "9656030245",
+      "created_at": "2018-09-14 22:05:33",
+      "updated_at": "2018-09-14 22:05:33"
+    },
+    {
+      "id": "481",
+      "category_id": "54",
+      "name_english": "M P K car city  ",
+      "name_malayalam": "എം പി കെ കാർ സിറ്റി  ",
+      "place": "മാർക്കറ്റ് റോഡ് ഈരാറ്റുപേട്ട ",
+      "phone": "9447302353",
+      "created_at": "2018-09-21 08:41:13",
+      "updated_at": "2018-09-21 08:41:13"
+    },
+    {
+      "id": "497",
+      "category_id": "18",
+      "name_english": "M4MEN Mens wear & Accessorries",
+      "name_malayalam": "M4MEN മെൻസ്\u200cവെയർ",
+      "place": "സെൻട്രൽ ജംഗ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": " 9947943898",
+      "created_at": "2018-09-23 17:48:46",
+      "updated_at": "2018-09-23 17:48:46"
+    },
+    {
+      "id": "126",
+      "category_id": "23",
+      "name_english": "MAdathil",
+      "name_malayalam": "മഠത്തിൽ ട്രേഡേഴ്\u200cസ്",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "04822208938",
+      "created_at": "2018-09-04 08:51:42",
+      "updated_at": "2018-09-04 08:51:42"
+    },
+    {
+      "id": "159",
+      "category_id": "30",
+      "name_english": "Madeen",
+      "name_malayalam": "മദീന കുൾബാർ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9961698430",
+      "created_at": "2018-09-06 07:26:13",
+      "updated_at": "2018-09-06 07:26:13"
+    },
+    {
+      "id": "252",
+      "category_id": "46",
+      "name_english": "Mahima",
+      "name_malayalam": "മഹിമ",
+      "place": "മുട്ടം ജങ്ഷൻ ",
+      "phone": "9447147643",
+      "created_at": "2018-09-11 15:39:15",
+      "updated_at": "2018-09-11 15:39:15"
+    },
+    {
+      "id": "288",
+      "category_id": "52",
+      "name_english": "Mahin",
+      "name_malayalam": "മാഹിൻ",
+      "place": "കോസ്\u200cവേ റോഡ്, തൊട്ടുമുക്ക്, നടക്കൽ",
+      "phone": "9846274080",
+      "created_at": "2018-09-14 07:14:20",
+      "updated_at": "2018-09-14 07:14:20"
+    },
+    {
+      "id": "415",
+      "category_id": "12",
+      "name_english": "maithri",
+      "name_malayalam": " മൈത്രി സ്വീറ്റ്സ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "99470021 24",
+      "created_at": "2018-09-15 22:27:05",
+      "updated_at": "2018-09-15 22:27:05"
+    },
+    {
+      "id": "134",
+      "category_id": "24",
+      "name_english": "Malabar",
+      "name_malayalam": "മലബാർ ചിക്കൻ സെന്റർ",
+      "place": "മുട്ടം ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447267136",
+      "created_at": "2018-09-04 09:04:17",
+      "updated_at": "2018-09-04 09:04:17"
+    },
+    {
+      "id": "139",
+      "category_id": "25",
+      "name_english": "Malabar",
+      "name_malayalam": "മലബാർ ഹോട് ചിപ്സ്",
+      "place": "കുരിക്കൽ നഗർ, ഈരാറ്റുപേട്ട",
+      "phone": "9947207525",
+      "created_at": "2018-09-05 16:23:00",
+      "updated_at": "2018-09-05 16:23:00"
+    },
+    {
+      "id": "496",
+      "category_id": "66",
+      "name_english": "malabari",
+      "name_malayalam": "മൾബെറി ലേഡീസ് ബ്യൂട്ടിക് & ലേഡീസ് ടൈലറിംഗ്   ",
+      "place": "ക്രോസ്\u200cവേ ജംഗ്ഷൻ,  നടക്കൽ, ഈരാറ്റുപേട്ട. ",
+      "phone": "9747115676",
+      "created_at": "2018-09-22 18:00:56",
+      "updated_at": "2018-09-22 18:00:56"
+    },
+    {
+      "id": "207",
+      "category_id": "38",
+      "name_english": "Malai",
+      "name_malayalam": "ഫ്രൂട്\u200cസ്",
+      "place": "പൂഞ്ഞാർ റോഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9447805438",
+      "created_at": "2018-09-08 08:06:16",
+      "updated_at": "2018-09-08 08:06:16"
+    },
+    {
+      "id": "495",
+      "category_id": "17",
+      "name_english": "malbari",
+      "name_malayalam": "മൾബെറി ലേഡീസ് ബ്യൂട്ടിക് & ലേഡീസ് ടൈലറിംഗ്    ",
+      "place": "ക്രോസ്\u200cവേ ജംഗ്ഷൻ, നടക്കൽ, ഈരാറ്റുപേട്ട.",
+      "phone": "9747115676",
+      "created_at": "2018-09-22 17:53:49",
+      "updated_at": "2018-09-22 17:53:49"
+    },
+    {
+      "id": "38",
+      "category_id": "8",
+      "name_english": "Manakkad",
+      "name_malayalam": "മണക്കാട്ട് ഏജന്സിസ്",
+      "place": "സെന്റർ ജങ്ഷൻ ഈരാറ്റുപേട്ട",
+      "phone": "9061616153",
+      "created_at": "2018-09-01 17:45:01",
+      "updated_at": "2018-09-07 15:10:29"
+    },
+    {
+      "id": "135",
+      "category_id": "24",
+      "name_english": "MANar",
+      "name_malayalam": "മാന്നാർ ഫിഷറീസ്",
+      "place": "കോസ്\u200cവേ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "04822274005",
+      "created_at": "2018-09-05 16:15:08",
+      "updated_at": "2018-09-05 16:15:08"
+    },
+    {
+      "id": "400",
+      "category_id": "65",
+      "name_english": "manavatti",
+      "name_malayalam": "മണവാട്ടി ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "944735636711111",
+      "created_at": "2018-09-15 20:05:49",
+      "updated_at": "2018-09-15 20:05:49"
+    },
+    {
+      "id": "146",
+      "category_id": "27",
+      "name_english": "MAnkuzhckal",
+      "name_malayalam": "മൻകുഴക്കൽ  പ്ലാസ്റ്റിക്സ് ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "8281257770",
+      "created_at": "2018-09-05 17:06:28",
+      "updated_at": "2018-09-05 17:06:28"
+    },
+    {
+      "id": "74",
+      "category_id": "16",
+      "name_english": "Manoj",
+      "name_malayalam": "മനോജ് സിൽക് ഹൗസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447043428",
+      "created_at": "2018-09-02 22:13:43",
+      "updated_at": "2018-09-02 22:13:43"
+    },
+    {
+      "id": "120",
+      "category_id": "15",
+      "name_english": "MArhaba",
+      "name_malayalam": "മർഹബ ബുക്ക്സ് & പെർഫ്യൂം",
+      "place": "മസ്ജിദ് ലൈൻ, സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9446922481",
+      "created_at": "2018-09-03 14:35:08",
+      "updated_at": "2018-09-03 14:35:08"
+    },
+    {
+      "id": "364",
+      "category_id": "60",
+      "name_english": "mariya",
+      "name_malayalam": "മരിയ മെഡിക്കല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "99388827210",
+      "created_at": "2018-09-15 18:55:48",
+      "updated_at": "2018-09-15 18:55:48"
+    },
+    {
+      "id": "484",
+      "category_id": "17",
+      "name_english": "MARJAN PARDHA MALL",
+      "name_malayalam": "മർജാൻ പർദ്ദ മാൾ ",
+      "place": "പി. ബി. റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9895678220",
+      "created_at": "2018-09-22 09:24:28",
+      "updated_at": "2018-09-22 09:24:28"
+    },
+    {
+      "id": "517",
+      "category_id": "6",
+      "name_english": "mas furniture ",
+      "name_malayalam": "മാസ് ഫർണിച്ചർ മാർട്  ",
+      "place": "പത്താഴപ്പടി ",
+      "phone": "9744488842",
+      "created_at": "2018-10-01 13:27:08",
+      "updated_at": "2018-10-01 13:27:08"
+    },
+    {
+      "id": "523",
+      "category_id": "6",
+      "name_english": "Mas Furniture Mart",
+      "name_malayalam": "മാസ് ഫർണിച്ചർ മാർട്ട് ",
+      "place": "നടയ്ക്കൽ",
+      "phone": "9947346656",
+      "created_at": "2018-10-14 15:56:56",
+      "updated_at": "2018-10-14 15:56:56"
+    },
+    {
+      "id": "534",
+      "category_id": "6",
+      "name_english": "Mas wood moulding reaper ",
+      "name_malayalam": "മാസ്സ് വുഡ് മോൾഡിങ് റിപ്പർ  ",
+      "place": "നടക്കൽ ",
+      "phone": "9744773366",
+      "created_at": "2018-11-06 17:07:36",
+      "updated_at": "2018-11-06 17:07:36"
+    },
+    {
+      "id": "81",
+      "category_id": "17",
+      "name_english": "Masafi",
+      "name_malayalam": "മസാഫി ചുരിദാർ&ടെയ്\u200cലറിങ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9747252464",
+      "created_at": "2018-09-02 22:26:35",
+      "updated_at": "2018-09-02 22:26:35"
+    },
+    {
+      "id": "163",
+      "category_id": "31",
+      "name_english": "Mass ",
+      "name_malayalam": "മാസ്സ് സോപ്പ് & കെമിക്കൽസ്",
+      "place": "പ്രൈവറ്റ്\u200c ബസ്റ്റാന്റ് എതിർ വശം,",
+      "phone": "9497377664",
+      "created_at": "2018-09-06 10:41:58",
+      "updated_at": "2018-09-06 10:41:58"
+    },
+    {
+      "id": "164",
+      "category_id": "31",
+      "name_english": "Maswaf",
+      "name_malayalam": "മസ്വഫ് ഡ്രൈ ക്ലിനിങ് സെന്റർ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9544672135",
+      "created_at": "2018-09-06 10:43:22",
+      "updated_at": "2018-09-06 10:43:22"
+    },
+    {
+      "id": "268",
+      "category_id": "49",
+      "name_english": "Mattakombanal",
+      "name_malayalam": "മറ്റകൊമ്പനാൽ ജൂവലറി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "8893262626",
+      "created_at": "2018-09-12 08:14:36",
+      "updated_at": "2018-09-12 08:14:36"
+    },
+    {
+      "id": "97",
+      "category_id": "20",
+      "name_english": "Maystar",
+      "name_malayalam": "മെയ്സ്റ്റാർ ത്രഡ് ഹൗസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9495606006",
+      "created_at": "2018-09-03 06:41:36",
+      "updated_at": "2018-09-03 06:41:36"
+    },
+    {
+      "id": "326",
+      "category_id": "50",
+      "name_english": "mazhavil",
+      "name_malayalam": "മഴവിൽ ലേഡീസ്സ്റ്റോർ  & ത്രെഡ് ഹൌസ്    ",
+      "place": "പി.ബി റോഡ്",
+      "phone": "9847325307",
+      "created_at": "2018-09-15 13:45:02",
+      "updated_at": "2018-09-15 13:45:02"
+    },
+    {
+      "id": "327",
+      "category_id": "20",
+      "name_english": "mazhavil",
+      "name_malayalam": "മഴവിൽ ലേഡീസ്സ്റ്റോർ  & ത്രെഡ് ഹൌസ് ",
+      "place": "പി.ബി റോഡ്",
+      "phone": "9847325307",
+      "created_at": "2018-09-15 13:45:33",
+      "updated_at": "2018-09-15 13:45:33"
+    },
+    {
+      "id": "314",
+      "category_id": "56",
+      "name_english": "Media",
+      "name_malayalam": "മീഡിയ പ്രസ്സ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "04822276061",
+      "created_at": "2018-09-14 22:34:18",
+      "updated_at": "2018-09-14 22:34:18"
+    },
+    {
+      "id": "342",
+      "category_id": "53",
+      "name_english": "meerans mobiles",
+      "name_malayalam": "മീരാൻസ് മൊബൈൽസ്",
+      "place": "നടയ്ക്കൽ ",
+      "phone": "9847994705",
+      "created_at": "2018-09-15 15:22:58",
+      "updated_at": "2018-09-15 15:22:58"
+    },
+    {
+      "id": "374",
+      "category_id": "63",
+      "name_english": "methans",
+      "name_malayalam": " മേത്തന്\u200dസ് കലോര്\u200d ലാബ്\u200c & സ്റ്റുഡിയോ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822277578",
+      "created_at": "2018-09-15 19:14:39",
+      "updated_at": "2018-09-15 19:14:39"
+    },
+    {
+      "id": "366",
+      "category_id": "60",
+      "name_english": "methar",
+      "name_malayalam": "മേത്തര്\u200d മെഡിക്കല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447252277",
+      "created_at": "2018-09-15 18:56:46",
+      "updated_at": "2018-09-15 18:56:46"
+    },
+    {
+      "id": "82",
+      "category_id": "17",
+      "name_english": "Midukki",
+      "name_malayalam": "മിടുക്കി ലേഡീസ് വെയർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9895278583",
+      "created_at": "2018-09-02 22:27:48",
+      "updated_at": "2018-09-02 22:27:48"
+    },
+    {
+      "id": "538",
+      "category_id": "17",
+      "name_english": "Miyami  Ladies Fashion ",
+      "name_malayalam": "മിയാമി ലേഡീസ് ഫാഷൻസ്",
+      "place": "Market road erattupetta ",
+      "phone": "8086222877",
+      "created_at": "2018-11-09 08:46:44",
+      "updated_at": "2018-11-09 08:46:44"
+    },
+    {
+      "id": "508",
+      "category_id": "41",
+      "name_english": "MJ Syores",
+      "name_malayalam": "എം.ജെ  സ്റ്റോർസ്",
+      "place": "മറ്റക്കാട്",
+      "phone": "9946868601",
+      "created_at": "2018-09-26 16:48:56",
+      "updated_at": "2018-09-26 16:48:56"
+    },
+    {
+      "id": "116",
+      "category_id": "14",
+      "name_english": "Mm",
+      "name_malayalam": "എംഎം ബിരിയാനി സ്റ്റോർ ",
+      "place": "വ്യാപാര ഭവൻ റോഡ്,  ഈരാറ്റുപേട്ട",
+      "phone": "04822272736",
+      "created_at": "2018-09-03 09:01:00",
+      "updated_at": "2018-09-03 09:01:00"
+    },
+    {
+      "id": "302",
+      "category_id": "53",
+      "name_english": "mobile hub",
+      "name_malayalam": "മൊബൈൽ ഹബ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9747903855",
+      "created_at": "2018-09-14 09:38:56",
+      "updated_at": "2018-09-14 09:38:56"
+    },
+    {
+      "id": "319",
+      "category_id": "59",
+      "name_english": "Mod Cards",
+      "name_malayalam": "മോഡ് കാർഡ്സ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "944779998",
+      "created_at": "2018-09-14 22:39:19",
+      "updated_at": "2018-09-14 22:39:19"
+    },
+    {
+      "id": "197",
+      "category_id": "37",
+      "name_english": "Models",
+      "name_malayalam": "മോഡൽസ് ഫുട്ട്വെയർ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9995114419",
+      "created_at": "2018-09-08 07:47:18",
+      "updated_at": "2018-09-08 07:47:18"
+    },
+    {
+      "id": "260",
+      "category_id": "47",
+      "name_english": "Modex",
+      "name_malayalam": "മോഡക്സ്",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9447456558",
+      "created_at": "2018-09-11 15:47:26",
+      "updated_at": "2018-09-14 20:57:22"
+    },
+    {
+      "id": "532",
+      "category_id": "9",
+      "name_english": "mothin kunnel ",
+      "name_malayalam": "മോതിൻകുന്നേൽ ഏജൻസിസ്\u200c  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947 096 195 ",
+      "created_at": "2018-10-25 09:08:07",
+      "updated_at": "2018-10-25 09:08:07"
+    },
+    {
+      "id": "2",
+      "category_id": "3",
+      "name_english": "Moto -D car decor",
+      "name_malayalam": "മോട്ടോ ഡി കാർ ഡക്കർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847143888",
+      "created_at": "2018-07-24 12:40:26",
+      "updated_at": "2018-07-24 12:40:26"
+    },
+    {
+      "id": "3",
+      "category_id": "4",
+      "name_english": "Moto -D car decor",
+      "name_malayalam": "മോട്ടോ ഡി കാർ ഡക്കർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847143888",
+      "created_at": "2018-07-24 12:41:46",
+      "updated_at": "2018-07-24 12:41:46"
+    },
+    {
+      "id": "136",
+      "category_id": "24",
+      "name_english": "Mpk",
+      "name_malayalam": "എം പി കെ ഫിഷറീസ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9447311900",
+      "created_at": "2018-09-05 16:16:17",
+      "updated_at": "2018-09-05 16:16:17"
+    },
+    {
+      "id": "15",
+      "category_id": "2",
+      "name_english": "Mubarak hotel",
+      "name_malayalam": "മുബാറക് ഹോട്ടൽ",
+      "place": "നടക്കൽ",
+      "phone": "9048601313",
+      "created_at": "2018-08-11 06:39:20",
+      "updated_at": "2018-08-11 06:39:20"
+    },
+    {
+      "id": "528",
+      "category_id": "17",
+      "name_english": "Mubarak pardha  ",
+      "name_malayalam": "മുബാറക്ക് പർദ്ദ  ",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട  ",
+      "phone": "9447440888",
+      "created_at": "2018-10-25 08:39:05",
+      "updated_at": "2018-10-25 08:39:05"
+    },
+    {
+      "id": "444",
+      "category_id": "17",
+      "name_english": "mubark",
+      "name_malayalam": "മുബാറക് പർദാസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447440888 ",
+      "created_at": "2018-09-17 17:55:40",
+      "updated_at": "2018-09-17 17:55:40"
+    },
+    {
+      "id": "16",
+      "category_id": "2",
+      "name_english": "Mughal hotel",
+      "name_malayalam": "മുഗൾ ഹോട്ടൽ",
+      "place": "പ്രൈവറ്റ്\u200c ബസ്സ്റ്റാന്റ്-ഈരാറ്റുപേട്ട",
+      "phone": "9656316700",
+      "created_at": "2018-08-11 06:40:32",
+      "updated_at": "2018-08-11 06:40:32"
+    },
+    {
+      "id": "503",
+      "category_id": "63",
+      "name_english": "muhammed shafi",
+      "name_malayalam": "മുഹമ്മദ് ഷാഫി ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947202417",
+      "created_at": "2018-09-24 21:29:00",
+      "updated_at": "2018-09-24 21:29:00"
+    },
+    {
+      "id": "54",
+      "category_id": "11",
+      "name_english": "Mundamattam",
+      "name_malayalam": "മുണ്ടാമറ്റം ആയുർവേദ്ദിക്ക്",
+      "place": "Ccm കോംപ്ലസ്\u200c, തെക്കേക്കര",
+      "phone": "9605014154",
+      "created_at": "2018-09-01 23:12:39",
+      "updated_at": "2018-09-01 23:12:39"
+    },
+    {
+      "id": "107",
+      "category_id": "12",
+      "name_english": "Mundamattam",
+      "name_malayalam": "മുണ്ടമറ്റം ബേക്കേഴ്\u200cസ്",
+      "place": "പുളികൻസ് ഷോപ്പിങ് മാൾ. ഈരാറ്റുപേട്ട, മഹാറാണി തിയേറ",
+      "phone": "9447136496",
+      "created_at": "2018-09-03 08:39:02",
+      "updated_at": "2018-09-03 08:39:02"
+    },
+    {
+      "id": "75",
+      "category_id": "16",
+      "name_english": "Murikkolil",
+      "name_malayalam": "മൂരിക്കോലിൽ സിൽക്സ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "7034311226",
+      "created_at": "2018-09-02 22:14:37",
+      "updated_at": "2018-09-02 22:14:37"
+    },
+    {
+      "id": "367",
+      "category_id": "60",
+      "name_english": "murikkolil",
+      "name_malayalam": "മുരിക്കൊലില്\u200d മെഡിക്കല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272566",
+      "created_at": "2018-09-15 18:57:43",
+      "updated_at": "2018-09-15 18:57:43"
+    },
+    {
+      "id": "229",
+      "category_id": "42",
+      "name_english": "Murikkolil cosway",
+      "name_malayalam": "മുരിക്കോലിൽ ഒപ്ടിക്കൽസ്",
+      "place": "കോസ്വേ റോഡ്",
+      "phone": "9605020331",
+      "created_at": "2018-09-08 14:09:11",
+      "updated_at": "2018-09-08 14:09:11"
+    },
+    {
+      "id": "230",
+      "category_id": "42",
+      "name_english": "Murikkolil muttam kavala",
+      "name_malayalam": "മുരിക്കോലിൽ ഒപ്ടിക്കൽസ്",
+      "place": "മുട്ടം ജംഗ്ഷൻ",
+      "phone": "9447267022",
+      "created_at": "2018-09-08 14:11:03",
+      "updated_at": "2018-09-08 14:11:03"
+    },
+    {
+      "id": "100",
+      "category_id": "21",
+      "name_english": "Muth timber",
+      "name_malayalam": "മുത്ത് ടിമ്പർ ഡിപ്പോ",
+      "place": "കോളേജ് പടി",
+      "phone": "9446200793",
+      "created_at": "2018-09-03 06:46:56",
+      "updated_at": "2018-09-03 06:46:56"
+    },
+    {
+      "id": "269",
+      "category_id": "49",
+      "name_english": "Muthuthavalthil",
+      "name_malayalam": "മുത്തുതാവളത്തിൽ ജൂവലറി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822272558",
+      "created_at": "2018-09-12 08:15:48",
+      "updated_at": "2018-09-12 08:15:48"
+    },
+    {
+      "id": "137",
+      "category_id": "24",
+      "name_english": "Mutton",
+      "name_malayalam": "മട്ടൻ സെന്റർ",
+      "place": "ചെന്നാട് ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9847690438",
+      "created_at": "2018-09-05 16:19:10",
+      "updated_at": "2018-09-05 16:19:10"
+    },
+    {
+      "id": "383",
+      "category_id": "50",
+      "name_english": "mylanchi",
+      "name_malayalam": "മൈലാഞ്ചി ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9447899046",
+      "created_at": "2018-09-15 19:21:51",
+      "updated_at": "2018-09-15 19:21:51"
+    },
+    {
+      "id": "55",
+      "category_id": "11",
+      "name_english": "Na",
+      "name_malayalam": "എൻ. എ മരുന്ന് കട",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9847946162",
+      "created_at": "2018-09-01 23:13:54",
+      "updated_at": "2018-09-01 23:13:54"
+    },
+    {
+      "id": "122",
+      "category_id": "22",
+      "name_english": "NAdham",
+      "name_malayalam": "നാദം മ്യൂസിക് സെന്റർ",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9605570404",
+      "created_at": "2018-09-04 08:45:31",
+      "updated_at": "2018-09-04 08:45:31"
+    },
+    {
+      "id": "530",
+      "category_id": "24",
+      "name_english": "Najeeb T P Thalappallil chicken center   ",
+      "name_malayalam": "തലപ്പള്ളിൽ ചിക്കൻ സെന്റർ",
+      "place": "നടക്കല്\u200d ",
+      "phone": "9847689475",
+      "created_at": "2018-10-25 08:41:39",
+      "updated_at": "2018-10-25 08:41:39"
+    },
+    {
+      "id": "261",
+      "category_id": "47",
+      "name_english": "NAtional",
+      "name_malayalam": "നാഷണൽ ഇലക്ട്രോണിക്സ്സ്",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9961143320",
+      "created_at": "2018-09-11 15:48:22",
+      "updated_at": "2018-09-11 15:48:22"
+    },
+    {
+      "id": "231",
+      "category_id": "42",
+      "name_english": "Nayanam",
+      "name_malayalam": "നയനം ഒപ്ടിക്കൽസ്",
+      "place": "സെൻട്രൽ ജംഗ്ഷൻ",
+      "phone": "9447258674",
+      "created_at": "2018-09-08 14:12:14",
+      "updated_at": "2018-09-08 14:12:14"
+    },
+    {
+      "id": "454",
+      "category_id": "36",
+      "name_english": "NAZ GRAPHICS",
+      "name_malayalam": "നാസ് ഗ്രാഫിക്സ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9744273712",
+      "created_at": "2018-09-18 16:04:00",
+      "updated_at": "2018-09-18 16:04:00"
+    },
+    {
+      "id": "123",
+      "category_id": "22",
+      "name_english": "NEchoos",
+      "name_malayalam": "നെച്ചൂസ് കമ്യൂണിക്കേഷൻ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9447140988",
+      "created_at": "2018-09-04 08:46:38",
+      "updated_at": "2018-09-04 08:46:38"
+    },
+    {
+      "id": "292",
+      "category_id": "53",
+      "name_english": "Neon",
+      "name_malayalam": "നിയോൺ ",
+      "place": "സെൻട്രൽ ജംങ്ഷൻ ",
+      "phone": "9947802089",
+      "created_at": "2018-09-14 09:21:30",
+      "updated_at": "2018-09-14 09:21:30"
+    },
+    {
+      "id": "291",
+      "category_id": "53",
+      "name_english": "Neonics",
+      "name_malayalam": "നിയോണിക്\u200cസ്  ടെക്നോളോജിസ് ",
+      "place": "മുട്ടം  കവല ",
+      "phone": "9961078533",
+      "created_at": "2018-09-14 09:19:41",
+      "updated_at": "2018-09-14 09:19:41"
+    },
+    {
+      "id": "233",
+      "category_id": "43",
+      "name_english": "New",
+      "name_malayalam": "ന്യൂ എക്സൽ ഗ്ലാസ്  ഹൗസ്",
+      "place": "എം ഇ എസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447305408",
+      "created_at": "2018-09-11 07:27:50",
+      "updated_at": "2018-09-11 07:41:13"
+    },
+    {
+      "id": "17",
+      "category_id": "2",
+      "name_english": "New highrange hotel",
+      "name_malayalam": "ന്യൂ ഹൈറേഞ്ച് ഹോട്ടൽ",
+      "place": "വടക്കേക്കര",
+      "phone": "9544101558",
+      "created_at": "2018-08-11 06:42:00",
+      "updated_at": "2018-08-11 06:42:00"
+    },
+    {
+      "id": "18",
+      "category_id": "2",
+      "name_english": "New safair hotel",
+      "name_malayalam": "ന്യൗ സഫയർ ഹോട്ടൽ",
+      "place": "തെക്കേക്കര",
+      "phone": "9446633318",
+      "created_at": "2018-08-11 06:43:09",
+      "updated_at": "2018-08-11 06:43:09"
+    },
+    {
+      "id": "439",
+      "category_id": "16",
+      "name_english": "nidhan ",
+      "name_malayalam": "നിദാൻ ടെക്\u200cസ്റ്റൈൽസ്",
+      "place": "തെക്കേക്കര , ഈരാറ്റുപേട്ട ",
+      "phone": "7902609147",
+      "created_at": "2018-09-17 17:13:23",
+      "updated_at": "2018-09-17 17:13:23"
+    },
+    {
+      "id": "295",
+      "category_id": "53",
+      "name_english": "Nimbuzz ",
+      "name_malayalam": "നിംബസ്സ്   മൊബൈൽസ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "7012103598",
+      "created_at": "2018-09-14 09:28:31",
+      "updated_at": "2018-09-14 09:28:31"
+    },
+    {
+      "id": "401",
+      "category_id": "65",
+      "name_english": "niram",
+      "name_malayalam": "നിറം ഫ്ലോവേര്സ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947061620",
+      "created_at": "2018-09-15 20:06:43",
+      "updated_at": "2018-09-15 20:06:43"
+    },
+    {
+      "id": "290",
+      "category_id": "52",
+      "name_english": "NIyas",
+      "name_malayalam": "നിയാസ് ",
+      "place": "നിയർ പുത്തൻ പള്ളി ജുമാമസ്ജിദ്",
+      "phone": "9497894734",
+      "created_at": "2018-09-14 07:16:27",
+      "updated_at": "2018-09-14 07:16:27"
+    },
+    {
+      "id": "514",
+      "category_id": "54",
+      "name_english": "Niyas",
+      "name_malayalam": "നിയാസ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9744387615",
+      "created_at": "2018-10-01 13:11:36",
+      "updated_at": "2018-10-01 13:11:36"
+    },
+    {
+      "id": "492",
+      "category_id": "73",
+      "name_english": "Noufal",
+      "name_malayalam": "നൗഫൽ",
+      "place": "Near RIMS, കടുവാമുഴി",
+      "phone": "9446757313",
+      "created_at": "2018-09-22 14:38:42",
+      "updated_at": "2018-09-22 14:38:42"
+    },
+    {
+      "id": "257",
+      "category_id": "46",
+      "name_english": "Nr",
+      "name_malayalam": "എൻ ആർ ഏജന്സിസ്",
+      "place": "ചെന്നാട് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447729501",
+      "created_at": "2018-09-11 15:44:06",
+      "updated_at": "2018-09-11 15:44:06"
+    },
+    {
+      "id": "297",
+      "category_id": "53",
+      "name_english": "O2 ",
+      "name_malayalam": "ഓ2",
+      "place": "അഹ്\u200cമദ്\u200c കുരിക്കൾ നഗർ ",
+      "phone": "8089773034",
+      "created_at": "2018-09-14 09:32:54",
+      "updated_at": "2018-09-14 09:32:54"
+    },
+    {
+      "id": "112",
+      "category_id": "13",
+      "name_english": "Oil",
+      "name_malayalam": "ഓയിൽ ",
+      "place": "മുട്ടം ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447355905",
+      "created_at": "2018-09-03 08:54:54",
+      "updated_at": "2018-09-03 08:54:54"
+    },
+    {
+      "id": "184",
+      "category_id": "35",
+      "name_english": "olf fish 1",
+      "name_malayalam": "ഉണക്ക മീൻ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9447138457",
+      "created_at": "2018-09-07 17:48:11",
+      "updated_at": "2018-09-16 06:33:26"
+    },
+    {
+      "id": "215",
+      "category_id": "40",
+      "name_english": "Optima",
+      "name_malayalam": "ഒപ്റ്റിമ സൊലൂഷൻസ്",
+      "place": "പ്രൈവറ്റ് ബസ് സ്റ്റാന്റ്",
+      "phone": "9947211230",
+      "created_at": "2018-09-08 13:11:10",
+      "updated_at": "2018-09-08 13:11:10"
+    },
+    {
+      "id": "338",
+      "category_id": "12",
+      "name_english": "orange",
+      "name_malayalam": "ഓറഞ്ച് ബേക്കറി",
+      "place": "നടയ്ക്കൽ ",
+      "phone": "9961073851",
+      "created_at": "2018-09-15 15:20:13",
+      "updated_at": "2018-09-15 15:20:13"
+    },
+    {
+      "id": "149",
+      "category_id": "28",
+      "name_english": "Orbit",
+      "name_malayalam": "ഓർബിറ്റ് സിസ്റ്റംസ്",
+      "place": "കുരിക്കൽ നഗർ , ഈരാറ്റുപേട്ട",
+      "phone": "04822273769",
+      "created_at": "2018-09-05 17:11:11",
+      "updated_at": "2018-09-05 17:11:11"
+    },
+    {
+      "id": "213",
+      "category_id": "39",
+      "name_english": "Orbit",
+      "name_malayalam": "ഓർബിറ്റ് കർട്ടൺസ്",
+      "place": "പനക്കപ്പാലം",
+      "phone": "9744208563",
+      "created_at": "2018-09-08 13:06:14",
+      "updated_at": "2018-09-08 13:06:14"
+    },
+    {
+      "id": "307",
+      "category_id": "28",
+      "name_english": "Oscar (Anas) ",
+      "name_malayalam": "ഓസ്കാർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447568681 ",
+      "created_at": "2018-09-14 11:48:51",
+      "updated_at": "2018-09-14 11:48:51"
+    },
+    {
+      "id": "56",
+      "category_id": "11",
+      "name_english": "OUshadhi",
+      "name_malayalam": "ഔഷധി",
+      "place": "Opp. PB സ്റ്റാൻഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9495111006",
+      "created_at": "2018-09-01 23:16:05",
+      "updated_at": "2018-09-01 23:16:05"
+    },
+    {
+      "id": "304",
+      "category_id": "28",
+      "name_english": "oxo systems ",
+      "name_malayalam": "ഓസ്ഒ സിസ്റ്റംസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847909276 ",
+      "created_at": "2018-09-14 11:44:25",
+      "updated_at": "2018-09-14 11:44:25"
+    },
+    {
+      "id": "226",
+      "category_id": "41",
+      "name_english": "Padippueakkal",
+      "name_malayalam": "പടിപ്പുരക്കൽ സ്റ്റോർസ്",
+      "place": "എം.ഇ.എസ് ജംഗ്ഷൻ",
+      "phone": "9562171896",
+      "created_at": "2018-09-08 14:02:01",
+      "updated_at": "2018-09-08 14:02:01"
+    },
+    {
+      "id": "253",
+      "category_id": "46",
+      "name_english": "Padippurakkal",
+      "name_malayalam": "പടിപുരക്കൽ ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9961748756",
+      "created_at": "2018-09-11 15:40:12",
+      "updated_at": "2018-09-11 15:40:12"
+    },
+    {
+      "id": "27",
+      "category_id": "6",
+      "name_english": "Parambukattil agencies",
+      "name_malayalam": "പറമ്പുകാട്ടിൽ ഏജൻസിസ്",
+      "place": "പുളിക്കൻസ് മാൾ",
+      "phone": "9447655612",
+      "created_at": "2018-08-11 06:57:39",
+      "updated_at": "2018-08-11 06:57:39"
+    },
+    {
+      "id": "368",
+      "category_id": "60",
+      "name_english": "paranani",
+      "name_malayalam": "പാറനാനി മെഡിക്കല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822272471",
+      "created_at": "2018-09-15 18:59:53",
+      "updated_at": "2018-09-15 18:59:53"
+    },
+    {
+      "id": "541",
+      "category_id": "60",
+      "name_english": "Paranani",
+      "name_malayalam": "പാറനാനി മെഡിക്കൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947275231",
+      "created_at": "2018-12-29 14:22:23",
+      "updated_at": "2018-12-29 14:22:23"
+    },
+    {
+      "id": "405",
+      "category_id": "60",
+      "name_english": "Paranari medical",
+      "name_malayalam": "പാറനാനി മെഡിക്കൽസ്\u200c",
+      "place": "സെൻട്രൽ ജങ്ഷൻ ,ഈരാറ്റുപേട്ട",
+      "phone": "9947275231",
+      "created_at": "2018-09-15 20:39:40",
+      "updated_at": "2018-09-15 20:39:40"
+    },
+    {
+      "id": "147",
+      "category_id": "27",
+      "name_english": "PArayil",
+      "name_malayalam": "പാറയിൽ കയർ സ്റ്റോഴ്\u200cസ്",
+      "place": "പി എം സി ജങ്ഷൻ, ഈരാറ്റുപേട്ട  ",
+      "phone": "9947498849",
+      "created_at": "2018-09-05 17:07:56",
+      "updated_at": "2018-09-15 19:50:57"
+    },
+    {
+      "id": "394",
+      "category_id": "64",
+      "name_english": "PARayil",
+      "name_malayalam": "പാറയിൽ ഉരുപടി",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9847427542",
+      "created_at": "2018-09-15 19:51:36",
+      "updated_at": "2018-09-15 19:51:36"
+    },
+    {
+      "id": "397",
+      "category_id": "64",
+      "name_english": "PArayil",
+      "name_malayalam": "പാറയിൽ ഉരുപടി",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9526 640421",
+      "created_at": "2018-09-15 19:53:40",
+      "updated_at": "2018-09-16 06:26:23"
+    },
+    {
+      "id": "90",
+      "category_id": "17",
+      "name_english": "Parvin",
+      "name_malayalam": "പർവിൻ ഡുമേല",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9544988511",
+      "created_at": "2018-09-02 22:39:59",
+      "updated_at": "2018-09-22 12:12:44"
+    },
+    {
+      "id": "447",
+      "category_id": "23",
+      "name_english": "Payyil paints & hardware ",
+      "name_malayalam": "പയ്യിൽ പെയിന്റസ് & ഹാർഡ്വെയർസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9605530719",
+      "created_at": "2018-09-17 21:56:46",
+      "updated_at": "2018-09-17 21:56:46"
+    },
+    {
+      "id": "258",
+      "category_id": "46",
+      "name_english": "Petta",
+      "name_malayalam": "പേട്ട പവർ ടൂൾസ്",
+      "place": "ചെന്നാട് കവല, തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9526664882",
+      "created_at": "2018-09-11 15:45:04",
+      "updated_at": "2018-09-11 15:45:04"
+    },
+    {
+      "id": "411",
+      "category_id": "45",
+      "name_english": "phk",
+      "name_malayalam": "പി എച് കെ & സൺസ്   ( മുഹ്സിൻ  )",
+      "place": "പി ബി ബസ് സ്റ്റാന്റ്",
+      "phone": "9447854001",
+      "created_at": "2018-09-15 22:17:19",
+      "updated_at": "2018-09-15 22:17:19"
+    },
+    {
+      "id": "412",
+      "category_id": "45",
+      "name_english": "phk",
+      "name_malayalam": "പി എച് കെ & സൺസ്   ( മാഹിൻ ) ",
+      "place": "പി ബി ബസ് സ്റ്റാന്റ്",
+      "phone": " 9447110215",
+      "created_at": "2018-09-15 22:18:39",
+      "updated_at": "2018-09-15 22:18:39"
+    },
+    {
+      "id": "377",
+      "category_id": "63",
+      "name_english": "photopfast",
+      "name_malayalam": "ഫോട്ടോഫാസ്റ്റ് കളര്\u200d ലാബ്\u200c & സ്റ്റുഡിയോ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822276146",
+      "created_at": "2018-09-15 19:16:02",
+      "updated_at": "2018-09-15 19:16:02"
+    },
+    {
+      "id": "360",
+      "category_id": "17",
+      "name_english": "pink",
+      "name_malayalam": "പിങ്ക് ലേഡീസ് & കിഡ്സ്\u200c വെയര്\u200d ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9496607580",
+      "created_at": "2018-09-15 18:38:47",
+      "updated_at": "2018-09-15 18:38:47"
+    },
+    {
+      "id": "483",
+      "category_id": "72",
+      "name_english": "pkm power tools",
+      "name_malayalam": "പികെഎം പവർ ടൂൾസ്",
+      "place": "സിസിഎം ബിൽഡിങ്, കോസ്\u200cവേ റോഡ് ",
+      "phone": "9947804348",
+      "created_at": "2018-09-22 09:14:13",
+      "updated_at": "2018-09-22 09:14:13"
+    },
+    {
+      "id": "310",
+      "category_id": "16",
+      "name_english": "POGO",
+      "name_malayalam": "പോഗോ കിഡ്സ് വെയർ ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9744391851",
+      "created_at": "2018-09-14 21:45:25",
+      "updated_at": "2018-09-15 13:36:39"
+    },
+    {
+      "id": "155",
+      "category_id": "29",
+      "name_english": "Ponthanal",
+      "name_malayalam": "പൊന്തനാൽ സിമന്റ്\u200cസ്",
+      "place": "നിയർ എംജിഎച്എസ്എസ് , നടക്കൽ, ഈരാറ്റുപേട്ട",
+      "phone": "9605280333",
+      "created_at": "2018-09-06 07:09:18",
+      "updated_at": "2018-09-06 07:09:18"
+    },
+    {
+      "id": "76",
+      "category_id": "16",
+      "name_english": "Ponthanal aasilk house",
+      "name_malayalam": "പൊന്തനാൽ സിൽക് ഹൗസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447074391",
+      "created_at": "2018-09-02 22:15:41",
+      "updated_at": "2018-09-02 22:15:41"
+    },
+    {
+      "id": "419",
+      "category_id": "10",
+      "name_english": "Ponthanal spare store ",
+      "name_malayalam": "പൊന്തനാല്\u200d സ്പെയര്\u200d പാർട്സ് ",
+      "place": "വട്ടക്കയം, ഈരാറ്റുപേട്ട",
+      "phone": "9020333384",
+      "created_at": "2018-09-16 08:19:28",
+      "updated_at": "2018-09-16 08:19:28"
+    },
+    {
+      "id": "234",
+      "category_id": "43",
+      "name_english": "Popular",
+      "name_malayalam": "പോപ്പുലർ ഗ്ലാസ്  ഹൗസ്",
+      "place": "മുട്ടം ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9447661638",
+      "created_at": "2018-09-11 07:28:44",
+      "updated_at": "2018-09-11 07:41:30"
+    },
+    {
+      "id": "318",
+      "category_id": "59",
+      "name_english": "Positive",
+      "name_malayalam": "പോസിറ്റീവ് കാർഡ്സ് ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9037558090",
+      "created_at": "2018-09-14 22:38:02",
+      "updated_at": "2018-09-14 22:38:02"
+    },
+    {
+      "id": "472",
+      "category_id": "72",
+      "name_english": "power home",
+      "name_malayalam": "#പവർ ഹോം ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847 807 502",
+      "created_at": "2018-09-20 10:47:53",
+      "updated_at": "2018-09-20 10:47:53"
+    },
+    {
+      "id": "482",
+      "category_id": "72",
+      "name_english": "power homes & power tools",
+      "name_malayalam": "പവർ ഹോംസ് & പവർ ടൂൾസ് ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9947863793",
+      "created_at": "2018-09-22 09:13:15",
+      "updated_at": "2018-09-22 09:13:15"
+    },
+    {
+      "id": "542",
+      "category_id": "72",
+      "name_english": "Power tools",
+      "name_malayalam": "പവർടൂൾസ്&പണിഉപകരണങ്ങൾ വാടകക്ക്  സിറ്റി പവർടൂൾസ്   ",
+      "place": "നടക്കൽ",
+      "phone": "82 81 86 09 14",
+      "created_at": "2019-01-10 15:50:23",
+      "updated_at": "2019-01-10 15:50:23"
+    },
+    {
+      "id": "198",
+      "category_id": "37",
+      "name_english": "Prevasi",
+      "name_malayalam": "പ്രവാസി ചെരുപ്പ് കട ",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "8281632088",
+      "created_at": "2018-09-08 07:49:00",
+      "updated_at": "2018-09-08 07:49:00"
+    },
+    {
+      "id": "361",
+      "category_id": "24",
+      "name_english": "prf chicken",
+      "name_malayalam": "PRF ചിക്കന്\u200d സെന്റെര്\u200d",
+      "place": "മാർക്കറ്റ് റോഡ് ഈരാറ്റുപേട്ട",
+      "phone": "9947237101",
+      "created_at": "2018-09-15 18:48:46",
+      "updated_at": "2018-09-15 18:48:46"
+    },
+    {
+      "id": "175",
+      "category_id": "32",
+      "name_english": "Prime",
+      "name_malayalam": "പ്രൈം ഇലക്ട്രിക്കൽസ്",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9495195733",
+      "created_at": "2018-09-07 11:37:27",
+      "updated_at": "2018-09-07 11:37:27"
+    },
+    {
+      "id": "140",
+      "category_id": "25",
+      "name_english": "Primir",
+      "name_malayalam": "പ്രീമിയർ ചിപ്സ്",
+      "place": "നിയർ സിസിഎം പമ്പ്, തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9447121826",
+      "created_at": "2018-09-05 16:24:49",
+      "updated_at": "2018-09-05 16:24:49"
+    },
+    {
+      "id": "466",
+      "category_id": "63",
+      "name_english": "Prince Wedding Studio",
+      "name_malayalam": "പ്രിൻസ് വെഡിങ് സ്റ്റുഡിയോ  ",
+      "place": "തീക്കോയി  ",
+      "phone": "9048749473",
+      "created_at": "2018-09-19 16:39:28",
+      "updated_at": "2018-09-19 16:39:28"
+    },
+    {
+      "id": "127",
+      "category_id": "23",
+      "name_english": "Pulickeel",
+      "name_malayalam": "പുളിക്കിൽ ഏജന്സിസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9349804900",
+      "created_at": "2018-09-04 08:53:11",
+      "updated_at": "2018-09-04 08:53:11"
+    },
+    {
+      "id": "77",
+      "category_id": "16",
+      "name_english": "Pulikeel",
+      "name_malayalam": "പുളിക്കീൽ ടെക്സ്റ്റൈൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822273352",
+      "created_at": "2018-09-02 22:16:37",
+      "updated_at": "2018-09-02 22:16:37"
+    },
+    {
+      "id": "399",
+      "category_id": "32",
+      "name_english": "pulikeel",
+      "name_malayalam": "പുളികീല്\u200d സാനിവെയെര്സ് ",
+      "place": "ആനിയിളപ്പ് ",
+      "phone": "9526508033",
+      "created_at": "2018-09-15 20:03:56",
+      "updated_at": "2018-09-15 20:03:56"
+    },
+    {
+      "id": "235",
+      "category_id": "43",
+      "name_english": "Pulikkal",
+      "name_malayalam": "പുളിക്കിൽ  ഗ്ലാസ് ഹൗസ് ",
+      "place": "നിയർ പ്രൈവറ്റ് സ്റ്റാൻഡ്",
+      "phone": "9447306115",
+      "created_at": "2018-09-11 07:30:29",
+      "updated_at": "2018-09-11 07:41:49"
+    },
+    {
+      "id": "339",
+      "category_id": "6",
+      "name_english": "puthan parambil",
+      "name_malayalam": "പുത്തൻപറമ്പിൽ ഏജൻസിസ്",
+      "place": "എം ഇ എസ് ജം. ഈരാറ്റുപേട്ട",
+      "phone": "9747571842",
+      "created_at": "2018-09-15 15:21:06",
+      "updated_at": "2018-09-15 15:21:06"
+    },
+    {
+      "id": "473",
+      "category_id": "60",
+      "name_english": "Puthumangalam ",
+      "name_malayalam": "പുതുമംഗലം യുനാനി മെഡിക്കൽസ്  ",
+      "place": "മാർക്കറ്റ് റോഡ് ,ഈരാറ്റുപേട്ട",
+      "phone": "8281873842",
+      "created_at": "2018-09-20 12:56:06",
+      "updated_at": "2018-09-20 12:56:06"
+    },
+    {
+      "id": "57",
+      "category_id": "11",
+      "name_english": "PuthumangalM",
+      "name_malayalam": "പുതുമങ്കലം യുനാനി മെഡിക്കൽസ്",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9747593885",
+      "created_at": "2018-09-01 23:17:51",
+      "updated_at": "2018-09-01 23:17:51"
+    },
+    {
+      "id": "94",
+      "category_id": "19",
+      "name_english": "Puthuparambil",
+      "name_malayalam": "പുതുപ്പറമ്പിൽ സൈക്കിൾസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8289974800",
+      "created_at": "2018-09-02 22:54:53",
+      "updated_at": "2018-09-02 22:54:53"
+    },
+    {
+      "id": "294",
+      "category_id": "53",
+      "name_english": "Rafa",
+      "name_malayalam": " റാഫ മൊബൈൽസ് ",
+      "place": "സെൻട്രൽ ജംങ്ഷൻ ",
+      "phone": "9947043454",
+      "created_at": "2018-09-14 09:26:16",
+      "updated_at": "2018-09-14 09:26:16"
+    },
+    {
+      "id": "19",
+      "category_id": "2",
+      "name_english": "Rafi hotel",
+      "name_malayalam": "റാഫി ഹോട്ടൽ",
+      "place": "കെ.എസ്.ആർ. ടി. സി-ഈരാറ്റുപേട്ട",
+      "phone": "9847194491",
+      "created_at": "2018-08-11 06:44:28",
+      "updated_at": "2018-08-11 06:44:28"
+    },
+    {
+      "id": "227",
+      "category_id": "41",
+      "name_english": "Rafi store",
+      "name_malayalam": "റാഫി സ്റ്റോർസ്",
+      "place": "വാക്കാപറമ്പ്",
+      "phone": "9747271343",
+      "created_at": "2018-09-08 14:03:14",
+      "updated_at": "2018-09-08 14:03:14"
+    },
+    {
+      "id": "176",
+      "category_id": "32",
+      "name_english": "Rahmaniya",
+      "name_malayalam": "റഹ്മാനിയ ഇലക്ട്രിക്കൽസ്",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447612814",
+      "created_at": "2018-09-07 11:38:09",
+      "updated_at": "2018-09-07 11:38:09"
+    },
+    {
+      "id": "369",
+      "category_id": "60",
+      "name_english": "raina ",
+      "name_malayalam": "റൈന മെഡിക്കല്\u200dസ് ",
+      "place": "എം.ഇ.എസ് ജം, ഈരാറ്റുപേട്ട ",
+      "phone": "9447782242",
+      "created_at": "2018-09-15 19:01:11",
+      "updated_at": "2018-09-15 19:01:11"
+    },
+    {
+      "id": "406",
+      "category_id": "12",
+      "name_english": "Ramzan",
+      "name_malayalam": "റംസാൻ ബേക്കറി",
+      "place": "എം ഇ എസ് ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9847889484",
+      "created_at": "2018-09-15 21:14:05",
+      "updated_at": "2018-09-16 07:33:36"
+    },
+    {
+      "id": "83",
+      "category_id": "17",
+      "name_english": "Rangoli",
+      "name_malayalam": "രംഗോലി ലേഡീസ് കോർണർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447456627",
+      "created_at": "2018-09-02 22:28:54",
+      "updated_at": "2018-09-02 22:28:54"
+    },
+    {
+      "id": "20",
+      "category_id": "2",
+      "name_english": "Rasal hotel",
+      "name_malayalam": "റസൽ ഹോട്ടൽ",
+      "place": "എം.ഇ.എസ് ജംഗ്ഷൻ-ഈരാറ്റുപേട്ട",
+      "phone": "9497061819",
+      "created_at": "2018-08-11 06:45:45",
+      "updated_at": "2018-08-11 06:45:45"
+    },
+    {
+      "id": "7",
+      "category_id": "6",
+      "name_english": "Rasheed vadayar",
+      "name_malayalam": "റഷീദ് വടയർ  ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9847321083",
+      "created_at": "2018-08-09 06:41:46",
+      "updated_at": "2018-08-09 06:41:46"
+    },
+    {
+      "id": "182",
+      "category_id": "33",
+      "name_english": "Rayah",
+      "name_malayalam": "റയ്യഹ് അലുമിനിയം ഫാബ്രിക്കേഷൻ ",
+      "place": "എം ഇ എസ് ജങ്ഷൻ ",
+      "phone": "9539045621",
+      "created_at": "2018-09-07 17:44:59",
+      "updated_at": "2018-09-07 17:44:59"
+    },
+    {
+      "id": "512",
+      "category_id": "9",
+      "name_english": "Rayaha",
+      "name_malayalam": "റയാഹ് അലുമിനിയം ഫാബ്രിക്കേഷൻ",
+      "place": "എം ഇ എസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9539045621",
+      "created_at": "2018-09-28 20:13:38",
+      "updated_at": "2018-09-28 20:22:35"
+    },
+    {
+      "id": "435",
+      "category_id": "2",
+      "name_english": "RAYAN FAST FOOD & BIRIYANI HUT",
+      "name_malayalam": "റയാന്\u200d ഫാസ്റ്റ് ഫുഡ് & ബിരിയാണ് ഹട്ട്",
+      "place": "സെന്\u200dട്രല്\u200d ജംങ്ഷന്\u200d",
+      "phone": "9447139238",
+      "created_at": "2018-09-17 12:57:57",
+      "updated_at": "2018-09-17 12:57:57"
+    },
+    {
+      "id": "359",
+      "category_id": "18",
+      "name_english": "redtag",
+      "name_malayalam": "റെഡ് ടാഗ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9645796662",
+      "created_at": "2018-09-15 18:00:26",
+      "updated_at": "2018-09-15 18:01:09"
+    },
+    {
+      "id": "408",
+      "category_id": "60",
+      "name_english": "remadia",
+      "name_malayalam": "റെമഡിയ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9744698309",
+      "created_at": "2018-09-15 21:19:14",
+      "updated_at": "2018-09-15 21:19:14"
+    },
+    {
+      "id": "254",
+      "category_id": "46",
+      "name_english": "Rhm",
+      "name_malayalam": "ആർ. എച് . എം ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447910529",
+      "created_at": "2018-09-11 15:41:02",
+      "updated_at": "2018-09-11 15:41:02"
+    },
+    {
+      "id": "281",
+      "category_id": "51",
+      "name_english": "Rhm",
+      "name_malayalam": "ആർ എച് എം സൗണ്ട്\u200cസ്",
+      "place": "മുഹിദീൻ പള്ളി ബിൽഡിങ്, കോസ്\u200cവേ റോഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9747530865",
+      "created_at": "2018-09-12 09:30:48",
+      "updated_at": "2018-09-12 09:30:48"
+    },
+    {
+      "id": "334",
+      "category_id": "51",
+      "name_english": "RHM Pro",
+      "name_malayalam": "ആർ.എച്ച്.എം. പ്രോ ഓഡിയോ & ലൈറ്റ്സ്  ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447910529",
+      "created_at": "2018-09-15 14:27:37",
+      "updated_at": "2018-09-15 14:27:37"
+    },
+    {
+      "id": "511",
+      "category_id": "66",
+      "name_english": "rivan ",
+      "name_malayalam": "റിവാൻ ടൈലേഴ്\u200cസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447493099",
+      "created_at": "2018-09-28 11:13:42",
+      "updated_at": "2018-09-28 11:13:42"
+    },
+    {
+      "id": "322",
+      "category_id": "46",
+      "name_english": "Riyas",
+      "name_malayalam": " പഠിപ്പുരക്കൽ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9747735735",
+      "created_at": "2018-09-15 06:46:31",
+      "updated_at": "2018-09-15 06:46:31"
+    },
+    {
+      "id": "58",
+      "category_id": "11",
+      "name_english": "RK",
+      "name_malayalam": "RK ഹെർബൽ",
+      "place": "അൽ മദീന ഷോപ്പിംഗ് കോംപ്ലസ്\u200c, സെൻറർ ജങ്ഷൻ, ഈരാറ്റുപ",
+      "phone": "9747436453",
+      "created_at": "2018-09-01 23:20:01",
+      "updated_at": "2018-09-01 23:20:01"
+    },
+    {
+      "id": "486",
+      "category_id": "66",
+      "name_english": "Rocky tailoring",
+      "name_malayalam": "റോക്കി പാർട്ടി വെയർ ഡിസൈനിംഗ് & ടൈലറിംഗ്\u200c",
+      "place": "അമ്പലം ജംഗ്ഷൻ, നടയ്ക്കൽ",
+      "phone": "7558925516",
+      "created_at": "2018-09-22 09:43:23",
+      "updated_at": "2018-09-22 09:43:23"
+    },
+    {
+      "id": "108",
+      "category_id": "12",
+      "name_english": "Royal",
+      "name_malayalam": "റോയൽ ബേക്കറി",
+      "place": "നൈനാർ ജുമാമസ്ജിദിന് എതിർ വശം, ഈരാറ്റുപേട്ട",
+      "phone": "9947074651",
+      "created_at": "2018-09-03 08:40:57",
+      "updated_at": "2018-09-07 15:28:44"
+    },
+    {
+      "id": "255",
+      "category_id": "46",
+      "name_english": "Royal",
+      "name_malayalam": "റോയൽ ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447572291",
+      "created_at": "2018-09-11 15:41:45",
+      "updated_at": "2018-09-11 15:41:45"
+    },
+    {
+      "id": "491",
+      "category_id": "6",
+      "name_english": "royal wood",
+      "name_malayalam": "റോയൽ വുഡ് ഫർണിച്ചർ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "99470 78022",
+      "created_at": "2018-09-22 11:41:34",
+      "updated_at": "2018-09-22 11:41:34"
+    },
+    {
+      "id": "101",
+      "category_id": "21",
+      "name_english": "S&v",
+      "name_malayalam": "എസ് & വി ട്രേഡേഴ്സ്",
+      "place": "ഇളപ്പുങ്കൽ",
+      "phone": "9947223761",
+      "created_at": "2018-09-03 06:48:05",
+      "updated_at": "2018-09-03 06:48:05"
+    },
+    {
+      "id": "429",
+      "category_id": "59",
+      "name_english": "saba",
+      "name_malayalam": "സബാ ക്രിയെഷന്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8547930471",
+      "created_at": "2018-09-16 16:16:10",
+      "updated_at": "2018-09-16 16:16:10"
+    },
+    {
+      "id": "428",
+      "category_id": "63",
+      "name_english": "saba creations",
+      "name_malayalam": "സബാ ക്രിയെഷന്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8547930471",
+      "created_at": "2018-09-16 16:14:48",
+      "updated_at": "2018-09-16 16:14:48"
+    },
+    {
+      "id": "349",
+      "category_id": "61",
+      "name_english": "Sabith ",
+      "name_malayalam": "സാബിത് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9495237925",
+      "created_at": "2018-09-15 17:19:58",
+      "updated_at": "2018-09-15 17:19:58"
+    },
+    {
+      "id": "189",
+      "category_id": "36",
+      "name_english": "Sahib sticker cutting",
+      "name_malayalam": "സാഹിബ് സ്റ്റിക്കർ കട്ടിങ്",
+      "place": "നിയർ പുത്തൻ പള്ളി ജുമാമസ്ജിദ്, പൂഞ്ഞാർ റോഡ്, ഈരാറ്",
+      "phone": "9447985122",
+      "created_at": "2018-09-07 17:58:42",
+      "updated_at": "2018-09-07 17:58:42"
+    },
+    {
+      "id": "284",
+      "category_id": "52",
+      "name_english": "Sajith",
+      "name_malayalam": "സാജിദ് കൊല്ലംപറമ്പിൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847600145",
+      "created_at": "2018-09-14 07:10:32",
+      "updated_at": "2018-09-14 14:17:39"
+    },
+    {
+      "id": "330",
+      "category_id": "36",
+      "name_english": "Sakeer ",
+      "name_malayalam": "സകീർ ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9961743592",
+      "created_at": "2018-09-15 13:53:04",
+      "updated_at": "2018-09-15 13:53:04"
+    },
+    {
+      "id": "450",
+      "category_id": "54",
+      "name_english": "salim",
+      "name_malayalam": "സലിം",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9447843737",
+      "created_at": "2018-09-18 15:12:20",
+      "updated_at": "2018-09-18 15:12:20"
+    },
+    {
+      "id": "518",
+      "category_id": "66",
+      "name_english": "salman tailoring",
+      "name_malayalam": "സൽമാൻ ടൈലറിംഗ് ",
+      "place": "അമാൻ ജംഗ്\u200cഷൻ നടക്കൽ",
+      "phone": " 9961019429",
+      "created_at": "2018-10-02 10:32:39",
+      "updated_at": "2018-10-02 10:32:39"
+    },
+    {
+      "id": "103",
+      "category_id": "10",
+      "name_english": "Saphare agencies",
+      "name_malayalam": "Saphare ഏജന്സിസ്",
+      "place": "നിയർ പി എം സി ഹോസ്പിറ്റൽ , പൂഞ്ഞാർ റോഡ്, ഈരാറ്റുപേ",
+      "phone": "9447214786",
+      "created_at": "2018-09-03 08:29:26",
+      "updated_at": "2018-09-03 08:29:26"
+    },
+    {
+      "id": "378",
+      "category_id": "63",
+      "name_english": "sariga",
+      "name_malayalam": "സരിഗ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822275846",
+      "created_at": "2018-09-15 19:16:59",
+      "updated_at": "2018-09-15 19:16:59"
+    },
+    {
+      "id": "270",
+      "category_id": "49",
+      "name_english": "Sarnya",
+      "name_malayalam": "ശരണ്യ ജൂവലറി",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "04822272886",
+      "created_at": "2018-09-12 08:17:21",
+      "updated_at": "2018-09-12 08:17:21"
+    },
+    {
+      "id": "376",
+      "category_id": "1",
+      "name_english": "Savad",
+      "name_malayalam": "സവാദ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947225584",
+      "created_at": "2018-09-15 19:15:28",
+      "updated_at": "2018-09-15 19:15:28"
+    },
+    {
+      "id": "78",
+      "category_id": "16",
+      "name_english": "Savidham",
+      "name_malayalam": "സവിധം റെഡിമെയ്ഡ്സ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447121427",
+      "created_at": "2018-09-02 22:18:04",
+      "updated_at": "2018-09-02 22:18:04"
+    },
+    {
+      "id": "414",
+      "category_id": "1",
+      "name_english": "scarp",
+      "name_malayalam": "ആക്രിക്കട  (അബ്ദുൽ ഖാദർ)",
+      "place": "നടക്കല്\u200d ",
+      "phone": "94 47805579",
+      "created_at": "2018-09-15 22:24:45",
+      "updated_at": "2018-09-15 22:24:45"
+    },
+    {
+      "id": "413",
+      "category_id": "1",
+      "name_english": "scrap",
+      "name_malayalam": "ആക്രിക്കട ( അജാസ്)",
+      "place": "നടയ്ക്കൽ  ",
+      "phone": "9447407324 ",
+      "created_at": "2018-09-15 22:23:37",
+      "updated_at": "2018-09-15 22:23:37"
+    },
+    {
+      "id": "427",
+      "category_id": "10",
+      "name_english": "SECOND",
+      "name_malayalam": "സെക്കൻഡ് ഹാൻഡ് ഫോർ വീലർ സ്പെയർ പാർട്സ്   ",
+      "place": "കടുവാമുഴി",
+      "phone": "9447288108 ",
+      "created_at": "2018-09-16 13:05:05",
+      "updated_at": "2018-09-16 13:05:05"
+    },
+    {
+      "id": "86",
+      "category_id": "18",
+      "name_english": "Selfie",
+      "name_malayalam": "സെൽഫി മെൻസ് വെയർ",
+      "place": "തെക്കേക്കര",
+      "phone": "9947143173",
+      "created_at": "2018-09-02 22:35:41",
+      "updated_at": "2018-09-02 22:36:25"
+    },
+    {
+      "id": "539",
+      "category_id": "32",
+      "name_english": "SH ",
+      "name_malayalam": "എസ് എച് ലൈറ്റ്സ്   ",
+      "place": "ഫോർനാസ് ബിൽഡിംഗ്, മുട്ടം ജങ്ഷൻ , ",
+      "phone": "8921336014",
+      "created_at": "2018-11-17 10:25:35",
+      "updated_at": "2018-11-17 10:25:35"
+    },
+    {
+      "id": "407",
+      "category_id": "32",
+      "name_english": "Sh light",
+      "name_malayalam": "എസ്.എച് ലൈറ്റ്സ് (ഫാന്\u200dസി ലൈറ്റ്സ് )",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947867046",
+      "created_at": "2018-09-15 21:14:20",
+      "updated_at": "2018-09-15 21:14:20"
+    },
+    {
+      "id": "513",
+      "category_id": "75",
+      "name_english": "Shafano traders ",
+      "name_malayalam": "ഷഫാനോ ട്രേഡേഴ്\u200cസ് (കിസാൻ പമ്പുകൾ)",
+      "place": "മക്കാ മസ്ജിദിന് സമീപം, മുനിസിപ്പൽ ഓഫീസ് റോഡ് ",
+      "phone": "9447738657",
+      "created_at": "2018-09-29 22:03:54",
+      "updated_at": "2018-09-29 22:03:54"
+    },
+    {
+      "id": "403",
+      "category_id": "28",
+      "name_english": "shaheer",
+      "name_malayalam": "ഷഹീര്\u200d ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9745464548",
+      "created_at": "2018-09-15 20:10:30",
+      "updated_at": "2018-09-15 20:10:30"
+    },
+    {
+      "id": "277",
+      "category_id": "50",
+      "name_english": "Shamas",
+      "name_malayalam": "ഷാമാസ് ഫാൻസി",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9446922050",
+      "created_at": "2018-09-12 08:34:27",
+      "updated_at": "2018-09-17 22:18:31"
+    },
+    {
+      "id": "443",
+      "category_id": "54",
+      "name_english": "shamon",
+      "name_malayalam": " ഷാമോൻ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9744616565 ",
+      "created_at": "2018-09-17 17:54:32",
+      "updated_at": "2018-09-17 17:54:32"
+    },
+    {
+      "id": "390",
+      "category_id": "35",
+      "name_english": "SHanavas",
+      "name_malayalam": "ചമ്പക്കര ഫിഷറീസ്",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9747894908",
+      "created_at": "2018-09-15 19:35:36",
+      "updated_at": "2018-09-15 19:35:36"
+    },
+    {
+      "id": "59",
+      "category_id": "11",
+      "name_english": "SHifa",
+      "name_malayalam": "ഷിഫാ മരുന്ന് കട",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9847924009",
+      "created_at": "2018-09-01 23:21:11",
+      "updated_at": "2018-09-01 23:21:11"
+    },
+    {
+      "id": "160",
+      "category_id": "30",
+      "name_english": "Shifa",
+      "name_malayalam": "ഷിഫാ കുൾബാർ",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "8606274104",
+      "created_at": "2018-09-06 07:31:39",
+      "updated_at": "2018-09-06 07:31:39"
+    },
+    {
+      "id": "309",
+      "category_id": "54",
+      "name_english": "SHihab",
+      "name_malayalam": "ശിഹാബ് ",
+      "place": "ഇളപ്പുങ്കൽ , ഈരാറ്റുപേട്ട",
+      "phone": "9447869542",
+      "created_at": "2018-09-14 14:23:04",
+      "updated_at": "2018-09-14 14:23:04"
+    },
+    {
+      "id": "493",
+      "category_id": "73",
+      "name_english": "Shihab",
+      "name_malayalam": "ശിഹാബ്",
+      "place": "Near RIMS, കടുവാമുഴി",
+      "phone": "9544331725",
+      "created_at": "2018-09-22 14:39:41",
+      "updated_at": "2018-09-22 14:39:41"
+    },
+    {
+      "id": "191",
+      "category_id": "36",
+      "name_english": "Sign",
+      "name_malayalam": "സൈൻ ഹസ്",
+      "place": "മുരിക്കോലി ആർക്കേഡ്",
+      "phone": "04822272544",
+      "created_at": "2018-09-07 18:01:33",
+      "updated_at": "2018-09-07 18:01:33"
+    },
+    {
+      "id": "190",
+      "category_id": "36",
+      "name_english": "Sing city",
+      "name_malayalam": "സൈൻ സിറ്റി ",
+      "place": "കോളേജ് പടി, ഈരാറ്റുപേട്ട",
+      "phone": "9447119878",
+      "created_at": "2018-09-07 18:00:13",
+      "updated_at": "2018-09-07 18:00:13"
+    },
+    {
+      "id": "208",
+      "category_id": "37",
+      "name_english": "Sj",
+      "name_malayalam": "എസ് ജെ ഫ്രൂട്\u200cസ്",
+      "place": "മസ്ജിദ് ലൈൻ, സെൻട്രൽ ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9847011744",
+      "created_at": "2018-09-08 08:08:12",
+      "updated_at": "2018-09-08 08:08:12"
+    },
+    {
+      "id": "152",
+      "category_id": "28",
+      "name_english": "Smart care",
+      "name_malayalam": "സ്മാർട്ട് കെയർ",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "04822273810",
+      "created_at": "2018-09-06 07:00:43",
+      "updated_at": "2018-09-06 07:00:43"
+    },
+    {
+      "id": "308",
+      "category_id": "28",
+      "name_english": "sogo solution",
+      "name_malayalam": "സോഗോ സൊലൂഷൻ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847018148",
+      "created_at": "2018-09-14 11:50:07",
+      "updated_at": "2018-09-14 11:50:07"
+    },
+    {
+      "id": "278",
+      "category_id": "50",
+      "name_english": "SOnia",
+      "name_malayalam": "സോണിയ ഫാൻസി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9496322295",
+      "created_at": "2018-09-12 08:35:11",
+      "updated_at": "2018-09-20 13:07:54"
+    },
+    {
+      "id": "49",
+      "category_id": "10",
+      "name_english": "spare lanf",
+      "name_malayalam": "സ്പെയര്\u200d ലാന്\u200dഡ്\u200c പാർട്\u200cസ് ",
+      "place": "തെക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9947123322",
+      "created_at": "2018-09-01 21:52:46",
+      "updated_at": "2018-09-17 16:34:37"
+    },
+    {
+      "id": "460",
+      "category_id": "17",
+      "name_english": "Sparrow",
+      "name_malayalam": "സ്പാരോ ലേഡീസ് ഫാഷൻ  ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947192524",
+      "created_at": "2018-09-19 05:09:05",
+      "updated_at": "2018-09-19 05:09:05"
+    },
+    {
+      "id": "457",
+      "category_id": "10",
+      "name_english": "SPEED AUTOMOBILES",
+      "name_malayalam": "സ്പീഡ് ഓട്ടോ മൊബൈൽ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9656852446",
+      "created_at": "2018-09-18 16:39:27",
+      "updated_at": "2018-09-18 16:39:27"
+    },
+    {
+      "id": "315",
+      "category_id": "56",
+      "name_english": "SRK",
+      "name_malayalam": "എസ് ആർ കെ മീഡിയ ഫാക്ടറി  ",
+      "place": "എം ഈ എസ് ജം. ഈരാറ്റുപേട്ട",
+      "phone": "9744157262",
+      "created_at": "2018-09-14 22:34:52",
+      "updated_at": "2018-09-14 22:34:52"
+    },
+    {
+      "id": "317",
+      "category_id": "59",
+      "name_english": "SRK media factory",
+      "name_malayalam": "എസ് ആർ കെ മീഡിയ ഫാക്ടറി  ",
+      "place": "എം ഈ എസ് ജം. ഈരാറ്റുപേട്ട",
+      "phone": "9744157262",
+      "created_at": "2018-09-14 22:37:31",
+      "updated_at": "2018-09-14 22:37:31"
+    },
+    {
+      "id": "489",
+      "category_id": "50",
+      "name_english": "ST MARY'S SHOPPING CENTRE ",
+      "name_malayalam": "സെന്റ് മേരിസ് ഷോപ്പിംഗ് സെന്റർ    ",
+      "place": "അരുവിത്തുറ,ഈരാറ്റുപേട്ട",
+      "phone": "9747137552",
+      "created_at": "2018-09-22 10:51:56",
+      "updated_at": "2018-09-22 10:51:56"
+    },
+    {
+      "id": "113",
+      "category_id": "13",
+      "name_english": "Star",
+      "name_malayalam": "സ്റ്റാർ ഓട്ടോ ഇലക്ട്രിക്കൽസ്",
+      "place": "എംഇഎസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9847046325",
+      "created_at": "2018-09-03 08:56:56",
+      "updated_at": "2018-09-03 08:56:56"
+    },
+    {
+      "id": "262",
+      "category_id": "47",
+      "name_english": "Star",
+      "name_malayalam": "സ്റ്റാർ ഹോം ",
+      "place": "ടി ബി റോഡ് ഈരാറ്റുപേട്ട",
+      "phone": "9447258345",
+      "created_at": "2018-09-11 15:50:17",
+      "updated_at": "2018-09-11 15:50:17"
+    },
+    {
+      "id": "386",
+      "category_id": "53",
+      "name_english": "star",
+      "name_malayalam": "സ്റ്റാർ മൊബൈൽസ്",
+      "place": "മാർക്കറ്റ് റോഡ്  ",
+      "phone": "9747330068",
+      "created_at": "2018-09-15 19:25:13",
+      "updated_at": "2018-09-15 19:25:13"
+    },
+    {
+      "id": "387",
+      "category_id": "53",
+      "name_english": "star",
+      "name_malayalam": "സ്റ്റാർ മൊബൈൽസ്",
+      "place": "മാർക്കറ്റ് റോഡ്  ",
+      "phone": "9747330068",
+      "created_at": "2018-09-15 19:25:14",
+      "updated_at": "2018-09-15 19:25:14"
+    },
+    {
+      "id": "388",
+      "category_id": "53",
+      "name_english": "star",
+      "name_malayalam": "സ്റ്റാർ മൊബൈൽസ്",
+      "place": "മാർക്കറ്റ് റോഡ്  ",
+      "phone": "9747330068",
+      "created_at": "2018-09-15 19:25:15",
+      "updated_at": "2018-09-15 19:25:15"
+    },
+    {
+      "id": "510",
+      "category_id": "7",
+      "name_english": "Star",
+      "name_malayalam": "സ്റ്റാർ സൗണ്ട്  മൊബൈൽ മോർച്ചറി ",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "964560 1990",
+      "created_at": "2018-09-27 18:57:30",
+      "updated_at": "2018-09-27 18:57:30"
+    },
+    {
+      "id": "507",
+      "category_id": "47",
+      "name_english": "Star sales",
+      "name_malayalam": "സ്റ്റാർ സെയിൽസ്, പാർട്സ് & സർവീസ് ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9744221106",
+      "created_at": "2018-09-26 16:47:19",
+      "updated_at": "2018-09-26 16:47:19"
+    },
+    {
+      "id": "33",
+      "category_id": "7",
+      "name_english": "Star sounds",
+      "name_malayalam": "സ്റ്റാർ സൗണ്ട്\u200cസ് -1",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "9447139648",
+      "created_at": "2018-08-28 08:21:13",
+      "updated_at": "2018-08-28 08:21:13"
+    },
+    {
+      "id": "34",
+      "category_id": "7",
+      "name_english": "Star sounds",
+      "name_malayalam": "സ്റ്റാർ സൗണ്ട്\u200cസ് -2",
+      "place": "പൂഞ്ഞാർ",
+      "phone": "9446982630",
+      "created_at": "2018-08-28 08:22:16",
+      "updated_at": "2018-08-28 08:22:16"
+    },
+    {
+      "id": "192",
+      "category_id": "36",
+      "name_english": "Sticker",
+      "name_malayalam": "സ്റ്റിക്കർ വേൾഡ്",
+      "place": "നിയർ എസ് ബി ടി എടിഎം. ഈരാറ്റുപേട്ട",
+      "phone": "04822276090",
+      "created_at": "2018-09-07 18:02:54",
+      "updated_at": "2018-09-07 18:02:54"
+    },
+    {
+      "id": "286",
+      "category_id": "52",
+      "name_english": "Sunil",
+      "name_malayalam": "സുനിൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447122254",
+      "created_at": "2018-09-14 07:12:47",
+      "updated_at": "2018-09-14 07:12:47"
+    },
+    {
+      "id": "370",
+      "category_id": "60",
+      "name_english": "sunny",
+      "name_malayalam": "സണ്ണി മെഡിക്കല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822275021",
+      "created_at": "2018-09-15 19:01:55",
+      "updated_at": "2018-09-15 19:01:55"
+    },
+    {
+      "id": "240",
+      "category_id": "44",
+      "name_english": "Suprim",
+      "name_malayalam": "സുപ്രീം ഗോൾഡ്\u200c കവറിങ്",
+      "place": "കോസ്\u200cവേ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9947131667",
+      "created_at": "2018-09-11 07:48:40",
+      "updated_at": "2018-09-22 10:11:27"
+    },
+    {
+      "id": "296",
+      "category_id": "53",
+      "name_english": "surya mobiles",
+      "name_malayalam": "സൂര്യ മൊബൈൽസ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "8086562001",
+      "created_at": "2018-09-14 09:31:43",
+      "updated_at": "2018-09-14 09:31:43"
+    },
+    {
+      "id": "6",
+      "category_id": "2",
+      "name_english": "swadh",
+      "name_malayalam": "സ്വാദ്",
+      "place": "ഇളപ്പുങ്കൽ ",
+      "phone": "8606345927",
+      "created_at": "2018-08-05 21:07:30",
+      "updated_at": "2018-08-05 21:07:30"
+    },
+    {
+      "id": "445",
+      "category_id": "1",
+      "name_english": "T S M metalas  ",
+      "name_malayalam": "ടി എസ് എം മെറ്റൽസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8086222891 ",
+      "created_at": "2018-09-17 17:57:21",
+      "updated_at": "2018-09-17 17:57:21"
+    },
+    {
+      "id": "455",
+      "category_id": "36",
+      "name_english": "TAPI SIGNS ",
+      "name_malayalam": "താപി സൈന്\u200dസ്",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9847790474",
+      "created_at": "2018-09-18 16:06:43",
+      "updated_at": "2018-09-18 16:06:43"
+    },
+    {
+      "id": "143",
+      "category_id": "26",
+      "name_english": "Tea ",
+      "name_malayalam": "ടീ മർച്ചന്റ്",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9447333589",
+      "created_at": "2018-09-05 16:31:04",
+      "updated_at": "2018-09-05 16:31:04"
+    },
+    {
+      "id": "340",
+      "category_id": "32",
+      "name_english": "tech light",
+      "name_malayalam": "ടെക്-ലൈറ്റ് ഇലക്ട്രിക്കൽസ്",
+      "place": "നടയ്ക്കൽ ",
+      "phone": "9447139608",
+      "created_at": "2018-09-15 15:21:37",
+      "updated_at": "2018-09-15 19:43:36"
+    },
+    {
+      "id": "242",
+      "category_id": "44",
+      "name_english": "Thadathil",
+      "name_malayalam": "തടത്തിൽ സിൽവർ ജൂവലറി",
+      "place": "നിയർ പി ബി സ്റ്റാൻഡ്, മാർക്കറ്റ് റോഡ്",
+      "phone": "9847687789",
+      "created_at": "2018-09-11 07:51:50",
+      "updated_at": "2018-09-11 07:51:50"
+    },
+    {
+      "id": "271",
+      "category_id": "49",
+      "name_english": "Thadathil",
+      "name_malayalam": "തടത്തിൽ ജൂവലറി",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822273316",
+      "created_at": "2018-09-12 08:18:29",
+      "updated_at": "2018-09-12 08:18:29"
+    },
+    {
+      "id": "228",
+      "category_id": "41",
+      "name_english": "Thaha",
+      "name_malayalam": "താഹാ സ്റ്റോർസ്",
+      "place": "മറ്റക്കാട്",
+      "phone": "9961466181",
+      "created_at": "2018-09-08 14:04:12",
+      "updated_at": "2018-09-08 14:04:12"
+    },
+    {
+      "id": "138",
+      "category_id": "24",
+      "name_english": "Thalapalil",
+      "name_malayalam": "തലപള്ളിൽ ചിക്കൻ സെന്റർ",
+      "place": "നടക്കൽ,ഈരാറ്റുപേട്ട",
+      "phone": "9947050312",
+      "created_at": "2018-09-05 16:20:57",
+      "updated_at": "2018-09-15 18:20:01"
+    },
+    {
+      "id": "241",
+      "category_id": "44",
+      "name_english": "Thanima",
+      "name_malayalam": "തനിമ ഗോൾഡ്\u200c കവറിങ്",
+      "place": "മസ്ജിദ് ലൈൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9446757440",
+      "created_at": "2018-09-11 07:49:41",
+      "updated_at": "2018-09-11 07:49:41"
+    },
+    {
+      "id": "79",
+      "category_id": "16",
+      "name_english": "Tharaka",
+      "name_malayalam": "താരക ടെക്സ്റ്റൈൽസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822275863",
+      "created_at": "2018-09-02 22:19:02",
+      "updated_at": "2018-09-02 22:19:02"
+    },
+    {
+      "id": "187",
+      "category_id": "35",
+      "name_english": "Thekkedath",
+      "name_malayalam": "തെക്കേടത്ത് ഉണക്ക മീൻ",
+      "place": "മാർക്കറ്റ് റോഡ്, ഈരാറ്റുപേട്ട ",
+      "phone": "9544381206",
+      "created_at": "2018-09-07 17:51:15",
+      "updated_at": "2018-09-07 17:51:15"
+    },
+    {
+      "id": "441",
+      "category_id": "41",
+      "name_english": "thekkekra",
+      "name_malayalam": "തെക്കേക്കര സ്റ്റോഴ്സ്",
+      "place": "തെക്കേക്കര   ",
+      "phone": "9447297834",
+      "created_at": "2018-09-17 17:24:31",
+      "updated_at": "2018-09-17 17:24:31"
+    },
+    {
+      "id": "183",
+      "category_id": "33",
+      "name_english": "Thodupuzha",
+      "name_malayalam": "തൊടുപുഴ അലുമിനിയം ഫാർബ്രിക്കേഷൻ",
+      "place": "ചെന്നാട് ജങ്ഷൻ , തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9562112181",
+      "created_at": "2018-09-07 17:47:09",
+      "updated_at": "2018-09-07 17:47:09"
+    },
+    {
+      "id": "236",
+      "category_id": "43",
+      "name_english": "Thurathi",
+      "name_malayalam": "തുരുത്തിപാറയിൽ ഗ്ലാസ് ഹൗസ് ",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9744022679",
+      "created_at": "2018-09-11 07:37:19",
+      "updated_at": "2018-09-11 07:37:19"
+    },
+    {
+      "id": "452",
+      "category_id": "8",
+      "name_english": "THURUTHIYIL AGRI MARKET",
+      "name_malayalam": "തുരുത്തിയില്\u200d അഗ്രി മാര്\u200dക്കറ്റ്\u200c",
+      "place": "തെക്കേക്കര",
+      "phone": "9544203030",
+      "created_at": "2018-09-18 15:32:40",
+      "updated_at": "2018-09-18 15:32:40"
+    },
+    {
+      "id": "337",
+      "category_id": "12",
+      "name_english": "thushar",
+      "name_malayalam": "തുഷാർ ബേക്കറി",
+      "place": "നടയ്ക്കൽ ",
+      "phone": "9447764639",
+      "created_at": "2018-09-15 15:19:46",
+      "updated_at": "2018-09-15 15:19:46"
+    },
+    {
+      "id": "357",
+      "category_id": "53",
+      "name_english": "thushar mobiles",
+      "name_malayalam": "തുഷാര്\u200d മൊബൈല്\u200dസ് ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9746414545",
+      "created_at": "2018-09-15 17:49:29",
+      "updated_at": "2018-09-15 17:49:29"
+    },
+    {
+      "id": "379",
+      "category_id": "63",
+      "name_english": "toms",
+      "name_malayalam": "ടോംസ് സ്റ്റുഡിയോ & കളര്\u200d ലാബ്\u200c ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822275739",
+      "created_at": "2018-09-15 19:18:13",
+      "updated_at": "2018-09-15 19:18:13"
+    },
+    {
+      "id": "87",
+      "category_id": "18",
+      "name_english": "Townies",
+      "name_malayalam": "ടൗണീസ് മെൻസ് വെയർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9847334753",
+      "created_at": "2018-09-02 22:37:17",
+      "updated_at": "2018-09-02 22:37:17"
+    },
+    {
+      "id": "109",
+      "category_id": "12",
+      "name_english": "Townies",
+      "name_malayalam": "ടൗണിസ് ബേക്കറി & ഫുഡ് കോർട്",
+      "place": "നിയർ സിസിഎം പമ്പ്, തെക്കേക്കര, ഈരാറ്റുപേട്ട",
+      "phone": "9567022488",
+      "created_at": "2018-09-03 08:50:18",
+      "updated_at": "2018-09-03 08:50:18"
+    },
+    {
+      "id": "282",
+      "category_id": "51",
+      "name_english": "Udhaya",
+      "name_malayalam": "ഉദയ ലൈറ്റ്സ്സ് & സൗണ്ട്",
+      "place": "സെൻട്രൽ ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9847333473",
+      "created_at": "2018-09-12 09:32:21",
+      "updated_at": "2018-09-12 09:32:21"
+    },
+    {
+      "id": "384",
+      "category_id": "6",
+      "name_english": "unais",
+      "name_malayalam": "ഉനൈസ് ഫര്\u200dണിച്ചര്\u200d ",
+      "place": "നടക്കല്\u200d",
+      "phone": "9447208159",
+      "created_at": "2018-09-15 19:22:53",
+      "updated_at": "2018-09-15 19:22:53"
+    },
+    {
+      "id": "385",
+      "category_id": "6",
+      "name_english": "unais",
+      "name_malayalam": "ഉനൈസ് ഫര്\u200dണിച്ചര്\u200d ",
+      "place": "നടക്കല്\u200d",
+      "phone": "9447208159",
+      "created_at": "2018-09-15 19:22:59",
+      "updated_at": "2018-09-15 19:22:59"
+    },
+    {
+      "id": "161",
+      "category_id": "30",
+      "name_english": "Upasana",
+      "name_malayalam": "ഉപാസന കുൾബാർ ",
+      "place": "പി ബി സ്റ്റാൻഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9947400043",
+      "created_at": "2018-09-06 07:32:36",
+      "updated_at": "2018-09-06 07:32:36"
+    },
+    {
+      "id": "500",
+      "category_id": "47",
+      "name_english": "UTeck Systems Aouto matic water level controlar ",
+      "name_malayalam": "യു ടെക് സിസ്ടംസ് ഓട്ടോ മാറ്റിക്ക് വാട്ടര്\u200d ലെവല്\u200d ",
+      "place": "പുത്തന്\u200dപള്ളിക്ക് എതിര്\u200d വശം പൂഞ്ഞാര്\u200d റോഡ്\u200c ,ഈരാറ",
+      "phone": "9497321675",
+      "created_at": "2018-09-24 08:40:45",
+      "updated_at": "2018-09-24 08:40:45"
+    },
+    {
+      "id": "398",
+      "category_id": "1",
+      "name_english": "v scarp",
+      "name_malayalam": "വി  സ്ക്രാപ്പ്",
+      "place": "എം ഈ എസ് ജങ്ഷൻ , ഈരാറ്റുപേട്ട",
+      "phone": "9605771212",
+      "created_at": "2018-09-15 20:00:54",
+      "updated_at": "2018-09-17 12:48:23"
+    },
+    {
+      "id": "30",
+      "category_id": "6",
+      "name_english": "Vadayar furniture",
+      "name_malayalam": "വടയാർ ഫർണിച്ചർ",
+      "place": "നടക്കൽ",
+      "phone": "9847321083",
+      "created_at": "2018-08-11 07:02:47",
+      "updated_at": "2018-08-11 07:02:47"
+    },
+    {
+      "id": "499",
+      "category_id": "23",
+      "name_english": "valathth sani ",
+      "name_malayalam": "വല്ലത്ത് സാനിവെയർസ് ",
+      "place": "തൊടുപുഴ റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "04822272064",
+      "created_at": "2018-09-24 08:01:00",
+      "updated_at": "2018-09-24 08:01:00"
+    },
+    {
+      "id": "129",
+      "category_id": "23",
+      "name_english": "Valayangattu",
+      "name_malayalam": "വയലങ്ങാട്ട് ഏജന്സിസ്",
+      "place": "പിബി റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "04822272095",
+      "created_at": "2018-09-04 08:57:03",
+      "updated_at": "2018-09-04 08:57:03"
+    },
+    {
+      "id": "177",
+      "category_id": "32",
+      "name_english": "Valiyavettil",
+      "name_malayalam": "വലിയവീട്ടിൽ ഇലക്ട്രിക്കൽസ്",
+      "place": "മുട്ടം ജങ്ഷൻ, ഈരാറ്റുപേട്ട",
+      "phone": "9744994485",
+      "created_at": "2018-09-07 11:39:05",
+      "updated_at": "2018-09-07 11:39:05"
+    },
+    {
+      "id": "104",
+      "category_id": "10",
+      "name_english": "Valiyavittil",
+      "name_malayalam": "വലിയവീട്ടിൽ ഓട്ടോ മൊബൈൽസ്",
+      "place": "വടക്കേക്കര, ഈരാറ്റുപേട്ട ",
+      "phone": "9961401990",
+      "created_at": "2018-09-03 08:31:30",
+      "updated_at": "2018-09-03 08:31:30"
+    },
+    {
+      "id": "128",
+      "category_id": "23",
+      "name_english": "Vallatha",
+      "name_malayalam": "വല്ലത്ത് ട്രേഡേഴ്\u200cസ്",
+      "place": "കോസ്\u200cവേ റോഡ്, തൊട്ടുമുക്ക്, നടക്കൽ",
+      "phone": "9961312258",
+      "created_at": "2018-09-04 08:55:35",
+      "updated_at": "2018-09-04 08:55:35"
+    },
+    {
+      "id": "506",
+      "category_id": "45",
+      "name_english": "valthth",
+      "name_malayalam": "വല്ലത്ത് ട്രേ ഡേയ്സ്  (സക്കീർ വല്ലത്ത് )",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "94471 274 25",
+      "created_at": "2018-09-25 17:12:44",
+      "updated_at": "2018-09-25 17:12:44"
+    },
+    {
+      "id": "243",
+      "category_id": "44",
+      "name_english": "Vanitha",
+      "name_malayalam": "വനിതാ ഗോൾഡ്\u200c കവറിങ് & ലേഡീസ് ഏജന്സിസ്",
+      "place": "പി ബി സ്റ്റാൻഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9447335218",
+      "created_at": "2018-09-11 07:52:58",
+      "updated_at": "2018-09-11 07:52:58"
+    },
+    {
+      "id": "98",
+      "category_id": "20",
+      "name_english": "Varikkanikkal",
+      "name_malayalam": "വരിക്കാനിക്കൽ ഏജൻസീസ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447415330",
+      "created_at": "2018-09-03 06:42:29",
+      "updated_at": "2018-09-03 06:42:29"
+    },
+    {
+      "id": "293",
+      "category_id": "53",
+      "name_english": "veliyath",
+      "name_malayalam": "വെളിയത്ത് മൊബൈൽസ്  ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9961514181",
+      "created_at": "2018-09-14 09:24:02",
+      "updated_at": "2018-09-14 09:24:02"
+    },
+    {
+      "id": "391",
+      "category_id": "6",
+      "name_english": "veliyath",
+      "name_malayalam": "വെളിയത്ത് ഫർണിച്ചർ   ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447515850",
+      "created_at": "2018-09-15 19:36:13",
+      "updated_at": "2018-09-15 19:36:13"
+    },
+    {
+      "id": "392",
+      "category_id": "2",
+      "name_english": "veliyath ",
+      "name_malayalam": "വെളിയത്ത് ഫാസ്റ് ഫുഡ്\u200c   ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9446822565  ",
+      "created_at": "2018-09-15 19:36:53",
+      "updated_at": "2018-09-15 19:36:53"
+    },
+    {
+      "id": "148",
+      "category_id": "27",
+      "name_english": "VEllooparabhil",
+      "name_malayalam": "വെള്ളുപറബിൽ കയർ കട",
+      "place": "കുരിക്കൽ നഗർ, ഈരാറ്റുപേട്ട",
+      "phone": "04822277265",
+      "created_at": "2018-09-05 17:09:29",
+      "updated_at": "2018-09-05 17:09:29"
+    },
+    {
+      "id": "31",
+      "category_id": "6",
+      "name_english": "Verity furniture",
+      "name_malayalam": "വെറൈറ്റി ഫർണിച്ചർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8606278519",
+      "created_at": "2018-08-11 07:03:52",
+      "updated_at": "2018-08-11 07:03:52"
+    },
+    {
+      "id": "144",
+      "category_id": "26",
+      "name_english": "Vijaya",
+      "name_malayalam": "വിജയ distributors",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822273282",
+      "created_at": "2018-09-05 16:34:11",
+      "updated_at": "2018-09-05 16:34:11"
+    },
+    {
+      "id": "21",
+      "category_id": "2",
+      "name_english": "Vinyka hotel",
+      "name_malayalam": "വിനായക ഹോട്ടൽ",
+      "place": "വട്ടക്കയം",
+      "phone": "9037148014",
+      "created_at": "2018-08-11 06:47:05",
+      "updated_at": "2018-08-11 06:47:05"
+    },
+    {
+      "id": "244",
+      "category_id": "44",
+      "name_english": "Vishmaya",
+      "name_malayalam": "വിസ്മയ ഗോൾഡ്\u200c കവറിങ് ",
+      "place": "പി ബി സ്റ്റാൻഡ് , ഈരാറ്റുപേട്ട",
+      "phone": "9744043075",
+      "created_at": "2018-09-11 07:54:15",
+      "updated_at": "2018-09-11 07:54:15"
+    },
+    {
+      "id": "22",
+      "category_id": "2",
+      "name_english": "Vrindavan hotel",
+      "name_malayalam": "വൃന്ദാവൻ ഹോട്ടൽ",
+      "place": "അരുവിത്തുറ",
+      "phone": "9961514747",
+      "created_at": "2018-08-11 06:48:22",
+      "updated_at": "2018-08-11 06:48:22"
+    },
+    {
+      "id": "209",
+      "category_id": "38",
+      "name_english": "Vsa",
+      "name_malayalam": "വി എസ് എ ഫ്രൂട്\u200cസ് സ്റ്റാൾ & ബനാന വ്യപരം ",
+      "place": "അൽ - മദീന ഷോപ്പിങ് കോംപ്ലസ്\u200c, ഈരാറ്റുപേട്ട",
+      "phone": "9446920857",
+      "created_at": "2018-09-08 08:10:28",
+      "updated_at": "2018-09-08 08:10:28"
+    },
+    {
+      "id": "410",
+      "category_id": "31",
+      "name_english": "Washing Done ????????",
+      "name_malayalam": "വാഷിംഗ്\u200c ഡണ്\u200d ",
+      "place": "നടക്കല്\u200d",
+      "phone": "9747202755",
+      "created_at": "2018-09-15 22:04:21",
+      "updated_at": "2018-09-15 22:04:21"
+    },
+    {
+      "id": "504",
+      "category_id": "46",
+      "name_english": "well celaning pumps RHM",
+      "name_malayalam": " RHM (കിണർ ക്ലീനിങ്ങിനാവശ്യമായ  പമ്പ് സെറ്റുകൾ)",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9947804649",
+      "created_at": "2018-09-25 14:55:18",
+      "updated_at": "2018-09-25 14:55:18"
+    },
+    {
+      "id": "165",
+      "category_id": "31",
+      "name_english": "White house",
+      "name_malayalam": "വൈറ്റ് ഹസ് ഡ്രസ് ക്ലിനിങ് ",
+      "place": "പി ബി റോഡ് , ഈരാറ്റുപേട്ട ",
+      "phone": "9847039160",
+      "created_at": "2018-09-06 10:44:39",
+      "updated_at": "2018-09-06 10:44:39"
+    },
+    {
+      "id": "380",
+      "category_id": "63",
+      "name_english": "will wall",
+      "name_malayalam": "വില്\u200dവാള്\u200d സ്റ്റുഡിയോ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822275255",
+      "created_at": "2018-09-15 19:19:29",
+      "updated_at": "2018-09-15 19:19:29"
+    },
+    {
+      "id": "110",
+      "category_id": "12",
+      "name_english": "Winner",
+      "name_malayalam": "വിന്നർ ബേക്കേഴ്\u200cസ് & കഫേ",
+      "place": "പൂഞ്ഞാർ റോഡ്, ഈരാറ്റുപേട്ട",
+      "phone": "9656144334",
+      "created_at": "2018-09-03 08:51:37",
+      "updated_at": "2018-09-07 15:18:08"
+    },
+    {
+      "id": "23",
+      "category_id": "2",
+      "name_english": "Winner hotel",
+      "name_malayalam": "വിന്നർ ഹോട്ടൽ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "04822277690",
+      "created_at": "2018-08-11 06:49:48",
+      "updated_at": "2018-08-11 06:49:48"
+    },
+    {
+      "id": "9",
+      "category_id": "6",
+      "name_english": "Wood land",
+      "name_malayalam": "വുഡ്ലാൻഡ്",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "8943123456",
+      "created_at": "2018-08-09 06:44:48",
+      "updated_at": "2018-08-09 06:44:48"
+    },
+    {
+      "id": "32",
+      "category_id": "6",
+      "name_english": "Woodland furniture",
+      "name_malayalam": "വുഡ്ലാന്റ് ഫർണിച്ചർ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9961311235",
+      "created_at": "2018-08-11 07:04:49",
+      "updated_at": "2018-08-11 07:04:49"
+    },
+    {
+      "id": "433",
+      "category_id": "6",
+      "name_english": "WOODSIA ",
+      "name_malayalam": "വുഡ്സിയ ഫർണിച്ചർ",
+      "place": "NEAR MUHYIDHEEN MASJID, ERATTUPETTA",
+      "phone": "9947086781",
+      "created_at": "2018-09-17 12:49:47",
+      "updated_at": "2018-09-17 12:49:47"
+    },
+    {
+      "id": "540",
+      "category_id": "40",
+      "name_english": "Xelent printing centre  ",
+      "name_malayalam": "എക്സലന്റ് പ്രിന്റിങ് സെന്റർ   ",
+      "place": "ബസ്റ്റാന്ഡിന് എതിർ വശം ,ഈരാറ്റുപേട്ട ",
+      "phone": "9048552211 ",
+      "created_at": "2018-12-12 16:25:06",
+      "updated_at": "2018-12-12 16:25:06"
+    },
+    {
+      "id": "381",
+      "category_id": "63",
+      "name_english": "yamaha ",
+      "name_malayalam": "യമഹ ഡിജിറ്റല്\u200d സ്റ്റുഡിയോ ",
+      "place": "ഈരാറ്റുപേട്ട",
+      "phone": "9447599634",
+      "created_at": "2018-09-15 19:20:12",
+      "updated_at": "2018-09-15 19:20:12"
+    },
+    {
+      "id": "459",
+      "category_id": "17",
+      "name_english": "Yuvathees",
+      "name_malayalam": "യുവതീസ് ഡിസൈനർ ബോട്ടിക്ക് ",
+      "place": "പുളിക്കൻസ് മാൾ  ഈരാറ്റുപേട്ട ",
+      "phone": "9895678220",
+      "created_at": "2018-09-18 16:53:58",
+      "updated_at": "2018-09-18 16:53:58"
+    },
+    {
+      "id": "389",
+      "category_id": "53",
+      "name_english": "z mobile",
+      "name_malayalam": " Z മൊബൈല്\u200dസ് ",
+      "place": "തെക്കേക്കര ",
+      "phone": "9847506540",
+      "created_at": "2018-09-15 19:27:08",
+      "updated_at": "2018-09-15 19:27:08"
+    },
+    {
+      "id": "526",
+      "category_id": "12",
+      "name_english": "Zain Fresh ??????????? ???? ????????? ",
+      "name_malayalam": "സെയ്ൻ ഫ്രഷ്\u200c സ്വീറ്റ്\u200cസ് & സ്നാക്\u200cസ് ",
+      "place": "നടയ്ക്കൽ",
+      "phone": "9656567366",
+      "created_at": "2018-10-24 20:27:30",
+      "updated_at": "2018-10-24 20:27:30"
+    },
+    {
+      "id": "347",
+      "category_id": "61",
+      "name_english": "zamzam",
+      "name_malayalam": "സംസം കോക്കനട്ട് ഓയില്\u200d ",
+      "place": "ഈരാറ്റുപേട്ട ",
+      "phone": "9745154815",
+      "created_at": "2018-09-15 17:17:09",
+      "updated_at": "2018-09-15 17:17:09"
+    },
+    {
+      "id": "396",
+      "category_id": "30",
+      "name_english": "zamzam",
+      "name_malayalam": "സംസം കൂള്\u200dബാര്\u200d ",
+      "place": "തെക്കേക്കര ",
+      "phone": "9447777239",
+      "created_at": "2018-09-15 19:53:08",
+      "updated_at": "2018-09-16 07:34:07"
+    },
+    {
+      "id": "335",
+      "category_id": "41",
+      "name_english": "zamzam cocunetoil",
+      "name_malayalam": "സംസം കോക്കനട്ട് ഓയിൽ  ചക്കിലാട്ടിയ വെളിച്ചെണ്ണ",
+      "place": "എംഇഎസ് കവല  ഈരാറ്റുപേട്ട",
+      "phone": "9745154815",
+      "created_at": "2018-09-15 15:04:10",
+      "updated_at": "2018-09-15 15:04:10"
+    }
+  ]
+}
